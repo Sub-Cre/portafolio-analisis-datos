@@ -1,0 +1,16 @@
+{
+  "ventas_totales": 8738775.07,
+  "ganancia_total": 2238194.55,
+  "margen_pct": 25.6,
+  "transacciones": 21680,
+  "ticket_promedio": 403.08,
+  "categoria_top": "Tecnologia",
+  "categoria_top_share_pct": 55.1,
+  "categoria_mayor_margen": "Moda",
+  "categoria_mayor_margen_pct": 43.6,
+  "region_margen_mas_bajo": "Occidente",
+  "brecha_margen_pp": 6.0,
+  "mejor_mes": "Jul",
+  "peor_mes": "Ene",
+  "nov_dic_share_pct": 18.7
+}

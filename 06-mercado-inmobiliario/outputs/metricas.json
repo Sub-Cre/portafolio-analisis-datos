@@ -1,0 +1,14 @@
+{
+  "publicaciones": 1694,
+  "precio_m2_mediano": 1247.0,
+  "variacion_anual_pct": 5.1,
+  "ticket_mediano": 128000.0,
+  "dias_promedio": 48.9,
+  "descuento_periferia_pct": 37.5,
+  "prima_departamento_pct": 4.4,
+  "zonas_venta_rapida": [
+    "Zona Norte",
+    "Centro"
+  ],
+  "dias_periferia": 62.6
+}

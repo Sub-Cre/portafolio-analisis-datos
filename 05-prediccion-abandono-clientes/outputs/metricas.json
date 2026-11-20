@@ -1,0 +1,40 @@
+{
+  "clientes": 7000,
+  "tasa_abandono_pct": 33.3,
+  "modelo_elegido": "Regresión logística",
+  "modelos": {
+    "Regresión logística": {
+      "auc_cv": 0.807,
+      "auc_cv_std": 0.018,
+      "auc_test": 0.82,
+      "captura_top20_pct": 42.1
+    },
+    "Random Forest": {
+      "auc_cv": 0.795,
+      "auc_cv_std": 0.016,
+      "auc_test": 0.808,
+      "captura_top20_pct": 40.4
+    }
+  },
+  "abandono_por_contrato_pct": {
+    "Mensual": 50.0,
+    "Anual": 14.8,
+    "Bianual": 7.4
+  },
+  "abandono_por_pago_pct": {
+    "Débito automático": 27.0,
+    "Efectivo": 43.2,
+    "Transferencia": 33.5
+  },
+  "abandono_usa_app_pct": 28.2,
+  "abandono_no_usa_app_pct": 39.3,
+  "top_factores": {
+    "Tipo de contrato": 0.1459,
+    "Antigüedad": 0.0588,
+    "Tickets de soporte": 0.0252,
+    "Pagos atrasados": 0.0206,
+    "Usa la app": 0.0194
+  },
+  "clientes_alto_riesgo_test": 276,
+  "clientes_test": 1750
+}

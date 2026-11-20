@@ -1,0 +1,1303 @@
+fecha,tipo,cuenta,monto
+2025-01-01,Gasto,Software y servicios,719.54
+2025-01-01,Ingreso,Otros ingresos,191.74
+2025-01-02,Gasto,Logistica,519.06
+2025-01-02,Gasto,Logistica,564.11
+2025-01-02,Ingreso,Ventas de servicios,1606.62
+2025-01-03,Ingreso,Ventas de servicios,2857.94
+2025-01-03,Gasto,Sueldos,15051.83
+2025-01-03,Ingreso,Otros ingresos,176.07
+2025-01-03,Ingreso,Otros ingresos,92.4
+2025-01-03,Gasto,Software y servicios,633.58
+2025-01-03,Gasto,Impuestos,3037.79
+2025-01-03,Gasto,Marketing,908.38
+2025-01-03,Gasto,Marketing,1092.76
+2025-01-04,Gasto,Logistica,458.13
+2025-01-04,Ingreso,Ventas de productos,1502.33
+2025-01-04,Gasto,Otros gastos,229.46
+2025-01-05,Ingreso,Ventas de productos,1257.39
+2025-01-05,Ingreso,Otros ingresos,149.6
+2025-01-05,Gasto,Logistica,445.56
+2025-01-05,Gasto,Logistica,586.32
+2025-01-06,Gasto,Marketing,918.24
+2025-01-06,Ingreso,Otros ingresos,138.54
+2025-01-06,Ingreso,Ventas de productos,931.98
+2025-01-06,Ingreso,Ventas de productos,802.17
+2025-01-07,Ingreso,Ventas de productos,1503.82
+2025-01-07,Ingreso,Otros ingresos,135.25
+2025-01-07,Ingreso,Ventas de productos,942.44
+2025-01-07,Ingreso,Ventas de servicios,2317.81
+2025-01-07,Ingreso,Otros ingresos,96.66
+2025-01-08,Ingreso,Otros ingresos,168.84
+2025-01-08,Gasto,Otros gastos,228.62
+2025-01-08,Gasto,Marketing,1112.23
+2025-01-08,Gasto,Marketing,1056.53
+2025-01-08,Ingreso,Ventas de productos,1517.25
+2025-01-09,Ingreso,Otros ingresos,165.06
+2025-01-09,Gasto,Otros gastos,194.63
+2025-01-09,Ingreso,Ventas de productos,1186.75
+2025-01-09,Ingreso,Ventas de productos,1298.23
+2025-01-09,Gasto,Software y servicios,636.76
+2025-01-10,Ingreso,Ventas de servicios,3057.11
+2025-01-10,Gasto,Logistica,534.18
+2025-01-10,Gasto,Alquiler,3700.35
+2025-01-10,Gasto,Otros gastos,186.87
+2025-01-12,Gasto,Impuestos,3041.5
+2025-01-12,Ingreso,Ventas de productos,1819.13
+2025-01-12,Ingreso,Otros ingresos,138.28
+2025-01-13,Gasto,Otros gastos,202.93
+2025-01-13,Gasto,Logistica,532.65
+2025-01-13,Ingreso,Ventas de productos,1396.77
+2025-01-13,Ingreso,Ventas de servicios,2120.3
+2025-01-13,Ingreso,Ventas de servicios,1991.28
+2025-01-14,Ingreso,Otros ingresos,107.9
+2025-01-14,Ingreso,Ventas de servicios,2161.71
+2025-01-14,Ingreso,Otros ingresos,156.3
+2025-01-15,Gasto,Otros gastos,222.88
+2025-01-15,Gasto,Marketing,998.17
+2025-01-15,Ingreso,Ventas de productos,1386.67
+2025-01-15,Gasto,Otros gastos,214.18
+2025-01-15,Gasto,Otros gastos,192.56
+2025-01-15,Gasto,Otros gastos,207.16
+2025-01-16,Ingreso,Ventas de productos,1621.3
+2025-01-16,Ingreso,Ventas de productos,1466.65
+2025-01-16,Ingreso,Ventas de productos,1604.64
+2025-01-17,Gasto,Software y servicios,679.22
+2025-01-17,Gasto,Software y servicios,666.4
+2025-01-17,Ingreso,Ventas de productos,1116.31
+2025-01-18,Gasto,Logistica,493.46
+2025-01-18,Ingreso,Ventas de productos,1541.26
+2025-01-18,Ingreso,Ventas de servicios,2794.27
+2025-01-19,Ingreso,Ventas de productos,1583.2
+2025-01-19,Ingreso,Ventas de servicios,2919.28
+2025-01-19,Ingreso,Ventas de servicios,2679.37
+2025-01-19,Ingreso,Ventas de servicios,1499.82
+2025-01-19,Ingreso,Otros ingresos,143.04
+2025-01-20,Ingreso,Otros ingresos,144.92
+2025-01-20,Gasto,Marketing,960.19
+2025-01-20,Gasto,Marketing,962.06
+2025-01-20,Ingreso,Ventas de servicios,3065.86
+2025-01-21,Ingreso,Ventas de servicios,2112.24
+2025-01-21,Gasto,Software y servicios,692.8
+2025-01-21,Ingreso,Ventas de productos,1125.22
+2025-01-21,Ingreso,Ventas de servicios,2729.07
+2025-01-22,Ingreso,Ventas de productos,1291.71
+2025-01-22,Ingreso,Ventas de servicios,2979.05
+2025-01-22,Ingreso,Ventas de productos,1627.86
+2025-01-22,Ingreso,Otros ingresos,169.13
+2025-01-22,Ingreso,Otros ingresos,109.65
+2025-01-22,Gasto,Logistica,533.67
+2025-01-22,Ingreso,Ventas de servicios,1678.31
+2025-01-23,Ingreso,Ventas de servicios,1560.12
+2025-01-23,Ingreso,Ventas de productos,942.4
+2025-01-23,Gasto,Otros gastos,244.11
+2025-01-23,Ingreso,Ventas de productos,1646.75
+2025-01-23,Ingreso,Ventas de servicios,2454.76
+2025-01-23,Ingreso,Ventas de productos,1536.07
+2025-01-24,Ingreso,Ventas de productos,1293.34
+2025-01-24,Ingreso,Ventas de servicios,1445.88
+2025-01-25,Gasto,Alquiler,3444.71
+2025-01-25,Ingreso,Ventas de productos,1204.78
+2025-01-25,Ingreso,Otros ingresos,123.34
+2025-01-26,Gasto,Logistica,517.24
+2025-01-26,Gasto,Sueldos,16295.24
+2025-01-26,Gasto,Otros gastos,233.04
+2025-01-27,Ingreso,Otros ingresos,141.91
+2025-02-01,Ingreso,Ventas de productos,1268.49
+2025-02-01,Ingreso,Ventas de productos,1416.14
+2025-02-01,Ingreso,Ventas de productos,1686.23
+2025-02-01,Ingreso,Ventas de productos,932.17
+2025-02-02,Ingreso,Otros ingresos,113.27
+2025-02-02,Ingreso,Otros ingresos,164.69
+2025-02-03,Ingreso,Ventas de servicios,2987.85
+2025-02-03,Gasto,Marketing,858.49
+2025-02-03,Gasto,Marketing,1075.5
+2025-02-03,Gasto,Otros gastos,271.39
+2025-02-03,Ingreso,Ventas de productos,966.02
+2025-02-04,Ingreso,Ventas de servicios,1433.09
+2025-02-04,Ingreso,Ventas de servicios,2991.07
+2025-02-04,Gasto,Software y servicios,394.22
+2025-02-04,Ingreso,Ventas de productos,1820.16
+2025-02-04,Ingreso,Ventas de productos,1363.12
+2025-02-05,Ingreso,Otros ingresos,106.02
+2025-02-05,Ingreso,Ventas de servicios,1691.27
+2025-02-05,Ingreso,Ventas de productos,828.87
+2025-02-05,Gasto,Impuestos,2856.16
+2025-02-06,Ingreso,Otros ingresos,109.78
+2025-02-07,Ingreso,Ventas de productos,956.78
+2025-02-07,Gasto,Sueldos,15721.88
+2025-02-07,Gasto,Marketing,1092.78
+2025-02-07,Ingreso,Ventas de servicios,1588.42
+2025-02-07,Ingreso,Ventas de productos,1713.68
+2025-02-07,Gasto,Logistica,784.25
+2025-02-08,Ingreso,Ventas de servicios,2302.4
+2025-02-08,Ingreso,Otros ingresos,198.14
+2025-02-09,Gasto,Logistica,842.89
+2025-02-09,Ingreso,Ventas de productos,1532.96
+2025-02-09,Ingreso,Ventas de productos,1343.86
+2025-02-09,Ingreso,Ventas de servicios,1446.74
+2025-02-09,Ingreso,Otros ingresos,153.68
+2025-02-10,Gasto,Software y servicios,374.37
+2025-02-10,Gasto,Software y servicios,358.71
+2025-02-10,Ingreso,Ventas de servicios,2770.06
+2025-02-10,Ingreso,Otros ingresos,120.37
+2025-02-12,Gasto,Alquiler,2810.52
+2025-02-12,Gasto,Software y servicios,369.82
+2025-02-12,Gasto,Software y servicios,347.85
+2025-02-12,Ingreso,Ventas de productos,955.95
+2025-02-12,Ingreso,Otros ingresos,171.74
+2025-02-12,Ingreso,Otros ingresos,98.41
+2025-02-12,Ingreso,Ventas de servicios,3171.12
+2025-02-13,Gasto,Software y servicios,380.28
+2025-02-13,Ingreso,Otros ingresos,122.24
+2025-02-13,Gasto,Logistica,704.61
+2025-02-13,Gasto,Otros gastos,246.75
+2025-02-13,Ingreso,Ventas de servicios,2875.22
+2025-02-14,Ingreso,Ventas de productos,1817.17
+2025-02-14,Ingreso,Ventas de productos,1868.18
+2025-02-14,Ingreso,Ventas de productos,969.88
+2025-02-15,Ingreso,Ventas de servicios,1939.99
+2025-02-15,Ingreso,Otros ingresos,166.11
+2025-02-15,Gasto,Logistica,810.69
+2025-02-15,Gasto,Impuestos,3171.62
+2025-02-15,Ingreso,Ventas de servicios,2040.08
+2025-02-16,Ingreso,Otros ingresos,175.26
+2025-02-16,Ingreso,Otros ingresos,126.75
+2025-02-16,Gasto,Otros gastos,256.25
+2025-02-16,Ingreso,Ventas de productos,1030.51
+2025-02-17,Ingreso,Ventas de servicios,1561.09
+2025-02-17,Gasto,Marketing,1056.75
+2025-02-17,Gasto,Otros gastos,218.57
+2025-02-17,Gasto,Otros gastos,210.85
+2025-02-17,Ingreso,Otros ingresos,142.42
+2025-02-18,Gasto,Marketing,1056.61
+2025-02-18,Ingreso,Ventas de servicios,3099.28
+2025-02-18,Gasto,Software y servicios,362.68
+2025-02-18,Ingreso,Ventas de servicios,2045.06
+2025-02-19,Gasto,Otros gastos,265.97
+2025-02-19,Gasto,Marketing,1099.27
+2025-02-19,Gasto,Software y servicios,376.56
+2025-02-20,Ingreso,Ventas de productos,1615.55
+2025-02-20,Ingreso,Ventas de servicios,2455.88
+2025-02-20,Ingreso,Otros ingresos,94.47
+2025-02-20,Ingreso,Ventas de servicios,1536.93
+2025-02-20,Ingreso,Ventas de productos,1826.08
+2025-02-21,Ingreso,Ventas de servicios,1842.68
+2025-02-21,Ingreso,Ventas de servicios,2986.24
+2025-02-21,Ingreso,Otros ingresos,191.9
+2025-02-21,Ingreso,Otros ingresos,198.17
+2025-02-21,Ingreso,Ventas de productos,1567.02
+2025-02-22,Gasto,Otros gastos,261.25
+2025-02-22,Ingreso,Ventas de productos,1320.86
+2025-02-22,Ingreso,Otros ingresos,199.06
+2025-02-22,Ingreso,Ventas de servicios,1942.19
+2025-02-23,Gasto,Logistica,776.86
+2025-02-23,Ingreso,Ventas de productos,1665.22
+2025-02-23,Ingreso,Otros ingresos,129.89
+2025-02-23,Ingreso,Ventas de productos,1501.61
+2025-02-23,Gasto,Marketing,843.95
+2025-02-23,Ingreso,Otros ingresos,140.09
+2025-02-23,Ingreso,Otros ingresos,97.2
+2025-02-24,Gasto,Logistica,835.64
+2025-02-24,Ingreso,Otros ingresos,104.77
+2025-02-24,Gasto,Software y servicios,385.65
+2025-02-24,Ingreso,Ventas de servicios,1722.51
+2025-02-25,Ingreso,Ventas de servicios,1783.99
+2025-02-25,Ingreso,Otros ingresos,114.11
+2025-02-25,Gasto,Alquiler,3126.77
+2025-02-25,Ingreso,Ventas de servicios,2877.63
+2025-02-25,Ingreso,Otros ingresos,109.5
+2025-02-25,Ingreso,Otros ingresos,112.15
+2025-02-26,Ingreso,Otros ingresos,137.71
+2025-02-26,Gasto,Otros gastos,213.89
+2025-02-26,Ingreso,Ventas de servicios,1664.59
+2025-02-26,Gasto,Otros gastos,261.66
+2025-02-26,Ingreso,Ventas de productos,1124.54
+2025-02-26,Gasto,Sueldos,17363.29
+2025-02-26,Ingreso,Ventas de servicios,3070.0
+2025-02-26,Gasto,Logistica,750.75
+2025-02-26,Gasto,Otros gastos,213.51
+2025-02-27,Ingreso,Ventas de productos,1460.46
+2025-02-27,Gasto,Marketing,1063.34
+2025-02-27,Ingreso,Ventas de productos,1245.12
+2025-02-27,Ingreso,Otros ingresos,120.87
+2025-02-27,Ingreso,Ventas de productos,1549.01
+2025-02-27,Ingreso,Ventas de servicios,1830.86
+2025-02-27,Ingreso,Ventas de servicios,1929.79
+2025-02-27,Gasto,Software y servicios,391.66
+2025-03-01,Ingreso,Ventas de productos,1486.58
+2025-03-01,Gasto,Marketing,1467.46
+2025-03-01,Ingreso,Ventas de productos,1100.64
+2025-03-02,Gasto,Logistica,485.78
+2025-03-02,Gasto,Logistica,519.09
+2025-03-02,Ingreso,Ventas de productos,1762.78
+2025-03-02,Ingreso,Ventas de productos,1506.21
+2025-03-02,Ingreso,Ventas de servicios,2497.01
+2025-03-02,Ingreso,Otros ingresos,100.9
+2025-03-02,Ingreso,Otros ingresos,186.2
+2025-03-02,Ingreso,Ventas de productos,1940.66
+2025-03-02,Ingreso,Otros ingresos,119.37
+2025-03-03,Ingreso,Ventas de productos,1942.96
+2025-03-03,Ingreso,Otros ingresos,173.08
+2025-03-03,Ingreso,Ventas de servicios,2545.62
+2025-03-03,Ingreso,Ventas de servicios,1672.87
+2025-03-04,Ingreso,Otros ingresos,212.71
+2025-03-04,Gasto,Marketing,1492.61
+2025-03-04,Ingreso,Ventas de productos,1572.59
+2025-03-04,Ingreso,Ventas de servicios,2982.33
+2025-03-04,Gasto,Sueldos,15868.19
+2025-03-04,Ingreso,Ventas de servicios,2111.75
+2025-03-04,Gasto,Logistica,453.24
+2025-03-04,Ingreso,Ventas de servicios,1615.7
+2025-03-04,Ingreso,Ventas de servicios,1716.67
+2025-03-05,Ingreso,Ventas de productos,839.16
+2025-03-05,Gasto,Impuestos,2879.71
+2025-03-05,Ingreso,Otros ingresos,216.97
+2025-03-06,Ingreso,Otros ingresos,128.02
+2025-03-06,Gasto,Marketing,1544.14
+2025-03-06,Ingreso,Ventas de servicios,2840.32
+2025-03-07,Gasto,Logistica,566.78
+2025-03-07,Ingreso,Ventas de productos,1776.68
+2025-03-07,Gasto,Otros gastos,430.12
+2025-03-07,Gasto,Marketing,1536.98
+2025-03-08,Ingreso,Ventas de productos,1844.69
+2025-03-09,Ingreso,Ventas de servicios,1691.18
+2025-03-09,Ingreso,Ventas de productos,1342.5
+2025-03-09,Gasto,Logistica,572.63
+2025-03-10,Gasto,Software y servicios,605.19
+2025-03-10,Ingreso,Ventas de servicios,3141.84
+2025-03-10,Gasto,Software y servicios,559.27
+2025-03-11,Ingreso,Otros ingresos,153.53
+2025-03-12,Ingreso,Ventas de productos,1168.52
+2025-03-12,Ingreso,Otros ingresos,131.86
+2025-03-12,Gasto,Alquiler,3358.21
+2025-03-12,Ingreso,Otros ingresos,175.49
+2025-03-12,Ingreso,Ventas de servicios,3169.89
+2025-03-13,Ingreso,Otros ingresos,165.85
+2025-03-13,Ingreso,Otros ingresos,199.16
+2025-03-13,Ingreso,Otros ingresos,204.95
+2025-03-14,Gasto,Logistica,494.12
+2025-03-14,Gasto,Otros gastos,460.55
+2025-03-14,Ingreso,Ventas de servicios,1560.93
+2025-03-14,Ingreso,Ventas de servicios,2514.74
+2025-03-14,Gasto,Logistica,523.16
+2025-03-14,Ingreso,Ventas de servicios,2886.76
+2025-03-14,Ingreso,Otros ingresos,187.52
+2025-03-15,Ingreso,Otros ingresos,183.1
+2025-03-15,Ingreso,Otros ingresos,151.57
+2025-03-15,Ingreso,Ventas de servicios,2820.94
+2025-03-15,Ingreso,Ventas de servicios,2076.11
+2025-03-15,Gasto,Software y servicios,545.68
+2025-03-15,Gasto,Software y servicios,578.2
+2025-03-16,Gasto,Software y servicios,581.87
+2025-03-16,Ingreso,Ventas de servicios,2464.13
+2025-03-16,Ingreso,Otros ingresos,181.83
+2025-03-16,Gasto,Software y servicios,590.91
+2025-03-17,Gasto,Otros gastos,425.23
+2025-03-17,Gasto,Alquiler,3059.59
+2025-03-17,Ingreso,Otros ingresos,99.37
+2025-03-18,Gasto,Software y servicios,526.42
+2025-03-18,Ingreso,Ventas de productos,873.3
+2025-03-18,Ingreso,Ventas de productos,968.56
+2025-03-18,Gasto,Marketing,1464.49
+2025-03-18,Ingreso,Ventas de servicios,2098.78
+2025-03-18,Ingreso,Ventas de productos,933.59
+2025-03-18,Ingreso,Ventas de servicios,2177.51
+2025-03-19,Ingreso,Otros ingresos,109.73
+2025-03-19,Ingreso,Ventas de productos,896.7
+2025-03-19,Ingreso,Ventas de servicios,2019.18
+2025-03-19,Ingreso,Otros ingresos,157.82
+2025-03-19,Ingreso,Ventas de productos,846.79
+2025-03-19,Ingreso,Ventas de servicios,2265.79
+2025-03-20,Gasto,Otros gastos,527.11
+2025-03-20,Ingreso,Ventas de productos,1337.8
+2025-03-20,Ingreso,Ventas de productos,1853.36
+2025-03-20,Ingreso,Ventas de servicios,2427.91
+2025-03-20,Gasto,Logistica,580.28
+2025-03-20,Ingreso,Otros ingresos,115.78
+2025-03-21,Ingreso,Ventas de servicios,1901.6
+2025-03-21,Ingreso,Ventas de productos,1053.3
+2025-03-21,Ingreso,Otros ingresos,105.57
+2025-03-22,Ingreso,Ventas de servicios,2290.73
+2025-03-22,Ingreso,Otros ingresos,173.88
+2025-03-22,Ingreso,Ventas de productos,955.97
+2025-03-22,Ingreso,Ventas de productos,1863.75
+2025-03-23,Ingreso,Ventas de productos,1690.81
+2025-03-23,Ingreso,Otros ingresos,113.53
+2025-03-23,Gasto,Logistica,585.68
+2025-03-23,Ingreso,Ventas de servicios,3132.7
+2025-03-23,Gasto,Logistica,573.35
+2025-03-23,Ingreso,Ventas de productos,1161.22
+2025-03-23,Gasto,Marketing,1463.12
+2025-03-23,Ingreso,Ventas de servicios,3071.46
+2025-03-24,Ingreso,Ventas de productos,1829.58
+2025-03-24,Ingreso,Ventas de productos,992.0
+2025-03-24,Ingreso,Ventas de productos,1148.5
+2025-03-24,Gasto,Otros gastos,461.61
+2025-03-25,Gasto,Impuestos,3272.06
+2025-03-25,Gasto,Marketing,1421.72
+2025-03-26,Ingreso,Ventas de servicios,1869.64
+2025-03-26,Ingreso,Otros ingresos,112.68
+2025-03-26,Ingreso,Ventas de servicios,2213.46
+2025-03-27,Ingreso,Ventas de productos,1723.44
+2025-03-27,Ingreso,Otros ingresos,170.76
+2025-03-27,Ingreso,Ventas de servicios,2734.93
+2025-03-27,Gasto,Sueldos,15058.01
+2025-04-01,Ingreso,Ventas de servicios,1828.6
+2025-04-01,Ingreso,Ventas de productos,1054.27
+2025-04-02,Ingreso,Ventas de servicios,2870.16
+2025-04-02,Ingreso,Otros ingresos,196.01
+2025-04-02,Ingreso,Otros ingresos,110.27
+2025-04-02,Gasto,Marketing,1025.54
+2025-04-02,Ingreso,Ventas de servicios,2129.0
+2025-04-03,Ingreso,Otros ingresos,207.49
+2025-04-03,Ingreso,Otros ingresos,220.71
+2025-04-04,Ingreso,Ventas de servicios,2741.15
+2025-04-04,Ingreso,Ventas de productos,1202.06
+2025-04-04,Gasto,Logistica,886.13
+2025-04-04,Gasto,Otros gastos,460.61
+2025-04-04,Ingreso,Otros ingresos,190.24
+2025-04-04,Ingreso,Ventas de productos,1519.86
+2025-04-05,Ingreso,Ventas de productos,1168.52
+2025-04-05,Ingreso,Ventas de servicios,1746.33
+2025-04-05,Ingreso,Ventas de servicios,3159.54
+2025-04-06,Gasto,Otros gastos,410.54
+2025-04-06,Ingreso,Otros ingresos,107.14
+2025-04-07,Gasto,Software y servicios,718.79
+2025-04-07,Ingreso,Ventas de servicios,1986.86
+2025-04-07,Ingreso,Otros ingresos,221.75
+2025-04-07,Ingreso,Ventas de servicios,3038.44
+2025-04-07,Gasto,Marketing,1155.03
+2025-04-08,Ingreso,Ventas de servicios,1590.38
+2025-04-08,Gasto,Marketing,1119.18
+2025-04-09,Ingreso,Otros ingresos,112.15
+2025-04-09,Ingreso,Ventas de productos,1812.39
+2025-04-09,Ingreso,Ventas de servicios,1717.28
+2025-04-10,Ingreso,Ventas de productos,1070.29
+2025-04-10,Ingreso,Ventas de productos,1820.96
+2025-04-10,Gasto,Logistica,923.25
+2025-04-10,Gasto,Otros gastos,479.56
+2025-04-10,Gasto,Otros gastos,417.67
+2025-04-10,Ingreso,Ventas de servicios,2651.96
+2025-04-11,Gasto,Otros gastos,539.8
+2025-04-11,Ingreso,Ventas de servicios,1582.63
+2025-04-11,Gasto,Software y servicios,606.09
+2025-04-12,Ingreso,Otros ingresos,198.11
+2025-04-12,Ingreso,Ventas de servicios,2324.85
+2025-04-13,Ingreso,Ventas de servicios,3328.02
+2025-04-13,Ingreso,Otros ingresos,214.92
+2025-04-13,Ingreso,Ventas de servicios,2431.17
+2025-04-13,Gasto,Software y servicios,667.61
+2025-04-14,Ingreso,Ventas de productos,1886.36
+2025-04-14,Ingreso,Ventas de productos,1726.17
+2025-04-15,Ingreso,Otros ingresos,180.19
+2025-04-15,Ingreso,Otros ingresos,199.18
+2025-04-15,Gasto,Logistica,842.73
+2025-04-15,Ingreso,Ventas de productos,971.83
+2025-04-15,Gasto,Logistica,946.6
+2025-04-16,Ingreso,Ventas de servicios,2645.67
+2025-04-16,Ingreso,Ventas de servicios,2370.54
+2025-04-17,Ingreso,Ventas de productos,860.81
+2025-04-17,Ingreso,Ventas de productos,880.72
+2025-04-17,Ingreso,Ventas de servicios,2884.6
+2025-04-17,Ingreso,Ventas de productos,1395.27
+2025-04-18,Ingreso,Otros ingresos,152.73
+2025-04-18,Ingreso,Ventas de servicios,1515.13
+2025-04-18,Ingreso,Ventas de servicios,2707.85
+2025-04-18,Ingreso,Ventas de productos,1718.0
+2025-04-19,Gasto,Logistica,758.72
+2025-04-19,Gasto,Marketing,1081.31
+2025-04-19,Gasto,Marketing,957.04
+2025-04-19,Ingreso,Ventas de productos,1572.88
+2025-04-19,Gasto,Impuestos,3137.12
+2025-04-20,Gasto,Sueldos,18395.98
+2025-04-20,Ingreso,Ventas de servicios,2169.48
+2025-04-20,Gasto,Alquiler,3543.35
+2025-04-20,Gasto,Alquiler,3606.32
+2025-04-21,Gasto,Sueldos,17894.06
+2025-04-21,Ingreso,Otros ingresos,140.72
+2025-04-21,Ingreso,Ventas de servicios,2022.9
+2025-04-22,Ingreso,Ventas de servicios,3029.83
+2025-04-22,Gasto,Software y servicios,620.37
+2025-04-22,Ingreso,Ventas de productos,1968.49
+2025-04-23,Ingreso,Otros ingresos,100.99
+2025-04-23,Ingreso,Ventas de servicios,2284.65
+2025-04-23,Ingreso,Ventas de productos,1419.49
+2025-04-23,Ingreso,Ventas de productos,1239.64
+2025-04-24,Ingreso,Ventas de servicios,2458.7
+2025-04-24,Gasto,Marketing,948.65
+2025-04-24,Ingreso,Otros ingresos,159.09
+2025-04-24,Gasto,Software y servicios,725.38
+2025-04-24,Gasto,Software y servicios,610.79
+2025-04-24,Gasto,Impuestos,3505.29
+2025-04-25,Ingreso,Ventas de productos,1569.55
+2025-04-25,Gasto,Marketing,1171.65
+2025-04-25,Ingreso,Ventas de servicios,3024.55
+2025-04-25,Ingreso,Ventas de productos,1671.69
+2025-04-26,Ingreso,Ventas de productos,1361.96
+2025-04-26,Ingreso,Otros ingresos,144.08
+2025-04-27,Ingreso,Otros ingresos,190.42
+2025-04-27,Ingreso,Otros ingresos,133.24
+2025-04-27,Ingreso,Otros ingresos,155.92
+2025-04-27,Ingreso,Ventas de servicios,2364.64
+2025-04-27,Ingreso,Ventas de productos,1305.52
+2025-04-27,Ingreso,Otros ingresos,196.61
+2025-04-27,Gasto,Logistica,813.72
+2025-04-27,Ingreso,Ventas de servicios,2490.05
+2025-04-27,Ingreso,Ventas de servicios,1699.98
+2025-05-01,Gasto,Logistica,668.66
+2025-05-01,Gasto,Software y servicios,497.43
+2025-05-01,Gasto,Marketing,1062.97
+2025-05-01,Ingreso,Otros ingresos,210.44
+2025-05-01,Ingreso,Otros ingresos,123.15
+2025-05-01,Ingreso,Ventas de servicios,3167.41
+2025-05-02,Ingreso,Ventas de productos,1400.95
+2025-05-02,Ingreso,Otros ingresos,116.58
+2025-05-03,Ingreso,Otros ingresos,130.15
+2025-05-03,Ingreso,Ventas de productos,919.63
+2025-05-03,Ingreso,Otros ingresos,179.83
+2025-05-03,Ingreso,Otros ingresos,219.03
+2025-05-04,Gasto,Marketing,1244.66
+2025-05-04,Gasto,Logistica,668.44
+2025-05-04,Gasto,Software y servicios,484.98
+2025-05-04,Gasto,Software y servicios,458.44
+2025-05-04,Gasto,Sueldos,18525.99
+2025-05-05,Ingreso,Ventas de productos,1525.4
+2025-05-05,Ingreso,Otros ingresos,199.89
+2025-05-05,Ingreso,Otros ingresos,102.54
+2025-05-05,Gasto,Logistica,673.75
+2025-05-05,Gasto,Marketing,1189.56
+2025-05-06,Gasto,Logistica,715.57
+2025-05-06,Gasto,Impuestos,3151.35
+2025-05-06,Ingreso,Ventas de productos,1223.03
+2025-05-07,Ingreso,Ventas de servicios,2096.92
+2025-05-07,Ingreso,Otros ingresos,219.03
+2025-05-07,Ingreso,Ventas de productos,1330.05
+2025-05-08,Gasto,Logistica,562.35
+2025-05-08,Ingreso,Otros ingresos,140.76
+2025-05-08,Gasto,Otros gastos,244.82
+2025-05-08,Ingreso,Ventas de productos,1462.62
+2025-05-08,Ingreso,Otros ingresos,210.72
+2025-05-08,Gasto,Logistica,681.91
+2025-05-08,Ingreso,Ventas de servicios,2557.4
+2025-05-09,Ingreso,Ventas de servicios,1933.18
+2025-05-09,Ingreso,Ventas de productos,931.12
+2025-05-09,Ingreso,Ventas de servicios,3235.18
+2025-05-09,Ingreso,Otros ingresos,220.55
+2025-05-09,Ingreso,Ventas de servicios,1765.61
+2025-05-09,Gasto,Marketing,1183.85
+2025-05-10,Gasto,Otros gastos,261.31
+2025-05-11,Gasto,Software y servicios,444.34
+2025-05-11,Ingreso,Ventas de servicios,3211.64
+2025-05-11,Ingreso,Ventas de productos,942.24
+2025-05-12,Ingreso,Ventas de servicios,3332.96
+2025-05-12,Gasto,Software y servicios,482.78
+2025-05-12,Ingreso,Ventas de productos,1002.16
+2025-05-12,Ingreso,Ventas de productos,873.81
+2025-05-12,Ingreso,Ventas de productos,990.33
+2025-05-12,Ingreso,Ventas de productos,913.54
+2025-05-13,Ingreso,Ventas de servicios,2131.92
+2025-05-13,Ingreso,Otros ingresos,179.7
+2025-05-13,Ingreso,Ventas de servicios,2699.85
+2025-05-13,Ingreso,Ventas de productos,1683.52
+2025-05-13,Gasto,Otros gastos,253.15
+2025-05-13,Ingreso,Otros ingresos,188.12
+2025-05-13,Ingreso,Otros ingresos,191.83
+2025-05-14,Gasto,Otros gastos,204.9
+2025-05-14,Gasto,Software y servicios,497.26
+2025-05-14,Ingreso,Otros ingresos,209.93
+2025-05-14,Ingreso,Ventas de productos,1259.1
+2025-05-14,Ingreso,Otros ingresos,104.81
+2025-05-14,Ingreso,Ventas de servicios,2928.83
+2025-05-15,Ingreso,Ventas de servicios,2910.02
+2025-05-15,Ingreso,Ventas de servicios,2017.35
+2025-05-15,Gasto,Otros gastos,233.37
+2025-05-15,Gasto,Impuestos,2954.99
+2025-05-15,Ingreso,Ventas de productos,1373.29
+2025-05-16,Ingreso,Ventas de servicios,3006.85
+2025-05-16,Ingreso,Ventas de productos,1157.93
+2025-05-16,Ingreso,Otros ingresos,175.9
+2025-05-17,Gasto,Alquiler,2973.45
+2025-05-17,Ingreso,Ventas de servicios,2614.45
+2025-05-17,Ingreso,Otros ingresos,227.67
+2025-05-17,Ingreso,Otros ingresos,118.18
+2025-05-18,Ingreso,Ventas de servicios,2046.3
+2025-05-18,Ingreso,Ventas de productos,1982.47
+2025-05-18,Ingreso,Ventas de productos,1001.61
+2025-05-18,Gasto,Alquiler,3166.18
+2025-05-19,Gasto,Marketing,953.51
+2025-05-19,Gasto,Otros gastos,256.26
+2025-05-19,Ingreso,Ventas de servicios,3051.04
+2025-05-20,Ingreso,Otros ingresos,145.89
+2025-05-20,Gasto,Marketing,1053.16
+2025-05-20,Ingreso,Ventas de productos,1987.61
+2025-05-21,Gasto,Otros gastos,274.81
+2025-05-21,Gasto,Otros gastos,210.77
+2025-05-21,Ingreso,Otros ingresos,128.4
+2025-05-21,Gasto,Software y servicios,384.72
+2025-05-22,Ingreso,Ventas de productos,1471.83
+2025-05-22,Ingreso,Ventas de productos,1849.77
+2025-05-22,Gasto,Sueldos,16073.84
+2025-05-22,Gasto,Software y servicios,390.82
+2025-05-22,Ingreso,Ventas de servicios,2317.35
+2025-05-23,Gasto,Logistica,597.6
+2025-05-24,Ingreso,Ventas de productos,873.31
+2025-05-24,Gasto,Logistica,601.96
+2025-05-24,Gasto,Marketing,973.25
+2025-05-25,Gasto,Otros gastos,232.44
+2025-05-25,Gasto,Software y servicios,368.85
+2025-05-25,Ingreso,Ventas de servicios,2998.3
+2025-05-25,Gasto,Otros gastos,234.19
+2025-05-25,Ingreso,Otros ingresos,130.26
+2025-05-26,Ingreso,Ventas de servicios,2391.2
+2025-05-26,Ingreso,Ventas de productos,1467.93
+2025-05-27,Ingreso,Ventas de servicios,2777.97
+2025-05-27,Ingreso,Otros ingresos,158.09
+2025-06-01,Gasto,Otros gastos,275.52
+2025-06-01,Ingreso,Ventas de productos,944.93
+2025-06-01,Ingreso,Ventas de productos,1294.66
+2025-06-01,Ingreso,Ventas de servicios,3446.92
+2025-06-02,Gasto,Sueldos,16559.2
+2025-06-02,Ingreso,Otros ingresos,204.25
+2025-06-02,Ingreso,Ventas de productos,1511.57
+2025-06-02,Gasto,Otros gastos,248.84
+2025-06-03,Ingreso,Otros ingresos,214.1
+2025-06-03,Ingreso,Ventas de servicios,1902.43
+2025-06-03,Gasto,Marketing,882.96
+2025-06-04,Ingreso,Ventas de productos,1191.23
+2025-06-04,Ingreso,Otros ingresos,141.47
+2025-06-04,Gasto,Software y servicios,626.82
+2025-06-04,Gasto,Alquiler,3454.99
+2025-06-04,Gasto,Software y servicios,632.73
+2025-06-05,Ingreso,Ventas de servicios,1892.75
+2025-06-05,Ingreso,Ventas de productos,1704.74
+2025-06-05,Ingreso,Otros ingresos,214.93
+2025-06-05,Ingreso,Otros ingresos,136.12
+2025-06-06,Ingreso,Otros ingresos,226.95
+2025-06-06,Gasto,Otros gastos,219.26
+2025-06-06,Gasto,Software y servicios,515.89
+2025-06-06,Ingreso,Ventas de productos,1112.0
+2025-06-07,Gasto,Marketing,700.73
+2025-06-07,Ingreso,Otros ingresos,116.81
+2025-06-08,Ingreso,Ventas de servicios,3411.69
+2025-06-08,Gasto,Marketing,784.13
+2025-06-09,Gasto,Marketing,721.13
+2025-06-09,Gasto,Logistica,1073.74
+2025-06-09,Ingreso,Ventas de productos,1047.05
+2025-06-09,Ingreso,Otros ingresos,203.24
+2025-06-10,Gasto,Marketing,787.22
+2025-06-10,Gasto,Otros gastos,261.2
+2025-06-10,Ingreso,Ventas de productos,1125.05
+2025-06-11,Gasto,Software y servicios,478.59
+2025-06-11,Ingreso,Otros ingresos,202.59
+2025-06-11,Ingreso,Otros ingresos,183.37
+2025-06-11,Ingreso,Ventas de productos,1359.58
+2025-06-11,Gasto,Logistica,1049.95
+2025-06-11,Gasto,Impuestos,3271.08
+2025-06-12,Gasto,Marketing,693.83
+2025-06-12,Ingreso,Otros ingresos,110.26
+2025-06-12,Ingreso,Ventas de servicios,2250.58
+2025-06-12,Ingreso,Otros ingresos,174.81
+2025-06-13,Ingreso,Ventas de servicios,2977.24
+2025-06-13,Gasto,Alquiler,3001.63
+2025-06-13,Ingreso,Otros ingresos,134.6
+2025-06-13,Gasto,Impuestos,2732.38
+2025-06-13,Ingreso,Ventas de productos,1008.81
+2025-06-13,Ingreso,Ventas de productos,1221.74
+2025-06-13,Ingreso,Ventas de productos,1199.55
+2025-06-14,Ingreso,Ventas de servicios,3085.87
+2025-06-14,Ingreso,Ventas de productos,1022.79
+2025-06-14,Ingreso,Ventas de productos,2031.26
+2025-06-14,Gasto,Marketing,786.96
+2025-06-14,Ingreso,Ventas de servicios,2973.49
+2025-06-15,Ingreso,Otros ingresos,122.8
+2025-06-15,Ingreso,Otros ingresos,179.01
+2025-06-15,Ingreso,Ventas de servicios,2952.4
+2025-06-16,Ingreso,Ventas de productos,1606.36
+2025-06-16,Ingreso,Ventas de productos,1377.44
+2025-06-16,Ingreso,Ventas de productos,1614.64
+2025-06-17,Ingreso,Ventas de servicios,2281.63
+2025-06-17,Ingreso,Otros ingresos,232.72
+2025-06-19,Ingreso,Ventas de productos,1666.66
+2025-06-20,Ingreso,Ventas de servicios,3245.88
+2025-06-20,Ingreso,Otros ingresos,140.34
+2025-06-20,Ingreso,Ventas de servicios,3264.23
+2025-06-21,Gasto,Otros gastos,261.14
+2025-06-21,Gasto,Otros gastos,250.01
+2025-06-21,Gasto,Marketing,867.65
+2025-06-21,Ingreso,Ventas de productos,1938.21
+2025-06-22,Ingreso,Ventas de servicios,2631.07
+2025-06-22,Ingreso,Ventas de servicios,1703.53
+2025-06-22,Ingreso,Ventas de servicios,2246.78
+2025-06-23,Gasto,Software y servicios,554.14
+2025-06-23,Gasto,Sueldos,15365.41
+2025-06-23,Gasto,Logistica,942.42
+2025-06-23,Gasto,Marketing,788.56
+2025-06-23,Ingreso,Otros ingresos,150.43
+2025-06-24,Gasto,Otros gastos,224.22
+2025-06-24,Gasto,Marketing,844.9
+2025-06-24,Ingreso,Otros ingresos,221.6
+2025-06-24,Ingreso,Ventas de servicios,2431.47
+2025-06-25,Gasto,Otros gastos,235.54
+2025-06-25,Ingreso,Otros ingresos,114.09
+2025-06-25,Ingreso,Ventas de servicios,1917.88
+2025-06-25,Ingreso,Ventas de servicios,3220.37
+2025-06-25,Gasto,Otros gastos,228.58
+2025-06-26,Gasto,Otros gastos,207.61
+2025-06-26,Ingreso,Ventas de productos,1446.96
+2025-06-26,Ingreso,Ventas de productos,1180.72
+2025-06-26,Gasto,Software y servicios,566.24
+2025-06-26,Gasto,Software y servicios,500.91
+2025-06-27,Gasto,Logistica,1139.31
+2025-06-27,Gasto,Logistica,1029.08
+2025-06-27,Ingreso,Otros ingresos,228.49
+2025-06-27,Ingreso,Ventas de servicios,3207.24
+2025-07-01,Gasto,Alquiler,2912.61
+2025-07-02,Gasto,Logistica,911.46
+2025-07-02,Gasto,Otros gastos,346.34
+2025-07-02,Ingreso,Ventas de productos,1670.06
+2025-07-03,Gasto,Otros gastos,340.06
+2025-07-03,Ingreso,Ventas de productos,1721.07
+2025-07-03,Gasto,Otros gastos,358.42
+2025-07-04,Ingreso,Ventas de servicios,1837.74
+2025-07-04,Gasto,Marketing,770.94
+2025-07-05,Ingreso,Otros ingresos,103.84
+2025-07-05,Ingreso,Ventas de productos,1592.77
+2025-07-06,Ingreso,Otros ingresos,214.68
+2025-07-06,Ingreso,Ventas de productos,1855.43
+2025-07-07,Ingreso,Ventas de productos,1721.51
+2025-07-07,Ingreso,Otros ingresos,207.64
+2025-07-07,Ingreso,Otros ingresos,183.14
+2025-07-07,Ingreso,Otros ingresos,191.21
+2025-07-08,Gasto,Impuestos,3409.62
+2025-07-08,Ingreso,Otros ingresos,159.01
+2025-07-08,Ingreso,Ventas de productos,1078.97
+2025-07-08,Ingreso,Ventas de servicios,2443.25
+2025-07-08,Gasto,Otros gastos,404.06
+2025-07-08,Ingreso,Ventas de productos,1254.87
+2025-07-09,Ingreso,Ventas de productos,2011.98
+2025-07-09,Ingreso,Otros ingresos,177.46
+2025-07-09,Ingreso,Otros ingresos,219.88
+2025-07-09,Ingreso,Ventas de productos,2095.81
+2025-07-09,Ingreso,Otros ingresos,142.47
+2025-07-09,Gasto,Software y servicios,737.49
+2025-07-09,Gasto,Logistica,828.53
+2025-07-10,Ingreso,Otros ingresos,186.46
+2025-07-10,Ingreso,Ventas de servicios,2143.55
+2025-07-10,Ingreso,Ventas de servicios,1888.47
+2025-07-11,Ingreso,Otros ingresos,136.29
+2025-07-11,Ingreso,Otros ingresos,222.78
+2025-07-11,Ingreso,Ventas de servicios,3405.01
+2025-07-12,Ingreso,Otros ingresos,169.96
+2025-07-12,Ingreso,Ventas de productos,1444.92
+2025-07-12,Ingreso,Otros ingresos,231.11
+2025-07-12,Gasto,Alquiler,3366.68
+2025-07-12,Ingreso,Ventas de productos,1395.9
+2025-07-12,Gasto,Logistica,820.27
+2025-07-12,Ingreso,Ventas de productos,1696.28
+2025-07-12,Gasto,Otros gastos,432.95
+2025-07-12,Ingreso,Ventas de servicios,2177.52
+2025-07-13,Ingreso,Otros ingresos,148.89
+2025-07-13,Gasto,Sueldos,16439.32
+2025-07-13,Gasto,Software y servicios,762.4
+2025-07-13,Gasto,Marketing,660.3
+2025-07-13,Ingreso,Ventas de servicios,3547.48
+2025-07-14,Gasto,Marketing,692.82
+2025-07-14,Ingreso,Ventas de servicios,2815.25
+2025-07-15,Ingreso,Ventas de servicios,3462.46
+2025-07-15,Ingreso,Otros ingresos,106.0
+2025-07-15,Ingreso,Ventas de productos,1762.23
+2025-07-15,Ingreso,Ventas de servicios,2871.69
+2025-07-15,Gasto,Marketing,709.25
+2025-07-16,Ingreso,Ventas de productos,2067.63
+2025-07-16,Ingreso,Otros ingresos,220.78
+2025-07-17,Ingreso,Ventas de servicios,2490.4
+2025-07-17,Ingreso,Ventas de productos,1220.37
+2025-07-18,Ingreso,Ventas de productos,934.62
+2025-07-18,Ingreso,Ventas de servicios,2871.6
+2025-07-18,Ingreso,Otros ingresos,148.61
+2025-07-18,Gasto,Marketing,813.76
+2025-07-19,Ingreso,Otros ingresos,165.38
+2025-07-19,Ingreso,Ventas de productos,1326.31
+2025-07-19,Gasto,Software y servicios,685.28
+2025-07-19,Ingreso,Otros ingresos,121.78
+2025-07-19,Ingreso,Ventas de productos,2015.91
+2025-07-20,Gasto,Software y servicios,891.54
+2025-07-20,Ingreso,Ventas de productos,1528.56
+2025-07-20,Ingreso,Ventas de productos,1400.1
+2025-07-20,Ingreso,Ventas de servicios,2466.61
+2025-07-20,Gasto,Logistica,931.36
+2025-07-20,Ingreso,Ventas de productos,1706.53
+2025-07-20,Gasto,Marketing,626.52
+2025-07-21,Ingreso,Otros ingresos,168.7
+2025-07-21,Ingreso,Ventas de productos,1955.57
+2025-07-21,Ingreso,Otros ingresos,118.67
+2025-07-22,Ingreso,Otros ingresos,217.85
+2025-07-22,Ingreso,Ventas de productos,1307.11
+2025-07-22,Gasto,Marketing,748.69
+2025-07-22,Gasto,Impuestos,3042.0
+2025-07-22,Gasto,Logistica,953.02
+2025-07-22,Ingreso,Ventas de servicios,2460.83
+2025-07-23,Ingreso,Ventas de servicios,1609.48
+2025-07-23,Gasto,Marketing,640.24
+2025-07-23,Ingreso,Ventas de productos,1063.38
+2025-07-24,Gasto,Marketing,743.86
+2025-07-24,Ingreso,Ventas de productos,1067.69
+2025-07-25,Gasto,Otros gastos,445.49
+2025-07-25,Ingreso,Ventas de servicios,3054.22
+2025-07-25,Ingreso,Otros ingresos,229.46
+2025-07-26,Gasto,Marketing,617.54
+2025-07-26,Ingreso,Ventas de servicios,2273.6
+2025-07-26,Gasto,Logistica,950.19
+2025-07-26,Ingreso,Otros ingresos,218.42
+2025-07-26,Gasto,Marketing,811.37
+2025-07-26,Ingreso,Ventas de productos,1156.52
+2025-07-27,Gasto,Software y servicios,783.85
+2025-07-27,Gasto,Sueldos,15432.21
+2025-07-27,Ingreso,Otros ingresos,204.94
+2025-07-27,Ingreso,Ventas de servicios,2908.55
+2025-08-01,Ingreso,Ventas de servicios,2916.7
+2025-08-01,Gasto,Otros gastos,206.78
+2025-08-01,Ingreso,Ventas de productos,991.33
+2025-08-01,Gasto,Otros gastos,260.64
+2025-08-02,Ingreso,Otros ingresos,161.18
+2025-08-02,Ingreso,Ventas de productos,931.32
+2025-08-02,Gasto,Impuestos,3457.65
+2025-08-02,Ingreso,Ventas de servicios,3263.94
+2025-08-03,Ingreso,Otros ingresos,129.66
+2025-08-03,Ingreso,Ventas de servicios,2380.52
+2025-08-03,Ingreso,Otros ingresos,210.6
+2025-08-03,Gasto,Marketing,786.98
+2025-08-03,Ingreso,Otros ingresos,121.15
+2025-08-04,Ingreso,Otros ingresos,225.44
+2025-08-04,Ingreso,Ventas de servicios,1738.84
+2025-08-04,Gasto,Marketing,671.03
+2025-08-04,Ingreso,Otros ingresos,224.33
+2025-08-05,Ingreso,Ventas de productos,1625.92
+2025-08-05,Gasto,Otros gastos,257.53
+2025-08-05,Gasto,Sueldos,19441.03
+2025-08-05,Ingreso,Ventas de servicios,1865.48
+2025-08-05,Ingreso,Ventas de productos,1577.18
+2025-08-05,Ingreso,Ventas de productos,1417.22
+2025-08-05,Ingreso,Ventas de servicios,3272.06
+2025-08-05,Ingreso,Ventas de servicios,1926.69
+2025-08-06,Ingreso,Ventas de productos,1203.79
+2025-08-06,Ingreso,Ventas de servicios,1993.43
+2025-08-06,Ingreso,Otros ingresos,164.18
+2025-08-07,Ingreso,Ventas de productos,1449.13
+2025-08-07,Ingreso,Ventas de servicios,3124.84
+2025-08-08,Gasto,Software y servicios,642.55
+2025-08-08,Ingreso,Ventas de productos,1841.06
+2025-08-08,Ingreso,Ventas de servicios,3350.47
+2025-08-08,Ingreso,Otros ingresos,190.47
+2025-08-09,Gasto,Software y servicios,570.95
+2025-08-09,Ingreso,Ventas de productos,1629.48
+2025-08-10,Ingreso,Otros ingresos,155.03
+2025-08-10,Ingreso,Otros ingresos,112.74
+2025-08-10,Ingreso,Otros ingresos,149.86
+2025-08-10,Ingreso,Ventas de servicios,3272.1
+2025-08-10,Gasto,Software y servicios,626.33
+2025-08-10,Gasto,Marketing,689.66
+2025-08-11,Gasto,Otros gastos,270.52
+2025-08-11,Gasto,Logistica,792.45
+2025-08-11,Ingreso,Ventas de productos,1265.66
+2025-08-11,Ingreso,Ventas de productos,1675.93
+2025-08-11,Ingreso,Otros ingresos,191.74
+2025-08-11,Gasto,Marketing,687.29
+2025-08-11,Gasto,Marketing,672.77
+2025-08-12,Ingreso,Otros ingresos,118.88
+2025-08-12,Ingreso,Ventas de servicios,2325.24
+2025-08-12,Ingreso,Otros ingresos,244.53
+2025-08-13,Gasto,Software y servicios,663.25
+2025-08-13,Gasto,Marketing,727.12
+2025-08-13,Ingreso,Otros ingresos,150.35
+2025-08-13,Ingreso,Ventas de productos,1196.82
+2025-08-13,Ingreso,Ventas de productos,2012.35
+2025-08-13,Gasto,Otros gastos,237.53
+2025-08-13,Ingreso,Ventas de productos,1811.06
+2025-08-14,Gasto,Alquiler,3709.11
+2025-08-14,Ingreso,Ventas de productos,1252.63
+2025-08-15,Ingreso,Ventas de productos,1957.4
+2025-08-15,Ingreso,Ventas de servicios,2608.69
+2025-08-15,Gasto,Alquiler,3248.67
+2025-08-16,Gasto,Marketing,728.09
+2025-08-16,Gasto,Otros gastos,205.91
+2025-08-16,Ingreso,Ventas de productos,1172.4
+2025-08-16,Ingreso,Ventas de servicios,3094.62
+2025-08-17,Ingreso,Ventas de productos,1193.22
+2025-08-18,Gasto,Software y servicios,660.61
+2025-08-18,Ingreso,Ventas de productos,1486.42
+2025-08-18,Gasto,Marketing,799.88
+2025-08-19,Ingreso,Otros ingresos,134.97
+2025-08-19,Ingreso,Ventas de servicios,2388.89
+2025-08-20,Gasto,Marketing,801.15
+2025-08-21,Gasto,Logistica,803.6
+2025-08-21,Gasto,Logistica,882.96
+2025-08-21,Ingreso,Ventas de productos,1632.36
+2025-08-21,Ingreso,Ventas de servicios,2526.53
+2025-08-21,Ingreso,Otros ingresos,118.98
+2025-08-21,Ingreso,Ventas de productos,1955.0
+2025-08-22,Ingreso,Otros ingresos,133.75
+2025-08-22,Gasto,Marketing,694.52
+2025-08-23,Ingreso,Ventas de productos,1143.23
+2025-08-23,Ingreso,Ventas de productos,1769.05
+2025-08-23,Ingreso,Otros ingresos,178.65
+2025-08-23,Ingreso,Ventas de productos,1520.35
+2025-08-23,Ingreso,Ventas de servicios,2681.0
+2025-08-24,Gasto,Otros gastos,227.81
+2025-08-24,Gasto,Otros gastos,239.74
+2025-08-24,Ingreso,Ventas de productos,2139.74
+2025-08-24,Ingreso,Otros ingresos,235.15
+2025-08-25,Gasto,Sueldos,18561.57
+2025-08-25,Gasto,Otros gastos,252.99
+2025-08-25,Ingreso,Ventas de productos,1731.4
+2025-08-25,Ingreso,Ventas de productos,1512.75
+2025-08-26,Ingreso,Ventas de servicios,3123.1
+2025-08-26,Gasto,Logistica,891.99
+2025-08-26,Ingreso,Otros ingresos,185.76
+2025-08-26,Ingreso,Ventas de productos,1003.76
+2025-08-26,Ingreso,Ventas de productos,1743.53
+2025-08-27,Gasto,Logistica,951.63
+2025-08-27,Gasto,Otros gastos,245.69
+2025-08-27,Gasto,Logistica,924.68
+2025-08-27,Gasto,Software y servicios,615.04
+2025-08-27,Gasto,Marketing,643.83
+2025-08-27,Ingreso,Ventas de servicios,1845.4
+2025-08-27,Gasto,Impuestos,3204.59
+2025-09-01,Gasto,Logistica,541.0
+2025-09-01,Gasto,Logistica,475.5
+2025-09-02,Ingreso,Ventas de productos,2134.04
+2025-09-02,Gasto,Marketing,1179.47
+2025-09-02,Ingreso,Ventas de servicios,2572.9
+2025-09-02,Ingreso,Ventas de productos,2175.65
+2025-09-02,Gasto,Logistica,485.91
+2025-09-03,Gasto,Software y servicios,325.39
+2025-09-03,Gasto,Logistica,542.9
+2025-09-03,Gasto,Logistica,472.39
+2025-09-03,Ingreso,Otros ingresos,218.64
+2025-09-04,Ingreso,Otros ingresos,231.14
+2025-09-04,Ingreso,Ventas de productos,1025.1
+2025-09-04,Ingreso,Ventas de servicios,2378.1
+2025-09-04,Ingreso,Ventas de servicios,2906.24
+2025-09-04,Ingreso,Ventas de productos,1492.45
+2025-09-04,Gasto,Software y servicios,383.35
+2025-09-04,Gasto,Software y servicios,338.37
+2025-09-05,Ingreso,Ventas de productos,1626.47
+2025-09-05,Gasto,Marketing,1143.82
+2025-09-05,Ingreso,Otros ingresos,136.6
+2025-09-06,Ingreso,Ventas de productos,1000.51
+2025-09-06,Ingreso,Otros ingresos,170.94
+2025-09-06,Ingreso,Otros ingresos,148.07
+2025-09-06,Gasto,Sueldos,17080.35
+2025-09-06,Ingreso,Ventas de servicios,1888.97
+2025-09-06,Ingreso,Ventas de productos,1385.0
+2025-09-06,Ingreso,Ventas de servicios,3280.02
+2025-09-06,Gasto,Marketing,1343.33
+2025-09-06,Gasto,Software y servicios,335.48
+2025-09-06,Ingreso,Ventas de servicios,2854.34
+2025-09-07,Gasto,Software y servicios,378.15
+2025-09-07,Ingreso,Ventas de servicios,2731.64
+2025-09-08,Ingreso,Otros ingresos,162.4
+2025-09-08,Gasto,Marketing,1479.12
+2025-09-09,Ingreso,Otros ingresos,112.21
+2025-09-09,Gasto,Otros gastos,498.87
+2025-09-10,Ingreso,Otros ingresos,163.14
+2025-09-10,Ingreso,Ventas de productos,1626.09
+2025-09-11,Ingreso,Ventas de servicios,1807.18
+2025-09-11,Ingreso,Ventas de productos,2092.41
+2025-09-12,Ingreso,Ventas de productos,1973.4
+2025-09-12,Ingreso,Ventas de servicios,1933.48
+2025-09-12,Ingreso,Ventas de productos,994.82
+2025-09-12,Ingreso,Ventas de servicios,1843.9
+2025-09-13,Gasto,Impuestos,3413.03
+2025-09-13,Gasto,Otros gastos,469.66
+2025-09-13,Ingreso,Ventas de servicios,3057.87
+2025-09-14,Ingreso,Otros ingresos,172.42
+2025-09-14,Gasto,Marketing,1198.52
+2025-09-14,Gasto,Logistica,469.6
+2025-09-14,Gasto,Logistica,463.75
+2025-09-14,Ingreso,Ventas de servicios,2697.6
+2025-09-14,Ingreso,Ventas de servicios,3314.44
+2025-09-14,Ingreso,Ventas de servicios,2790.89
+2025-09-14,Ingreso,Ventas de productos,1071.92
+2025-09-15,Gasto,Software y servicios,320.81
+2025-09-15,Gasto,Marketing,1366.0
+2025-09-16,Ingreso,Ventas de servicios,3457.1
+2025-09-16,Ingreso,Ventas de productos,1452.21
+2025-09-16,Ingreso,Ventas de servicios,2166.53
+2025-09-17,Ingreso,Otros ingresos,246.66
+2025-09-17,Ingreso,Ventas de servicios,2494.87
+2025-09-17,Gasto,Software y servicios,347.93
+2025-09-17,Gasto,Marketing,1460.04
+2025-09-17,Ingreso,Ventas de servicios,1939.44
+2025-09-18,Gasto,Otros gastos,531.3
+2025-09-18,Gasto,Software y servicios,372.93
+2025-09-18,Gasto,Logistica,409.03
+2025-09-18,Gasto,Otros gastos,520.57
+2025-09-19,Ingreso,Ventas de servicios,2392.43
+2025-09-20,Gasto,Logistica,434.15
+2025-09-20,Ingreso,Ventas de servicios,3677.92
+2025-09-20,Gasto,Otros gastos,526.4
+2025-09-20,Gasto,Software y servicios,319.33
+2025-09-20,Gasto,Impuestos,3027.64
+2025-09-20,Ingreso,Otros ingresos,225.81
+2025-09-20,Ingreso,Ventas de productos,1331.36
+2025-09-20,Ingreso,Otros ingresos,120.01
+2025-09-20,Ingreso,Ventas de servicios,2237.56
+2025-09-21,Ingreso,Ventas de servicios,2646.93
+2025-09-21,Ingreso,Otros ingresos,207.92
+2025-09-22,Ingreso,Otros ingresos,185.17
+2025-09-22,Gasto,Software y servicios,347.61
+2025-09-22,Ingreso,Ventas de productos,1342.61
+2025-09-22,Gasto,Marketing,1362.76
+2025-09-23,Ingreso,Ventas de servicios,2196.37
+2025-09-23,Ingreso,Ventas de servicios,3409.31
+2025-09-23,Ingreso,Ventas de servicios,2384.63
+2025-09-23,Gasto,Logistica,428.47
+2025-09-23,Gasto,Sueldos,19426.25
+2025-09-23,Ingreso,Otros ingresos,242.01
+2025-09-24,Ingreso,Ventas de servicios,1643.4
+2025-09-24,Ingreso,Ventas de productos,2108.56
+2025-09-24,Ingreso,Ventas de productos,1752.21
+2025-09-24,Gasto,Alquiler,3675.27
+2025-09-25,Ingreso,Ventas de productos,2009.48
+2025-09-25,Ingreso,Otros ingresos,246.07
+2025-09-25,Ingreso,Otros ingresos,125.33
+2025-09-26,Ingreso,Otros ingresos,194.68
+2025-09-26,Ingreso,Ventas de servicios,2701.41
+2025-09-26,Ingreso,Ventas de productos,1462.03
+2025-09-26,Ingreso,Ventas de productos,2005.98
+2025-09-26,Gasto,Software y servicios,341.6
+2025-09-27,Ingreso,Ventas de productos,1512.69
+2025-09-27,Gasto,Logistica,461.63
+2025-09-27,Gasto,Alquiler,2992.95
+2025-09-27,Ingreso,Ventas de productos,1051.57
+2025-09-27,Ingreso,Ventas de productos,1774.28
+2025-09-27,Ingreso,Ventas de productos,2162.94
+2025-09-27,Ingreso,Otros ingresos,184.86
+2025-09-27,Ingreso,Otros ingresos,120.66
+2025-09-27,Ingreso,Ventas de servicios,3638.5
+2025-10-01,Ingreso,Ventas de productos,1799.29
+2025-10-01,Gasto,Otros gastos,359.43
+2025-10-01,Gasto,Logistica,463.07
+2025-10-02,Ingreso,Otros ingresos,247.81
+2025-10-02,Ingreso,Ventas de productos,1954.49
+2025-10-02,Ingreso,Otros ingresos,168.13
+2025-10-02,Ingreso,Ventas de servicios,2720.82
+2025-10-03,Gasto,Marketing,755.48
+2025-10-03,Gasto,Software y servicios,595.55
+2025-10-03,Ingreso,Ventas de productos,1934.9
+2025-10-04,Ingreso,Ventas de productos,1535.56
+2025-10-04,Ingreso,Otros ingresos,155.22
+2025-10-04,Gasto,Software y servicios,588.97
+2025-10-05,Gasto,Marketing,837.82
+2025-10-05,Ingreso,Ventas de servicios,3272.85
+2025-10-05,Ingreso,Otros ingresos,227.79
+2025-10-05,Ingreso,Ventas de servicios,2053.28
+2025-10-06,Gasto,Logistica,566.19
+2025-10-06,Ingreso,Otros ingresos,142.21
+2025-10-06,Gasto,Marketing,672.04
+2025-10-06,Gasto,Marketing,784.43
+2025-10-07,Gasto,Software y servicios,540.99
+2025-10-07,Ingreso,Ventas de servicios,2217.43
+2025-10-07,Ingreso,Ventas de productos,1196.54
+2025-10-07,Ingreso,Ventas de productos,1434.8
+2025-10-08,Ingreso,Ventas de productos,2028.64
+2025-10-08,Ingreso,Ventas de servicios,1864.9
+2025-10-08,Gasto,Logistica,481.74
+2025-10-09,Ingreso,Ventas de servicios,1900.77
+2025-10-09,Ingreso,Otros ingresos,134.14
+2025-10-09,Ingreso,Ventas de servicios,2256.21
+2025-10-10,Ingreso,Ventas de productos,1991.04
+2025-10-10,Ingreso,Ventas de productos,1321.12
+2025-10-10,Ingreso,Otros ingresos,149.66
+2025-10-10,Ingreso,Ventas de productos,1273.58
+2025-10-11,Ingreso,Ventas de servicios,2055.26
+2025-10-11,Ingreso,Otros ingresos,148.47
+2025-10-11,Gasto,Marketing,707.19
+2025-10-11,Gasto,Logistica,470.92
+2025-10-11,Gasto,Impuestos,2798.09
+2025-10-12,Ingreso,Ventas de servicios,3384.6
+2025-10-12,Gasto,Logistica,457.25
+2025-10-12,Ingreso,Ventas de productos,1761.21
+2025-10-12,Gasto,Otros gastos,416.71
+2025-10-12,Gasto,Sueldos,15740.48
+2025-10-12,Ingreso,Ventas de productos,1059.08
+2025-10-13,Gasto,Logistica,473.29
+2025-10-13,Ingreso,Ventas de productos,1073.57
+2025-10-13,Ingreso,Ventas de productos,1607.24
+2025-10-13,Ingreso,Ventas de productos,1494.93
+2025-10-13,Ingreso,Ventas de servicios,1944.42
+2025-10-13,Gasto,Logistica,487.15
+2025-10-13,Ingreso,Ventas de productos,1475.16
+2025-10-13,Ingreso,Ventas de productos,1979.11
+2025-10-15,Ingreso,Ventas de productos,1879.41
+2025-10-15,Ingreso,Ventas de servicios,3537.79
+2025-10-15,Gasto,Otros gastos,367.32
+2025-10-16,Gasto,Marketing,708.75
+2025-10-16,Gasto,Marketing,895.61
+2025-10-16,Gasto,Marketing,664.01
+2025-10-16,Ingreso,Ventas de productos,989.17
+2025-10-17,Gasto,Logistica,483.5
+2025-10-17,Gasto,Alquiler,3518.9
+2025-10-17,Gasto,Otros gastos,450.09
+2025-10-17,Ingreso,Ventas de servicios,2091.91
+2025-10-17,Ingreso,Otros ingresos,190.6
+2025-10-17,Ingreso,Otros ingresos,197.79
+2025-10-17,Ingreso,Ventas de servicios,3244.08
+2025-10-17,Ingreso,Ventas de servicios,2428.64
+2025-10-18,Ingreso,Otros ingresos,189.9
+2025-10-19,Ingreso,Ventas de servicios,3706.27
+2025-10-19,Ingreso,Otros ingresos,254.45
+2025-10-20,Ingreso,Ventas de servicios,2621.04
+2025-10-20,Ingreso,Ventas de servicios,2004.56
+2025-10-20,Ingreso,Otros ingresos,137.36
+2025-10-20,Ingreso,Ventas de servicios,3563.49
+2025-10-21,Ingreso,Otros ingresos,137.84
+2025-10-21,Gasto,Software y servicios,553.7
+2025-10-21,Ingreso,Ventas de servicios,1909.17
+2025-10-21,Gasto,Marketing,852.53
+2025-10-21,Ingreso,Ventas de productos,1374.14
+2025-10-21,Gasto,Alquiler,3131.36
+2025-10-22,Ingreso,Otros ingresos,143.68
+2025-10-22,Ingreso,Otros ingresos,233.02
+2025-10-22,Gasto,Otros gastos,365.31
+2025-10-22,Ingreso,Ventas de servicios,3060.48
+2025-10-22,Ingreso,Ventas de servicios,2399.98
+2025-10-22,Ingreso,Ventas de servicios,3696.43
+2025-10-23,Gasto,Impuestos,2957.76
+2025-10-23,Ingreso,Ventas de productos,1547.73
+2025-10-23,Gasto,Otros gastos,441.81
+2025-10-23,Ingreso,Otros ingresos,208.74
+2025-10-23,Ingreso,Otros ingresos,125.22
+2025-10-23,Gasto,Marketing,712.86
+2025-10-24,Ingreso,Ventas de productos,1360.08
+2025-10-24,Ingreso,Ventas de productos,2258.9
+2025-10-24,Gasto,Software y servicios,580.92
+2025-10-24,Ingreso,Otros ingresos,239.15
+2025-10-25,Gasto,Software y servicios,514.67
+2025-10-25,Ingreso,Ventas de productos,1279.95
+2025-10-25,Ingreso,Ventas de productos,2142.37
+2025-10-25,Gasto,Logistica,567.22
+2025-10-25,Ingreso,Otros ingresos,129.8
+2025-10-25,Ingreso,Otros ingresos,147.98
+2025-10-26,Ingreso,Ventas de productos,1611.91
+2025-10-26,Gasto,Logistica,504.72
+2025-10-26,Ingreso,Otros ingresos,159.64
+2025-10-27,Ingreso,Otros ingresos,208.21
+2025-10-27,Gasto,Sueldos,16642.78
+2025-10-27,Ingreso,Otros ingresos,147.96
+2025-10-27,Gasto,Software y servicios,542.41
+2025-11-01,Ingreso,Ventas de productos,1278.18
+2025-11-01,Ingreso,Ventas de productos,2253.75
+2025-11-01,Ingreso,Otros ingresos,141.54
+2025-11-02,Ingreso,Ventas de productos,1612.53
+2025-11-02,Ingreso,Otros ingresos,131.28
+2025-11-02,Gasto,Logistica,568.56
+2025-11-03,Gasto,Logistica,529.65
+2025-11-03,Ingreso,Ventas de servicios,3731.61
+2025-11-03,Ingreso,Otros ingresos,258.8
+2025-11-03,Gasto,Software y servicios,467.79
+2025-11-04,Ingreso,Otros ingresos,182.39
+2025-11-04,Ingreso,Ventas de servicios,3383.15
+2025-11-04,Ingreso,Otros ingresos,122.17
+2025-11-04,Gasto,Software y servicios,486.61
+2025-11-05,Gasto,Software y servicios,447.68
+2025-11-05,Ingreso,Otros ingresos,143.06
+2025-11-05,Ingreso,Ventas de servicios,3470.82
+2025-11-05,Ingreso,Otros ingresos,256.2
+2025-11-06,Ingreso,Otros ingresos,124.95
+2025-11-06,Ingreso,Otros ingresos,190.59
+2025-11-06,Ingreso,Ventas de productos,2035.84
+2025-11-06,Ingreso,Ventas de servicios,3594.96
+2025-11-06,Gasto,Software y servicios,457.89
+2025-11-07,Ingreso,Otros ingresos,145.89
+2025-11-07,Ingreso,Ventas de productos,2129.88
+2025-11-07,Ingreso,Ventas de productos,1431.93
+2025-11-07,Gasto,Marketing,1075.06
+2025-11-07,Ingreso,Ventas de servicios,2768.85
+2025-11-08,Gasto,Software y servicios,442.28
+2025-11-08,Ingreso,Ventas de servicios,3285.22
+2025-11-09,Ingreso,Ventas de productos,2002.85
+2025-11-09,Ingreso,Ventas de servicios,3025.31
+2025-11-09,Gasto,Logistica,514.52
+2025-11-09,Ingreso,Ventas de productos,1926.08
+2025-11-10,Gasto,Otros gastos,337.95
+2025-11-10,Gasto,Software y servicios,406.01
+2025-11-10,Gasto,Marketing,965.54
+2025-11-10,Ingreso,Otros ingresos,115.61
+2025-11-10,Ingreso,Ventas de productos,2127.89
+2025-11-10,Ingreso,Ventas de productos,1828.98
+2025-11-10,Ingreso,Ventas de productos,1055.16
+2025-11-11,Ingreso,Ventas de productos,2284.79
+2025-11-11,Ingreso,Otros ingresos,206.1
+2025-11-11,Ingreso,Ventas de productos,2233.36
+2025-11-11,Ingreso,Ventas de productos,2279.25
+2025-11-12,Gasto,Otros gastos,261.47
+2025-11-12,Gasto,Alquiler,3377.64
+2025-11-12,Gasto,Marketing,878.39
+2025-11-12,Gasto,Logistica,562.01
+2025-11-13,Gasto,Logistica,634.93
+2025-11-13,Ingreso,Otros ingresos,206.83
+2025-11-13,Ingreso,Ventas de productos,1060.86
+2025-11-14,Ingreso,Ventas de servicios,2774.16
+2025-11-14,Gasto,Otros gastos,297.15
+2025-11-14,Gasto,Otros gastos,298.34
+2025-11-15,Gasto,Marketing,1037.23
+2025-11-15,Gasto,Software y servicios,449.18
+2025-11-15,Gasto,Impuestos,3288.29
+2025-11-15,Ingreso,Ventas de servicios,3303.44
+2025-11-15,Gasto,Impuestos,3024.89
+2025-11-15,Ingreso,Ventas de servicios,3574.51
+2025-11-16,Gasto,Sueldos,18399.53
+2025-11-16,Ingreso,Ventas de productos,1641.08
+2025-11-16,Ingreso,Ventas de servicios,2530.68
+2025-11-16,Ingreso,Otros ingresos,132.54
+2025-11-17,Ingreso,Ventas de productos,2026.04
+2025-11-17,Gasto,Logistica,609.43
+2025-11-17,Ingreso,Ventas de productos,1855.67
+2025-11-17,Ingreso,Ventas de productos,1531.43
+2025-11-17,Ingreso,Ventas de servicios,3337.03
+2025-11-17,Gasto,Otros gastos,321.38
+2025-11-18,Gasto,Otros gastos,302.58
+2025-11-19,Gasto,Logistica,608.07
+2025-11-19,Ingreso,Ventas de servicios,2813.53
+2025-11-20,Gasto,Otros gastos,310.77
+2025-11-20,Ingreso,Ventas de productos,2197.41
+2025-11-20,Ingreso,Ventas de servicios,2632.6
+2025-11-20,Gasto,Marketing,959.61
+2025-11-20,Gasto,Sueldos,18669.0
+2025-11-21,Gasto,Marketing,873.66
+2025-11-21,Ingreso,Ventas de servicios,2293.66
+2025-11-21,Gasto,Software y servicios,408.33
+2025-11-21,Gasto,Logistica,532.2
+2025-11-21,Ingreso,Ventas de productos,1327.53
+2025-11-21,Ingreso,Ventas de productos,2155.04
+2025-11-21,Ingreso,Otros ingresos,190.64
+2025-11-22,Ingreso,Ventas de productos,2152.18
+2025-11-22,Ingreso,Otros ingresos,227.48
+2025-11-22,Gasto,Marketing,905.01
+2025-11-23,Ingreso,Ventas de productos,1028.83
+2025-11-23,Gasto,Logistica,567.54
+2025-11-23,Ingreso,Otros ingresos,160.97
+2025-11-24,Ingreso,Otros ingresos,232.31
+2025-11-24,Gasto,Software y servicios,479.67
+2025-11-24,Gasto,Alquiler,3385.01
+2025-11-24,Ingreso,Ventas de productos,1362.36
+2025-11-25,Ingreso,Otros ingresos,248.69
+2025-11-25,Ingreso,Ventas de servicios,2202.76
+2025-11-26,Gasto,Marketing,925.33
+2025-11-26,Ingreso,Otros ingresos,217.18
+2025-11-26,Ingreso,Ventas de servicios,3396.53
+2025-11-26,Gasto,Otros gastos,299.26
+2025-11-26,Ingreso,Ventas de productos,2081.12
+2025-11-27,Ingreso,Ventas de productos,1111.72
+2025-11-27,Ingreso,Ventas de servicios,1917.94
+2025-11-27,Ingreso,Otros ingresos,163.56
+2025-12-01,Ingreso,Ventas de productos,1432.48
+2025-12-01,Gasto,Marketing,1051.93
+2025-12-01,Gasto,Marketing,1099.3
+2025-12-01,Ingreso,Otros ingresos,180.36
+2025-12-01,Ingreso,Ventas de productos,1036.68
+2025-12-01,Ingreso,Ventas de productos,1094.75
+2025-12-01,Ingreso,Ventas de servicios,2974.36
+2025-12-02,Ingreso,Otros ingresos,167.17
+2025-12-02,Ingreso,Ventas de productos,1788.95
+2025-12-02,Ingreso,Ventas de productos,1607.01
+2025-12-02,Gasto,Otros gastos,476.44
+2025-12-03,Ingreso,Ventas de servicios,2037.65
+2025-12-03,Gasto,Marketing,1077.31
+2025-12-03,Gasto,Software y servicios,463.2
+2025-12-03,Gasto,Logistica,927.54
+2025-12-03,Gasto,Sueldos,16561.04
+2025-12-03,Gasto,Otros gastos,505.08
+2025-12-05,Ingreso,Ventas de productos,1751.68
+2025-12-05,Gasto,Sueldos,18654.52
+2025-12-06,Gasto,Logistica,835.0
+2025-12-06,Ingreso,Ventas de servicios,3102.03
+2025-12-06,Ingreso,Ventas de servicios,1904.49
+2025-12-06,Ingreso,Otros ingresos,236.68
+2025-12-06,Gasto,Logistica,960.15
+2025-12-06,Ingreso,Ventas de productos,2150.03
+2025-12-06,Gasto,Alquiler,3668.83
+2025-12-06,Gasto,Marketing,1112.53
+2025-12-06,Ingreso,Ventas de servicios,2880.98
+2025-12-07,Ingreso,Ventas de servicios,3566.66
+2025-12-07,Ingreso,Ventas de productos,2027.55
+2025-12-07,Ingreso,Otros ingresos,211.42
+2025-12-07,Ingreso,Ventas de productos,1822.32
+2025-12-07,Ingreso,Ventas de productos,1245.27
+2025-12-07,Ingreso,Ventas de servicios,2282.34
+2025-12-07,Ingreso,Otros ingresos,182.74
+2025-12-08,Ingreso,Ventas de servicios,2618.96
+2025-12-09,Gasto,Otros gastos,456.92
+2025-12-09,Ingreso,Ventas de servicios,3135.65
+2025-12-09,Ingreso,Ventas de servicios,2681.04
+2025-12-09,Ingreso,Ventas de servicios,3792.21
+2025-12-10,Ingreso,Ventas de productos,1451.71
+2025-12-10,Ingreso,Ventas de servicios,3604.73
+2025-12-10,Ingreso,Otros ingresos,221.65
+2025-12-10,Ingreso,Ventas de servicios,2336.46
+2025-12-10,Ingreso,Ventas de servicios,2877.0
+2025-12-10,Ingreso,Otros ingresos,250.84
+2025-12-12,Ingreso,Ventas de servicios,2097.59
+2025-12-12,Ingreso,Ventas de productos,1178.41
+2025-12-12,Gasto,Alquiler,3665.04
+2025-12-12,Ingreso,Ventas de servicios,3423.36
+2025-12-13,Ingreso,Ventas de servicios,3910.93
+2025-12-13,Gasto,Otros gastos,429.69
+2025-12-13,Gasto,Impuestos,3158.57
+2025-12-13,Gasto,Software y servicios,434.61
+2025-12-13,Ingreso,Otros ingresos,168.3
+2025-12-13,Gasto,Logistica,981.73
+2025-12-13,Ingreso,Ventas de productos,1602.4
+2025-12-13,Ingreso,Ventas de productos,1103.95
+2025-12-14,Ingreso,Ventas de servicios,3393.73
+2025-12-14,Gasto,Marketing,1107.19
+2025-12-15,Ingreso,Ventas de productos,1760.81
+2025-12-15,Gasto,Software y servicios,478.7
+2025-12-15,Ingreso,Otros ingresos,136.51
+2025-12-15,Ingreso,Ventas de productos,1022.3
+2025-12-16,Ingreso,Ventas de productos,1686.56
+2025-12-16,Gasto,Software y servicios,388.3
+2025-12-17,Ingreso,Otros ingresos,185.8
+2025-12-17,Ingreso,Otros ingresos,150.99
+2025-12-17,Ingreso,Otros ingresos,231.54
+2025-12-18,Gasto,Software y servicios,422.58
+2025-12-18,Ingreso,Ventas de productos,1376.96
+2025-12-18,Ingreso,Ventas de productos,1556.01
+2025-12-18,Ingreso,Ventas de servicios,3627.8
+2025-12-18,Ingreso,Otros ingresos,223.68
+2025-12-18,Ingreso,Ventas de servicios,1691.28
+2025-12-18,Ingreso,Ventas de productos,1438.51
+2025-12-19,Gasto,Otros gastos,550.17
+2025-12-20,Ingreso,Ventas de servicios,3342.74
+2025-12-20,Ingreso,Otros ingresos,129.34
+2025-12-20,Gasto,Software y servicios,464.5
+2025-12-20,Gasto,Logistica,793.76
+2025-12-20,Ingreso,Otros ingresos,147.79
+2025-12-21,Ingreso,Ventas de servicios,2209.8
+2025-12-21,Ingreso,Ventas de servicios,3002.44
+2025-12-22,Ingreso,Ventas de productos,2013.89
+2025-12-22,Ingreso,Ventas de productos,2207.17
+2025-12-22,Gasto,Marketing,989.72
+2025-12-22,Ingreso,Otros ingresos,144.51
+2025-12-22,Ingreso,Ventas de productos,1369.03
+2025-12-23,Ingreso,Ventas de productos,1216.25
+2025-12-23,Gasto,Logistica,799.51
+2025-12-24,Ingreso,Otros ingresos,120.2
+2025-12-25,Ingreso,Otros ingresos,159.29
+2025-12-25,Gasto,Marketing,1112.68
+2025-12-26,Ingreso,Ventas de servicios,3731.05
+2025-12-26,Gasto,Impuestos,2828.47
+2025-12-26,Ingreso,Ventas de servicios,2067.13
+2025-12-26,Gasto,Software y servicios,408.92
+2025-12-26,Gasto,Marketing,1008.29
+2025-12-26,Ingreso,Ventas de servicios,2705.3
+2025-12-26,Ingreso,Otros ingresos,204.66
+2025-12-26,Ingreso,Otros ingresos,188.68
+2025-12-27,Gasto,Software y servicios,463.64
+2025-12-27,Ingreso,Ventas de servicios,2194.62
+2025-12-27,Ingreso,Ventas de servicios,3921.43
+2025-12-27,Ingreso,Ventas de servicios,3731.76
+2025-12-27,Gasto,Software y servicios,416.3

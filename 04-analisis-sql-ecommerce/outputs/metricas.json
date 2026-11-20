@@ -1,0 +1,61 @@
+{
+  "ingresos_2025": 1224662.57,
+  "crecimiento_vs_2024_pct": 142.9,
+  "pedidos_2025": 4531,
+  "ticket_promedio_2025": 270.29,
+  "retencion_mes1_pct": 16.0,
+  "retencion_mes3_pct": 10.6,
+  "valiosos_pct_clientes": 11.2,
+  "valiosos_pct_ingresos": 26.4,
+  "ingreso_por_cliente_campeones": 1314.6,
+  "ingreso_por_cliente_perdidos": 331.6,
+  "en_riesgo_clientes": 190,
+  "canal_mayor_recompra": "Referidos",
+  "canal_mayor_recompra_pct": 53.4,
+  "canal_menor_recompra": "Google Ads",
+  "canal_menor_recompra_pct": 29.9,
+  "rfm": [
+    {
+      "segmento": "Perdidos",
+      "clientes": 1336,
+      "pct_clientes": 35.0,
+      "pct_ingresos": 25.6,
+      "ingreso_por_cliente": 331.6
+    },
+    {
+      "segmento": "Nuevos",
+      "clientes": 1236,
+      "pct_clientes": 32.4,
+      "pct_ingresos": 25.1,
+      "ingreso_por_cliente": 350.71
+    },
+    {
+      "segmento": "Leales",
+      "clientes": 275,
+      "pct_clientes": 7.2,
+      "pct_ingresos": 14.9,
+      "ingreso_por_cliente": 938.49
+    },
+    {
+      "segmento": "Necesitan atención",
+      "clientes": 624,
+      "pct_clientes": 16.4,
+      "pct_ingresos": 12.2,
+      "ingreso_por_cliente": 337.21
+    },
+    {
+      "segmento": "Campeones",
+      "clientes": 151,
+      "pct_clientes": 4.0,
+      "pct_ingresos": 11.5,
+      "ingreso_por_cliente": 1314.6
+    },
+    {
+      "segmento": "En riesgo",
+      "clientes": 190,
+      "pct_clientes": 5.0,
+      "pct_ingresos": 10.7,
+      "ingreso_por_cliente": 974.99
+    }
+  ]
+}

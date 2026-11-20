@@ -1,0 +1,19 @@
+categoria,puesto,nombre,unidades,ingresos,peso_en_categoria_pct
+Belleza,1,Crema facial,3821,203885.72,76.7
+Belleza,2,Protector solar,554,19948.56,7.5
+Belleza,3,Kit de uñas,478,10766.09,4.1
+Electrónica,1,Cargador,790,99182.46,34.2
+Electrónica,2,Hub USB,320,38512.78,13.3
+Electrónica,3,Webcam,426,34291.41,11.8
+Mascotas,1,Cama,1631,90622.3,53.1
+Mascotas,2,Arena,943,33467.8,19.6
+Mascotas,3,Alimento 3 kg,752,28848.86,16.9
+Moda,1,Bufanda,1587,85189.08,45.0
+Moda,2,Cinturón,491,31598.41,16.7
+Moda,3,Jean,416,23671.71,12.5
+Deportes,1,Botella,1081,90569.38,53.2
+Deportes,2,Guantes,424,31945.01,18.8
+Deportes,3,Banda elástica,269,11040.15,6.5
+Hogar,1,Toallas,992,61697.77,44.3
+Hogar,2,Set de cocina,313,23332.31,16.8
+Hogar,3,Organizador,257,15477.66,11.1

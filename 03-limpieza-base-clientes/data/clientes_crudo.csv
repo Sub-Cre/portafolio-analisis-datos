@@ -1,0 +1,2017 @@
+id_origen,nombre,email,telefono,ciudad,fecha_registro,monto_compras
+C10000,Rubén Mamani Pérez,RUBEN.MAMANI43@GMAIL.COM,+591 70100034,LPZ,23.01.2023,731.78
+C10001,José  Paredes Mendoza,jose.paredes92@hotmail.com,+591 73482149,Cochabamba,2024-11-19,"Bs 506,94"
+C10002, jorge martínez martínez ,jorge.martinez70@gmail.com,+59174657891,Santa Cruz de la Sierra,2023-05-15,"1,261.88"
+C10003,CAMILA MOLINA QUISPE,CAMILA.MOLINA32@EMPRESA.COM.BO,61395341,SCZ,27/05/2025,"1.029,83"
+C10004,Andres  Torres Sanchez,andres.torres55@empresa.com.bo,+59166578686,La Paz,2025-09-13,629.86
+C10005,Paola Núñez Rojas,paola.nunez38@empresa.com.bo,+59174686359,la paz ,03.08.2025,"531,77"
+C10006,MARÍA PAREDES SALAZAR,maria.paredes21@gmail.com,+59160538606,Sta. Cruz,23/10/2022,656.15
+C10007,SEBASTIÁN MAMANI MOLINA, sebastian.mamani17@empresa.com.bo ,+59174714585,LA PAZ,17/04/2025,987.37
+C10008,José  Choque Salazar,,+591 73383167,el alto,12.01.2025,"Bs 324,69"
+C10009, Jose Ramirez Suarez ,jose.ramirez49@empresa.com.bo,+59166474207,LA PAZ,03.07.2023,1400.97
+C10010,Iván  Mamani Suárez,IVAN.MAMANI95@GMAIL.COM,(591) 7804 3054,sucre,2023-12-21,"Bs 646,58"
+C10011,Valeria Arce Gómez, valeria.arce72@hotmail.com ,(591) 6865 8753,LA PAZ,10/03/2025,"Bs 125,75"
+C10012,lucía torres lópez,lucia.torres76gmail.com,(591) 7382 5515,cbba,26.02.2024,"1,386.43"
+C10013,José Flores Salazar,jose.flores89@gmail,7859-2629,Sucre,27/01/2023,"1.732,33"
+C10014, VERÓNICA RODRÍGUEZ QUISPE ,veronica.rodriguez48@gmail.com,+591 62037877,sucre,2025-03-28,1112.93
+C10015,Rubén Ramírez Mamani, ruben.ramirez87@yahoo.com ,+591 66611783,Sucre,2024-06-13,3558.22
+C10016,Andrés Quispe Sánchez,andres.quispe62@yahoo.com,6861-2545,Cochabamba,pendiente,1303.42
+C10017,Juan Rojas Fernández,juan.rojas18@gmail.com,78747289,cbba,2022-04-19,"1.150,68"
+C10018,Raúl Paredes Torres,raul.paredes65outlook.com,(591) 7730 6597,cbba,01.02.2024,"470,62"
+C10019,Jorge Fernández Gutiérrez,jorge.fernandez43@yahoo.com,(591) 6085 9646,SCZ,30.09.2022,2163.34
+C10020,Ana  Mamani Vargas,ana.mamani47@gmail.com,+591 64985221,SCZ,2025-04-24,644.55
+C10021,Ricardo Gutiérrez Sánchez, ricardo.gutierrez52@gmail.com ,61319276,Sta. Cruz,2022-05-18,"Bs 952,94"
+C10022, Paola Gutiérrez Quispe ,paola.gutierrez97@hotmail.com,7565-3133,Sta. Cruz,02.10.2023,"607,22"
+C10023,héctor flores choque,hector.flores39@gmail.com,71428196,tarija,06/07/2024,"Bs 713,96"
+C10024,Ana Rodríguez Pérez,ANA.RODRIGUEZ62@HOTMAIL.COM,(591) 7598 2910,la paz ,24.06.2025,"2,058.55"
+C10025,Natalia  Gómez Núñez,natalia.gomez44@outlook.com,591-758-25429,TJA,2024-02-14,"Bs 509,74"
+C10026,Jorge Gomez Gomez,jorge.gomez92@outlook.com,(591) 6834 6133,COCHABAMBA,2022-11-11,"4,295.74"
+C10027,Jorge Paredes Gómez,jorge.paredes79gmail.com,591-642-12003,la paz ,2025-03-10,561.49
+C10028,MARIA  ROJAS VARGAS,MARIA.ROJAS6@YAHOO.COM,591-736-01086,santa cruz,07.03.2024,646.84
+C10029,Paola  Vargas Gómez,paola.vargas24@hotmail.com,67106595,LA PAZ,03/04/2022,534.90
+C10030,valeria molina quispe,VALERIA.MOLINA95@GMAIL.COM,68157999,Cbba.,2022-06-09,"2.362,98"
+C10031,JORGE RIVERA CASTRO,jorge.rivera93@empresa.com.bo,,Santa Cruz,2023-05-01,328.07
+C10032,maría mendoza fernández,maria.mendoza86@yahoo.com,591-602-69106,la paz ,24.01.2025,"Bs 1.086,16"
+C10033,Fernando Vargas Fernández,FERNANDO.VARGAS44@OUTLOOK.COM,6261-9829,SCZ,2025-01-02,"Bs 202,07"
+C10034,ANDRÉS RAMÍREZ NÚÑEZ,andres.ramirez16@empresa.com.bo,+591 73145396,Cbba.,01/06/2022,"1,510.08"
+C10035,Miguel Sanchez Fernandez, miguel.sanchez97@outlook.com ,+59160594102,Santa Cruz de la Sierra,13.01.2024,462.34
+C10036,Natalia  Rodríguez Mendoza,natalia.rodriguez73@empresa.com.bo,7398-3580,LPZ,24/03/2023,"439,68"
+C10037,Fernando Castro Pérez,FERNANDO.CASTRO80@GMAIL.COM,(591) 7160 4158,la paz ,09.09.2025,"1.168,63"
+C10038,VERÓNICA ROJAS ARCE,veronica.rojas43@hotmail.com,+59160031508,la paz ,2025-10-21,"622,09"
+C10039,VERÓNICA  FERNÁNDEZ ROJAS, veronica.fernandez12@yahoo.com ,+591 79328622,COCHABAMBA,2023-06-15,"494,77"
+C10040,Verónica Paredes Choque,veronica.paredes90@hotmail.com,+59167902912,COCHABAMBA,07.02.2023,371.12
+C10041,Daniela Vargas López,DANIELA.VARGAS74@EMPRESA.COM.BO,591-704-50581,el alto,2022-02-02,"564,28"
+C10042,RAUL GOMEZ SALAZAR,,68468457,SUC,21.07.2025,"Bs 2.182,64"
+C10043,JOSÉ GUTIÉRREZ RIVERA,jose.gutierrez95@yahoo.com,+59168800617,la paz ,2023-04-30,"Bs 4.963,02"
+C10044,valeria choque ortiz,valeria.choque17@gmail.com,(591) 6085 9671,Santa Cruz,13.05.2025,1121.23
+C10045,Camila Sánchez Rivera,camila.sanchez67@empresa.com.bo,+591 79202457,TJA,23/03/2025,"Bs 1.968,00"
+C10046, Elena Fernández Rivera ,,(591) 6177 6065,santa cruz,14/02/2025,"301,44"
+C10047,Héctor Castro Martínez,,(591) 7194 1870,el alto,2023-02-25,"1,879.45"
+C10048, Luis Molina Arce , luis.molina58@yahoo.com ,(591) 7427 8079,Santa Cruz,15/09/2023,"2,353.84"
+C10049,Valeria Mendoza Sánchez,,(591) 7819 1842,Cochabamba,03.12.2023,"1.208,11"
+C10050, VALERIA  GUTIERREZ MOLINA ,valeria.gutierrez31@hotmail.com,591-697-25328,SCZ,27/06/2024,582.78
+C10051,JOSE ROJAS PEREZ,jose.rojas43@outlook.com,+59160941498,EL ALTO,2022-01-29,"2.480,85"
+C10052,jorge rodríguez ramírez,jorge.rodriguez58@hotmail.com,,Sucre,03/11/2023,"1.375,35"
+C10053, Sofía Arce Molina ,SOFIA.ARCE92@GMAIL.COM,+591 70559843,Cbba.,2025-07-14,"1.293,64"
+C10054, Gabriela Suárez Mamani ,gabriela.suarez83@empresa.com.bo,60005439,SUC,2023-06-02,499.36
+C10055,ANDRÉS PÉREZ GÓMEZ,ANDRES.PEREZ55@GMAIL.COM,+591 61118266,El Alto,2023-11-06,"294,66"
+C10056,Ricardo  Rivera Pérez,RICARDO.RIVERA17@GMAIL.COM,68097605,Santa Cruz,2025-03-16,606.43
+C10057,Andrés Torres Paredes,andres.torres91@yahoo.com,(591) 6014 5955,Santa Cruz de la Sierra,13.08.2025,1028.48
+C10058,Paola  Gomez Fernandez,paola.gomez39@yahoo.com,6514-7518,Santa Cruz de la Sierra,2022-06-24,"760,04"
+C10059,ÓSCAR FERNÁNDEZ NÚÑEZ,oscar.fernandez83@hotmail.com,78911867,LA PAZ,22/02/2024,243.78
+C10060,JOSÉ CHOQUE ARCE,JOSE.CHOQUE83@YAHOO.COM,71308621,La Paz,11.12.2023,261.53
+C10061,Natalia Molina Ortiz,NATALIA.MOLINA70@YAHOO.COM,6910-1125,SUC,01/02/2024,"500,27"
+C10062,Elena Fernández Choque,ELENA.FERNANDEZ50@GMAIL.COM,591-721-22350,santa cruz,2022-02-18,461.79
+C10063,maría rodríguez rivera,maria.rodriguez40@gmail.com,(591) 7662 8905,Cbba.,2024-11-16,706.83
+C10064,Sofía Vargas Rodríguez,SOFIA.VARGAS39@YAHOO.COM,+59161977225,la paz ,28/10/2022,230.22
+C10065,Elena Flores Torres,elena.flores14@yahoo.com,+591 70584762,Santa Cruz,17.01.2024,"Bs 1.338,81"
+C10066,HECTOR FERNANDEZ SALAZAR, hector.fernandez12@gmail.com ,74780176,cbba,10.03.2024,755.14
+C10067,Paola Vargas Flores,paola.vargas66@outlook.com,6995-4956,EL ALTO,22/12/2022,1181.89
+C10068,Ana Núñez Núñez,ana.nunez24@empresa.com.bo,+59167968839,cbba,12.11.2023,141.92
+C10069,miguel ramírez ortiz,miguel.ramirez2@yahoo.com,+59161359758,La Paz,02.12.2024,"Bs 389,48"
+C10070, verónica  salazar salazar ,veronica.salazar5@gmail.com,(591) 7954 8225,Cbba.,08/02/2022,2064.85
+C10071,Raúl Choque Mamani,raul.choque49@hotmail.com,(591) 7578 8513,LPZ,18/11/2022,"Bs 247,50"
+C10072,Luis Mamani Gutiérrez,luis.mamani26@gmail.com,+59172171971,LPZ,03/07/2025,"Bs 452,99"
+C10073,Luis Suarez Rodriguez,luis.suarez59@hotmail.com,7440-3311,Cbba.,2023-06-19,"1.297,57"
+C10074,Paola Suárez Arce,paola.suarez67@hotmail.com,62224856,Santa Cruz,23/05/2024,106.75
+C10075,Maria Molina Martinez, maria.molina15@yahoo.com ,+591 74368171,Cochabamba,pendiente,"1,657.65"
+C10076,Jorge Gómez Vargas,jorge.gomez4@hotmail.com,6578-1806,Sta. Cruz,16/09/2024,"Bs 611,40"
+C10077,Valeria Suárez Salazar,valeria.suarez28@empresa.com.bo,(591) 7377 1387,SCZ,2023-03-21,"Bs 3.383,19"
+C10078, Maria Castro Choque , maria.castro23@hotmail.com ,(591) 7730 8072,Santa Cruz de la Sierra,2025-04-21,217.47
+C10079,claudia lópez rodríguez,claudia.lopez12@yahoo.com,78364795,cbba,01.04.2024,"1,049.73"
+C10080, Andrés Martínez Paredes ,andres.martinez93@gmail.com,+591 68620413,Santa Cruz,05/11/2023,"Bs 468,90"
+C10081,diego salazar torres, diego.salazar46@gmail.com ,+59166303699,la paz ,10.01.2024,245.60
+C10082,óscar torres flores,oscar.torres35@hotmail.com,+591 74126937,EL ALTO,pendiente,714.15
+C10083,Ricardo López Pérez,ricardo.lopez50@hotmail.com,70535412,Cbba.,2024-05-31,"Bs 260,64"
+C10084,Carla Castro Quispe,carla.castro74@gmail.com,(591) 7560 7107,TJA,09.05.2022,426.62
+C10085,maria choque salazar, maria.choque31@outlook.com ,65373253,Cochabamba,2024-07-11,"1,550.61"
+C10086,GABRIELA TORRES SUAREZ,GABRIELA.TORRES46@OUTLOOK.COM,(591) 6065 9240,LA PAZ,pendiente,4222.53
+C10087, ELENA MENDOZA ARCE ,elena.mendoza21@yahoo.com,(591) 7896 8309,tarija,24.10.2022,231.97
+C10088,Oscar Molina Castro,oscar.molina37@hotmail.com,7971-8507,la paz ,2022-01-07,"1.234,46"
+C10089,maría ramírez castro,maria.ramirez38@gmail.com,(591) 7213 5706,el alto,15.04.2023,351.58
+C10090,DANIELA  QUISPE GUTIERREZ,daniela.quispe30@yahoo.com,79725322,La Paz,2025-10-08,823.85
+C10091,Sofía Sánchez Choque,SOFIA.SANCHEZ44@EMPRESA.COM.BO,,SCZ,02.04.2025,"154,79"
+C10092,VERÓNICA GÓMEZ PAREDES,veronica.gomez18@gmail.com,(591) 6933 9830,Santa Cruz,2025-08-16,"Bs 603,54"
+C10093,Ruben Sanchez Choque,ruben.sanchez6@gmail.com,591-677-88146,el alto,21.11.2022,"Bs 644,65"
+C10094, Raul Perez Mendoza ,,79842215,Sucre,2025-08-14,"1,018.81"
+C10095,SEBASTIAN ARCE LOPEZ,sebastian.arce2@empresa.com.bo,+59160291052,LPZ,08/08/2023,616.81
+C10096,sofia  mamani sanchez,,60770621,Cbba.,2025-02-01,"1.334,47"
+C10097,LUIS GÓMEZ PÉREZ,LUIS.GOMEZ76@YAHOO.COM,70675908,Sucre,2024-10-03,2053.02
+C10098,DIEGO  GÓMEZ RAMÍREZ,diego.gomez80@yahoo.com,591-725-58381,LPZ,22.08.2023,518.96
+C10099,Verónica Ramírez Ortiz, veronica.ramirez2@hotmail.com ,77654417,Sta. Cruz,09/01/2022,"519,32"
+C10100,Daniela Castro Flores,DANIELA.CASTRO63@HOTMAIL.COM,7793-8057,Cbba.,15/05/2022,699.86
+C10101,Diego Ramírez Rojas,diego.ramirez18@yahoo.com,74268504,COCHABAMBA,06.12.2024,159.61
+C10102,Ricardo Molina Salazar,ricardo.molina78@hotmail.com,591-699-94309,El Alto,11/12/2022,"360,53"
+C10103,LUCÍA ROJAS TORRES,lucia.rojas4@hotmail.com,,tarija,2025-10-28,1548.48
+C10104,Luis Gutiérrez Sánchez, luis.gutierrez67@outlook.com ,7743-7139,EL ALTO,2024-04-16,"Bs 3.759,02"
+C10105,ANDRÉS CASTRO ROJAS,andres.castro84@outlook.com,(591) 7562 5517,Sta. Cruz,2022-05-12,235.38
+C10106,Paola  Gómez Fernández,paola.gomez39@yahoo.com,+59165147518,SCZ,2022-06-24,760.04
+C10107,Luis Sanchez Gomez,,64614392,LPZ,09/01/2024,"Bs 737,60"
+C10108,Héctor Fernández Rivera,hector.fernandez63@yahoo.com,+59165889204,santa cruz,22/01/2025,887.22
+C10109,FERNANDO ORTIZ GUTIÉRREZ,,591-670-77894,Sucre,2024-04-29,899.95
+C10110,Diego Salazar Pérez,diego.salazar20@outlook.com,7151-7427,EL ALTO,2022-03-03,"666,74"
+C10111,Valeria Ortiz Salazar,VALERIA.ORTIZ86@GMAIL.COM,(591) 6021 3317,SCZ,28.01.2025,"801,58"
+C10112,Raul Rojas Salazar,raul.rojas90@yahoo.com,(591) 6355 1825,Santa Cruz,22.08.2023,"Bs 1.332,43"
+C10113,verónica salazar arce,veronica.salazar22outlook.com,(591) 7061 5791,Cochabamba,29/09/2024,492.79
+C10114,DIEGO LÓPEZ FLORES, diego.lopez50@empresa.com.bo ,591-741-86876,cbba,26/04/2022,"Bs 370,17"
+C10115,Héctor  Castro Torres,hector.castro4@hotmail.com,(591) 7468 1561,El Alto,06.09.2025,"Bs 294,08"
+C10116,Óscar  Flores Choque,OSCAR.FLORES9@GMAIL.COM,591-747-68623,Tarija,2025-03-03,"539,22"
+C10117,Rubén Mamani Castro,RUBEN.MAMANI84@OUTLOOK.COM,6914-7360,EL ALTO,2025-07-11,"1,170.84"
+C10118,Sofía  Ramírez Quispe,SOFIA.RAMIREZ98@EMPRESA.COM.BO,,LPZ,11.11.2023,"5.384,39"
+C10119,Natalia Pérez Salazar,natalia.perez69@empresa.com.bo,7279-1875,LPZ,2022-12-01,"Bs 366,19"
+C10120,elena  quispe gutiérrez,elena.quispe47@gmail.com,64192899,Cbba.,2024-10-20,463.83
+C10121,Sofía Quispe Choque,sofia.quispe16@gmail.com,(591) 7863 9291,EL ALTO,09.04.2022,"3.148,82"
+C10122, Sofía Sánchez Suárez ,sofia.sanchez54@hotmail.com,,EL ALTO,29/07/2023,"766,07"
+C10123,NATALIA  RODRÍGUEZ RAMÍREZ,natalia.rodriguez95@gmail.com,60913124,Sta. Cruz,01/01/2025,"504,74"
+C10124,LUCÍA ROJAS SUÁREZ,lucia.rojas66@hotmail.com,+591 62274205,Sta. Cruz,2022-08-25,1043.03
+C10125,Ana Quispe Choque,ana.quispe28@empresa.com.bo,65003181,La Paz,18/03/2022,391.94
+C10126,Sofía Quispe Choque,SOFIA.QUISPE16@GMAIL.COM,,el alto,2022-04-09,3148.82
+C10127,Paola Fernández Vargas,paola.fernandez3@hotmail.com,6967-0015,Sta. Cruz,2023-01-18,"1,229.65"
+C10128,Sofia Choque Lopez,sofia.choque83@empresa.com.bo,591-675-31222,Cbba.,2023-10-26,380.03
+C10129,María  Suárez Vargas,maria.suarez16@gmail.com,75800334,la paz ,30.11.2023,616.59
+C10130,Mónica Martínez Ramírez,monica.martinez63@outlook.com,62738112,cbba,19/03/2024,"Bs 1.489,27"
+C10131,Carla Rojas Salazar,,(591) 7042 1141,SCZ,04/11/2024,"1.461,92"
+C10132,Lucía  Rivera Pérez,lucia.rivera7@empresa.com.bo,(591) 6755 8665,Santa Cruz,2023-02-06,"Bs 296,71"
+C10133, Raúl López Molina ,RAUL.LOPEZ21@GMAIL.COM,+59163719377,el alto,pendiente,3984.36
+C10134,SEBASTIÁN MARTÍNEZ GUTIÉRREZ,sebastian.martinez66@hotmail.com,591-740-56054,el alto,2025-01-02,"2,023.83"
+C10135,Andres Choque Vargas,ANDRES.CHOQUE45@GMAIL.COM,6538-5718,SCZ,2022-04-25,"Bs 50,42"
+C10136,Elena Gutierrez Arce,elena.gutierrez62@outlook.com,591-795-22131,cbba,20.12.2023,"297,34"
+C10137, Mónica Martínez Ramírez ,MONICA.MARTINEZ63@OUTLOOK.COM,+59162738112,COCHABAMBA,2024-03-19,1489.27
+C10138,jorge torres castro,,+59170381564,COCHABAMBA,2022-10-16,"391,37"
+C10139,Luis Martínez Gómez,LUIS.MARTINEZ83@HOTMAIL.COM,(591) 6365 8679,Santa Cruz,07.02.2024,"Bs 1.102,28"
+C10140,Iván Torres Mamani,ivan.torres69@yahoo.com,6042-6616,Sta. Cruz,11.12.2023,"623,99"
+C10141,rubén castro pérez,ruben.castro31@empresa.com.bo,+59164227766,Cochabamba,23/08/2022,"501,28"
+C10142,Natalia Mamani Rodríguez,NATALIA.MAMANI61@HOTMAIL.COM,,El Alto,11/06/2023,1274.79
+C10143,Fernando Mendoza Lopez,fernando.mendoza98@empresa.com.bo,591-759-81830,La Paz,2023-04-24,"2,519.49"
+C10144,Lucía  Suárez Flores, lucia.suarez85@hotmail.com ,6819-5097,LPZ,2024-11-28,"760,68"
+C10145,LUCIA NUNEZ TORRES,lucia.nunez52@gmail.com,6068-5292,sucre,04.02.2022,"Bs 348,18"
+C10146,CARLA QUISPE GUTIERREZ,carla.quispe13@yahoo.com,61753313,LPZ,21/07/2025,334.78
+C10147,Carla Ortiz Flores,,6927-0367,TJA,09/01/2023,"Bs 2.783,68"
+C10148,lucía sánchez mamani,LUCIA.SANCHEZ52@HOTMAIL.COM,7061-1594,SUC,07.05.2022,478.13
+C10149,Oscar  Gutierrez Fernandez,oscar.gutierrez12@empresa.com.bo,+59173259096,cbba,2025-08-13,459.88
+C10150,Monica Perez Gomez,monica.perez50@hotmail.com,+59179802197,Tarija,26.07.2024,534.25
+C10151,elena arce pérez,elena.arce24@gmail,+59169417968,EL ALTO,2022-06-29,"580,65"
+C10152,Elena Arce Sánchez,ELENA.ARCE63@OUTLOOK.COM,7083-5036,Cochabamba,01/08/2023,"362,63"
+C10153,Daniela Nunez Mendoza,DANIELA.NUNEZ61@HOTMAIL.COM,+59164292981,sucre,2024-07-16,"Bs 965,42"
+C10154, paola martínez ramírez ,PAOLA.MARTINEZ9@EMPRESA.COM.BO,+591 66683849,la paz ,18.08.2022,"Bs 951,26"
+C10155,Andres Arce Gomez,andres.arce24@empresa.com.bo,591-738-88402,Cbba.,28/04/2023,"2,095.48"
+C10156,carla  castro vargas,carla.castro40@outlook.com,591-678-55338,SCZ,2022-01-21,353.32
+C10157, ANA ARCE FLORES ,ANA.ARCE29@YAHOO.COM,(591) 7633 4637,Cbba.,2022-01-14,"Bs 305,19"
+C10158,JUAN SALAZAR RIVERA,juan.salazar9@outlook.com,76121602,Cochabamba,22.07.2024,1286.45
+C10159,LUCÍA ARCE GÓMEZ,lucia.arce60@hotmail.com,7794-3315,la paz ,23/07/2025,1551.46
+C10160,josé rivera choque,jose.rivera26@yahoo.com,(591) 7852 4612,Sucre,23/06/2025,532.33
+C10161,José  Núñez Paredes,jose.nunez73@outlook.com,(591) 6333 3138,Santa Cruz de la Sierra,2023-08-16,408.65
+C10162,Óscar Flores Martínez, oscar.flores23@gmail.com ,591-727-00094,SCZ,02/07/2022,411.35
+C10163,verónica  suárez pérez,veronica.suarez4@hotmail.com,73890846,santa cruz,2024-10-24,"160,85"
+C10164,Luis Torres Ramírez,,,Cochabamba,2025-03-28,775.91
+C10165,PAOLA  ARCE RIVERA,paola.arce79@hotmail.com,+59168285151,El Alto,2024-12-09,"369,29"
+C10166,Sebastián Ortiz Ramírez,sebastian.ortiz20@hotmail.com,+591 74419233,Santa Cruz,2024-11-21,"Bs 475,95"
+C10167, RAÚL LÓPEZ ORTIZ ,raul.lopez79@yahoo.com,+59178182727,la paz ,2023-10-01,"Bs 861,55"
+C10168, RICARDO CASTRO MAMANI ,ricardo.castro6@yahoo.com,+59170415480,Santa Cruz de la Sierra,07/06/2025,"242,40"
+C10169, Mónica Núñez Torres ,monica.nunez14@outlook.com,+59175130342,SCZ,2023-10-26,844.93
+C10170,Diego Rivera Pérez,diego.rivera77@hotmail.com,7156-3954,Santa Cruz,27/10/2025,"1.138,64"
+C10171,Claudia Quispe Quispe,claudia.quispe86@outlook,71735205,SUC,27.05.2025,535.36
+C10172, miguel choque torres , miguel.choque55@gmail.com ,+591 79121919,La Paz,10.11.2024,324.83
+C10173,Jorge  Mendoza Choque,jorge.mendoza26@gmail.com,,La Paz,14.05.2024,1826.88
+C10174,ANA CASTRO ORTIZ,ANA.CASTRO56@YAHOO.COM,+59173793637,Santa Cruz,04/04/2022,"Bs 568,17"
+C10175,Monica Sanchez Perez,monica.sanchez81@hotmail.com,(591) 7138 7117,Cochabamba,2024-11-07,915.79
+C10176,Ana Rojas Ortiz,ANA.ROJAS96@HOTMAIL.COM,,santa cruz,2023-12-04,"327,43"
+C10177,Veronica Flores Quispe,veronica.flores20@gmail,6427-0984,cbba,2025-08-09,"Bs 1.286,48"
+C10178, Juan Torres Suarez ,JUAN.TORRES90@EMPRESA.COM.BO,+59161160674,La Paz,2024-12-03,"Bs 265,88"
+C10179,IVÁN  QUISPE RAMÍREZ,ivan.quispe16@empresa.com.bo,6321-1324,TJA,12/01/2024,"1,184.90"
+C10180,VERONICA  FLORES ORTIZ,veronica.flores6@hotmail.com,6990-8685,Sucre,2022-12-07,1919.76
+C10181,Paola Paredes Arce,paola.paredes33@outlook.com,(591) 6802 4656,EL ALTO,2022-02-23,"1,394.33"
+C10182, NATALIA  MENDOZA GÓMEZ ,natalia.mendoza38@empresa.com.bo,78976901,COCHABAMBA,2025-07-20,1935.97
+C10183,Óscar Sánchez Arce,OSCAR.SANCHEZ48@GMAIL.COM,591-781-35858,Santa Cruz de la Sierra,2023-11-14,"3,392.07"
+C10184,JUAN  LÓPEZ GUTIÉRREZ,juan.lopez84@gmail.com,60272158,LA PAZ,14.08.2024,184.26
+C10185, Fernando Núñez Rivera ,fernando.nunez17@yahoo.com,591-754-72265,Tarija,pendiente,"920,25"
+C10186,Veronica Torres Mamani,VERONICA.TORRES59@EMPRESA.COM.BO,591-621-78253,LA PAZ,03/12/2023,"Bs 637,88"
+C10187,Verónica Pérez Martínez,veronica.perez97@empresa.com.bo,591-736-44823,Sta. Cruz,30/11/2022,412.09
+C10188,natalia núñez quispe, natalia.nunez91@gmail.com ,,La Paz,13/01/2025,663.91
+C10189,ivan mamani rivera,IVAN.MAMANI52@GMAIL.COM,+59164698501,el alto,20/01/2024,353.00
+C10190, Daniela Rodríguez Fernández ,daniela.rodriguez86@yahoo.com,+591 71642751,El Alto,2023-02-03,946.94
+C10191,ANDRÉS VARGAS CHOQUE,,+591 68038976,Santa Cruz,2022-09-29,"285,86"
+C10192, elena mamani ortiz ,elena.mamani79@outlook.com,7248-0988,La Paz,07.11.2023,"3.202,70"
+C10193,Gabriela  Paredes Torres,gabriela.paredes50@outlook.com,+591 66980692,La Paz,2023-10-28,"129,81"
+C10194,Mónica Fernández Fernández, monica.fernandez51@hotmail.com ,+59161827371,Cochabamba,27.10.2025,"1.299,73"
+C10195,HÉCTOR ORTIZ ORTIZ,hector.ortiz21@empresa.com.bo,591-722-15649,LPZ,2024-01-21,"1,303.05"
+C10196,José Salazar Choque, jose.salazar81@empresa.com.bo ,+591 79415832,La Paz,29/06/2024,161.19
+C10197, valeria mendoza ortiz ,valeria.mendoza24@hotmail.com,+591 67573460,TJA,13/06/2023,"685,43"
+C10198,luis perez rojas,luis.perez1@yahoo.com,65107214,LA PAZ,2023-03-27,1711.98
+C10199,Hector  Lopez Rodriguez,hector.lopez26@outlook.com,6594-3319,cbba,01/07/2024,"519,27"
+C10200, Daniela Lopez Salazar ,daniela.lopez70@hotmail.com,591-732-61908,Cochabamba,2022-03-02,"2,121.93"
+C10201,Diego Mendoza Núñez,diego.mendoza5@gmail.com,+591 68533238,el alto,2023-12-17,126.76
+C10202,iván mendoza mamani,IVAN.MENDOZA54@HOTMAIL.COM,,SUC,2022-09-23,1253.70
+C10203,Diego Rojas Arce,diego.rojas89@yahoo.com,591-796-04592,santa cruz,21/12/2022,"1,044.67"
+C10204, Ricardo Martínez Quispe ,ricardo.martinez38@yahoo.com,591-656-20774,tarija,pendiente,1506.50
+C10205,Daniela Perez Choque, daniela.perez19@gmail.com ,7969-7246,Sta. Cruz,12.10.2024,335.98
+C10206, gabriela  arce vargas ,gabriela.arce73@hotmail.com,(591) 7236 3383,COCHABAMBA,20/03/2024,549.38
+C10207,maría núñez vargas,MARIA.NUNEZ84@EMPRESA.COM.BO,62285313,LA PAZ,2024-12-05,391.60
+C10208,Sebastian Rojas Sanchez,,76239625,SCZ,pendiente,612.05
+C10209,Fernando Paredes Rodríguez,fernando.paredes27@outlook.com,+591 73343777,LPZ,07/05/2025,980.69
+C10210,ANA GUTIÉRREZ RAMÍREZ,ana.gutierrez14@yahoo.com,591-789-01867,santa cruz,11.09.2025,950.87
+C10211,SOFIA  CASTRO QUISPE,SOFIA.CASTRO7@YAHOO.COM,6934-5899,Tarija,2022-05-29,849.31
+C10212,mónica flores fernández, monica.flores82@hotmail.com ,+59160451324,Sta. Cruz,18/04/2023,306.92
+C10213,Paola Arce Suarez,paola.arce23@gmail.com,+59160461561,El Alto,17.10.2024,"1.932,78"
+C10214, Carla  Choque Arce ,CARLA.CHOQUE13@HOTMAIL.COM,6509-0289,Santa Cruz,2023-03-01,384.51
+C10215,maria  rodriguez nunez,maria.rodriguez83@hotmail.com,591-740-41477,LPZ,2024-06-22,"975,55"
+C10216,gabriela pérez martínez, gabriela.perez8@yahoo.com ,591-661-16476,Sucre,2022-12-12,"6,027.86"
+C10217,DANIELA GUTIÉRREZ LÓPEZ,daniela.gutierrez7@empresa.com.bo,7129-1421,LPZ,2024-07-31,180.54
+C10218,Juan Suárez Vargas,juan.suarez5@hotmail,+59174132783,SCZ,10.01.2025,"Bs 474,83"
+C10219,MONICA  MAMANI FERNANDEZ, monica.mamani28@outlook.com ,(591) 6550 7920,Santa Cruz de la Sierra,03/04/2022,1045.98
+C10220,Verónica  Ortiz Vargas,VERONICA.ORTIZ2@HOTMAIL.COM,73190870,LA PAZ,2023-05-23,604.38
+C10221,RAÚL  SALAZAR SÁNCHEZ,raul.salazar79@yahoo.com,+591 60853567,Santa Cruz,2023-08-25,173.96
+C10222,Andrés López Gómez,ANDRES.LOPEZ83@EMPRESA.COM.BO,7237-4898,COCHABAMBA,24/10/2025,484.43
+C10223, Diego  Molina Ramírez ,diego.molina78@yahoo.com,74093529,El Alto,02/07/2025,545.09
+C10224, Andrés Suárez Choque ,andres.suarez6@outlook.com,7980-9552,la paz ,27.08.2023,3908.79
+C10225,RICARDO SANCHEZ VARGAS,,+59161598619,LPZ,2023-01-10,164.32
+C10226, Fernando Flores Sánchez ,,+59165685998,santa cruz,2023-01-25,"Bs 606,68"
+C10227,ANDRÉS PAREDES QUISPE,andres.paredes23@yahoo.com,(591) 7850 6713,TJA,13.08.2023,"328,25"
+C10228,ana martínez núñez,ana.martinez32@hotmail.com,7595-2404,SUC,05.01.2022,"Bs 543,65"
+C10229,SOFÍA SÁNCHEZ VARGAS,sofia.sanchez76@empresa.com.bo,,Sta. Cruz,13.05.2025,324.37
+C10230,claudia quispe pérez,CLAUDIA.QUISPE37@EMPRESA.COM.BO,6891-4067,Sta. Cruz,19/05/2022,"Bs 1.427,98"
+C10231, ivan torres mamani ,,+591 60426616,santa cruz,2023-12-11,"623,99"
+C10232, Paola Choque Núñez ,paola.choque22@yahoo.com,+591 79072488,SUC,15.02.2023,"251,55"
+C10233,Miguel Salazar Salazar,MIGUEL.SALAZAR30@YAHOO.COM,73573696,Cochabamba,24/08/2022,1875.44
+C10234,María Rivera Mendoza,maria.rivera26@yahoo.com,65619879,La Paz,2022-01-21,678.07
+C10235,ANA  MOLINA PAREDES,ANA.MOLINA48@OUTLOOK.COM,65101896,Cbba.,2024-05-10,554.73
+C10236,Fernando Fernández Choque,fernando.fernandez53@outlook.com,+591 77308488,Santa Cruz,2025-08-25,962.75
+C10237,CARLA ROJAS ROJAS,carla.rojas20@yahoo.com,591-771-63356,COCHABAMBA,02/05/2025,666.25
+C10238,Natalia  Quispe Rojas, natalia.quispe61@yahoo.com ,+591 76552697,LPZ,2023-01-06,"3.993,16"
+C10239, natalia mamani ramirez ,natalia.mamani72@hotmail.com,7086-4499,Sucre,13.02.2023,"6.497,99"
+C10240,José Rojas Gutiérrez,jose.rojas60@yahoo.com,591-784-60495,Tarija,2022-06-05,1929.05
+C10241,Hector Salazar Choque,HECTOR.SALAZAR27@EMPRESA.COM.BO,+59176401327,La Paz,26/01/2022,"Bs 330,20"
+C10242,María Pérez Martínez,maria.perez58gmail.com,60776895,santa cruz,22.11.2024,"945,13"
+C10243,Fernando Núñez Pérez,FERNANDO.NUNEZ1@EMPRESA.COM.BO,591-632-02322,santa cruz,23/02/2025,1084.53
+C10244,juan  gutiérrez sánchez, juan.gutierrez82@empresa.com.bo ,68936314,el alto,2022-12-13,732.18
+C10245,Miguel Torres Gomez,miguel.torres65@hotmail.com,,LA PAZ,04/01/2024,245.47
+C10246,miguel  paredes castro, miguel.paredes64@empresa.com.bo ,79811404,la paz ,2023-04-22,"752,82"
+C10247,Sofía  Choque Ortiz,SOFIA.CHOQUE96@EMPRESA.COM.BO,(591) 7081 7615,COCHABAMBA,2025-09-26,319.53
+C10248,daniela  torres suarez,daniela.torres3@yahoo.com,6915-7584,LPZ,14.08.2022,2173.77
+C10249,Natalia Fernandez Salazar,NATALIA.FERNANDEZ13@OUTLOOK.COM,591-617-61516,SUC,26/12/2023,"Bs 1.984,88"
+C10250,IVÁN VARGAS LÓPEZ,ivan.vargas77@yahoo,+591 61408905,SUC,2023-07-10,168.22
+C10251,Valeria Martinez Mendoza,,(591) 6956 2629,SCZ,2022-03-22,"Bs 604,93"
+C10252,camila torres mendoza, camila.torres69@empresa.com.bo ,6798-0349,la paz ,24/09/2024,"208,15"
+C10253,José López Vargas,jose.lopez38@empresa.com,,Cbba.,04/04/2022,"Bs 861,49"
+C10254, Óscar Salazar Choque ,oscar.salazar5@outlook.com,+59168193935,Tarija,21/03/2023,"1,724.04"
+C10255,GABRIELA RODRÍGUEZ ROJAS,gabriela.rodriguez81@empresa.com.bo,7927-3684,EL ALTO,22.10.2023,1617.02
+C10256,Ruben  Rojas Quispe,RUBEN.ROJAS77@HOTMAIL.COM,+59175711228,sucre,05/12/2024,"554,52"
+C10257, ana rivera fernández , ana.rivera49@yahoo.com ,7182-7451,Cochabamba,24.05.2025,"322,57"
+C10258,Monica Sanchez Perez,monica.sanchez81@hotmail.com,71387117,Cbba.,2024-11-07,"915,79"
+C10259,Camila Gutiérrez López,camila.gutierrez51@empresa.com.bo,68084462,Cbba.,pendiente,804.84
+C10260,ANDRÉS CHOQUE RAMÍREZ,andres.choque12yahoo.com,+59179837797,SCZ,2022-03-13,245.21
+C10261,Camila Rodriguez Mamani,camila.rodriguez72@gmail.com,(591) 7533 8307,COCHABAMBA,02/03/2025,"90,84"
+C10262, Carla  Paredes Suarez ,carla.paredes44@outlook.com,71652235,La Paz,2023-02-03,"2.471,94"
+C10263,CAMILA FERNÁNDEZ PAREDES,camila.fernandez89@hotmail.com,7848-0899,LA PAZ,19.09.2022,"4,192.51"
+C10264,Carla  Rivera Martínez,carla.rivera16hotmail.com,72805411,Santa Cruz de la Sierra,26/09/2025,"1,056.94"
+C10265,andrés  choque torres,andres.choque8@gmail.com,6985-1495,Cochabamba,pendiente,1153.83
+C10266,camila ramirez salazar,camila.ramirez85@hotmail.com,+59177357257,El Alto,2024-12-20,"790,60"
+C10267,NATALIA PAREDES TORRES,NATALIA.PAREDES73@YAHOO.COM,,tarija,09.05.2022,"223,52"
+C10268,Paola Flores Gutiérrez,paola.flores95@gmail.com,7769-3805,El Alto,17/12/2022,5395.69
+C10269,lucia salazar perez,lucia.salazar26@gmail.com,7068-2801,LA PAZ,26/11/2022,"Bs 367,68"
+C10270, Camila Molina Sanchez ,camila.molina95@outlook.com,591-720-71768,la paz ,2025-02-10,1697.82
+C10271, ELENA TORRES SÁNCHEZ ,elena.torres80@hotmail.com,77686269,COCHABAMBA,12.07.2022,725.17
+C10272,fernando  flores flores,FERNANDO.FLORES7@EMPRESA.COM.BO,6902-4217,EL ALTO,19.11.2022,390.82
+C10273,Ana Núñez Sánchez,ana.nunez34@empresa.com.bo,+59166094048,la paz ,2025-03-15,1204.31
+C10274,JUAN GÓMEZ RAMÍREZ,juan.gomez79@yahoo.com,591-605-62720,EL ALTO,11/02/2024,"202,11"
+C10275,Ana Quispe Castro, ana.quispe90@outlook.com ,+59170741299,Cochabamba,2024-11-01,"Bs 449,00"
+C10276,CARLA MENDOZA MENDOZA,carla.mendoza9@yahoo.com,+59172424691,la paz ,2023-10-31,951.99
+C10277,Andrés  Martínez Fernández,ANDRES.MARTINEZ53@EMPRESA.COM.BO,591-630-01489,la paz ,2024-07-06,881.73
+C10278,VALERIA ORTIZ RIVERA,valeria.ortiz7@yahoo.com,(591) 6734 2323,el alto,2022-09-26,"144,66"
+C10279,Jorge Torres Torres,jorge.torres54@outlook,(591) 6397 6772,SCZ,01.09.2024,"1.565,39"
+C10280, valeria choque vargas ,valeria.choque71@empresa.com.bo,591-731-84258,SCZ,2023-12-07,972.88
+C10281,natalia gómez mendoza,natalia.gomez95@yahoo.com,591-715-56945,SCZ,2023-09-21,"Bs 660,87"
+C10282,Lucía  Quispe Vargas,LUCIA.QUISPE89@EMPRESA.COM.BO,+59175992983,sucre,2024-04-02,"Bs 259,87"
+C10283,sebastián fernández martínez,SEBASTIAN.FERNANDEZ66@YAHOO.COM,6491-3206,el alto,2023-10-02,744.87
+C10284,Ana Suárez Torres,ana.suarez90@empresa.com.bo,+591 77401264,La Paz,pendiente,362.99
+C10285,fernando gutiérrez pérez,fernando.gutierrez77@hotmail.com,+591 66983609,Santa Cruz,20/12/2023,"Bs 2.225,53"
+C10286, jose fernandez fernandez ,jose.fernandez8@empresa.com.bo,63071498,EL ALTO,09/03/2022,"223,73"
+C10287,Fernando  Flores Rivera,,(591) 7305 4911,Sta. Cruz,2025-03-12,606.70
+C10288,Claudia  Molina Castro,claudia.molina42@empresa.com.bo,+591 61549994,SCZ,29/12/2024,258.32
+C10289,OSCAR SUAREZ GUTIERREZ,OSCAR.SUAREZ64@EMPRESA.COM.BO,7771-5828,LPZ,11/03/2023,1911.70
+C10290, ana quispe mendoza ,ana.quispe16@outlook.com,+59167208528,Santa Cruz,15/07/2025,"Bs 2.449,16"
+C10291,LUIS NÚÑEZ LÓPEZ,luis.nunez98@hotmail.com,67082374,la paz ,2022-07-24,1189.46
+C10292,Luis Perez Suarez,luis.perez77@yahoo.com,6567-6433,la paz ,2022-06-22,577.26
+C10293,FERNANDO MAMANI RAMIREZ,fernando.mamani36@yahoo.com,+591 73276465,sucre,2022-05-21,"1.100,25"
+C10294, Luis Vargas Castro ,luis.vargas75@yahoo.com,+591 64145430,Santa Cruz de la Sierra,2024-02-10,1264.62
+C10295,raul mendoza salazar,raul.mendoza21@empresa.com.bo,7668-3219,SCZ,2022-02-07,"218,88"
+C10296, Lucia Rojas Salazar ,lucia.rojas17@empresa.com.bo,66050623,santa cruz,2025-04-21,356.41
+C10297, andrés quispe ortiz ,andres.quispe84@empresa.com.bo,+59176324594,Cochabamba,2024-10-20,"2.034,21"
+C10298, sofia gutierrez castro , sofia.gutierrez74@yahoo.com ,76438463,LA PAZ,11.07.2022,1599.83
+C10299,héctor pérez martínez,hector.perez52@hotmail.com,(591) 7058 6932,La Paz,2025-03-22,991.84
+C10300,Natalia  Mendoza Rodríguez,natalia.mendoza95@empresa.com.bo,591-654-91041,el alto,05/08/2022,"Bs 786,43"
+C10301,Ana Núñez Fernández,ana.nunez49@hotmail.com,+591 63009460,santa cruz,2024-08-13,545.73
+C10302, camila sánchez flores ,camila.sanchez13@empresa.com.bo,6130-4965,El Alto,2023-02-18,"890,48"
+C10303, Sofia Molina Ortiz ,sofia.molina83@gmail.com,+59178760561,Santa Cruz de la Sierra,03/01/2022,1459.91
+C10304,Ivan Gutierrez Perez,ivan.gutierrez9@hotmail.com,+59161522889,cbba,pendiente,"3.931,25"
+C10305,daniela ramírez pérez,daniela.ramirez15@hotmail.com,74009980,TJA,16/06/2023,2323.47
+C10306,Luis Mamani Flores,luis.mamani70@gmail.com,75781036,tarija,20/11/2023,5740.49
+C10307,Natalia Núñez Castro,natalia.nunez30@yahoo.com,,Cochabamba,2024-06-23,341.10
+C10308,SOFIA RAMIREZ ROJAS,SOFIA.RAMIREZ64@YAHOO.COM,591-663-78834,cbba,07/09/2025,"Bs 1.364,29"
+C10309, juan  ramirez gutierrez ,juan.ramirez79@hotmail.com,7661-2342,Cbba.,06/11/2024,"Bs 247,75"
+C10310,Oscar Vargas Paredes, oscar.vargas54@empresa.com.bo ,591-629-31793,cbba,22/03/2023,"Bs 670,38"
+C10311,DANIELA  MENDOZA MAMANI,daniela.mendoza96@hotmail.com,(591) 6254 1620,el alto,06.10.2023,778.57
+C10312, Óscar Flores Ramírez ,oscar.flores36@gmail.com,76788963,tarija,2022-01-19,"Bs 1.037,06"
+C10313,HECTOR QUISPE SANCHEZ,hector.quispe8@outlook.com,+591 75067256,Sta. Cruz,2023-07-05,"872,21"
+C10314,Daniela López Choque,daniela.lopez71@outlook.com,66585620,Sta. Cruz,07/08/2024,"Bs 712,08"
+C10315, josé rivera arce ,JOSE.RIVERA57@YAHOO.COM,(591) 6259 1421,santa cruz,pendiente,"2.092,75"
+C10316, Claudia Choque Ramírez ,claudia.choque10@empresa.com.bo,+59178761301,Sta. Cruz,08.11.2022,"3.320,70"
+C10317,miguel perez mamani,miguel.perez2@yahoo.com,(591) 7442 8248,El Alto,2025-09-22,424.70
+C10318, Óscar Rivera Arce ,oscar.rivera56yahoo.com,+59166856323,SUC,20/05/2023,"1,913.17"
+C10319,Natalia Ramírez Sánchez,natalia.ramirez24@yahoo.com,(591) 6852 2828,cbba,2023-12-04,"Bs 1.154,46"
+C10320, jose torres perez ,jose.torres63@hotmail.com,591-641-75418,la paz ,2025-07-05,244.44
+C10321,Raúl Martínez Rojas,raul.martinez87@yahoo.com,,SCZ,26/03/2024,"Bs 1.714,74"
+C10322,María  Rojas Mendoza,maria.rojas97@empresa.com.bo,+59176071354,santa cruz,26/11/2023,916.16
+C10323,daniela rodriguez fernandez,daniela.rodriguez86yahoo.com,+59171642751,el alto,03/02/2023,946.94
+C10324,ELENA MAMANI MARTÍNEZ,ELENA.MAMANI38@GMAIL.COM,+59166009285,Santa Cruz,2023-07-18,"1.189,44"
+C10325, Carla Ramírez Rivera ,carla.ramirez38@empresa.com.bo,591-706-84404,Santa Cruz de la Sierra,18.12.2022,838.66
+C10326,Jorge Salazar Quispe,,(591) 6114 8378,Santa Cruz,2022-06-28,"878,24"
+C10327, RICARDO  GUTIÉRREZ GUTIÉRREZ ,ricardo.gutierrez83@yahoo,+591 77517576,LPZ,2023-04-01,"4.341,76"
+C10328,Carla  Mamani Quispe,carla.mamani69@empresa.com.bo,+59178198269,cbba,2023-04-02,875.59
+C10329,Gabriela Sánchez Gómez,GABRIELA.SANCHEZ16@EMPRESA.COM.BO,+59171675142,santa cruz,23/06/2022,"723,51"
+C10330,Juan Nunez Paredes,juan.nunez63@empresa.com.bo,(591) 6644 2331,Cbba.,2022-05-26,2229.87
+C10331,Natalia Rivera Rodríguez,natalia.rivera52@outlook.com,+59176822793,cbba,2023-04-27,"866,38"
+C10332,ANA FERNANDEZ ARCE,ana.fernandez61@gmail.com,+591 61821303,la paz ,2025-10-30,"Bs 2.317,27"
+C10333,gabriela mamani sánchez, gabriela.mamani56@gmail.com ,7578-4133,LPZ,03.08.2022,"Bs 517,34"
+C10334,Diego Arce Nunez,DIEGO.ARCE83@GMAIL.COM,73434270,COCHABAMBA,13/04/2024,522.67
+C10335,Elena Fernandez Rivera,elena.fernandez71@hotmail.com,+591 61776065,Santa Cruz,14.02.2025,"301,44"
+C10336,Juan Rivera Ortiz,,62058316,la paz ,05/06/2024,"583,73"
+C10337,jorge mamani lópez, jorge.mamani91@gmail.com ,73699195,Sucre,17/06/2025,2511.84
+C10338,ANA  RIVERA TORRES,ana.rivera80@gmail.com,+59166029846,LPZ,2022-10-18,599.98
+C10339, Ana Rojas López ,ana.rojas60@gmail.com,7857-3878,SUC,2025-08-31,281.50
+C10340,Valeria Gómez Gutiérrez,VALERIA.GOMEZ96@EMPRESA.COM.BO,+591 69568435,Cochabamba,21.04.2025,"Bs 524,38"
+C10341,Valeria  Paredes Gómez,valeria.paredes13@outlook.com,6678-6493,santa cruz,15/10/2025,"1,190.70"
+C10342, Jorge Choque Fernández ,jorge.choque67@empresa.com.bo,591-615-71817,Santa Cruz,06/06/2023,305.69
+C10343, Sofia Castro Salazar , sofia.castro2@hotmail.com ,591-689-85856,Cbba.,pendiente,"1,169.74"
+C10344, Paola  Castro Suarez ,paola.castro27@hotmail.com,+591 66578048,la paz ,26/12/2023,404.06
+C10345,Sofía Vargas Vargas,sofia.vargas74@yahoo.com,+591 67912456,Sucre,2023-10-17,"1,132.51"
+C10346,Héctor Mendoza Sánchez,hector.mendoza80@hotmail.com,591-669-51741,cbba,2023-07-26,"Bs 2.753,32"
+C10347,miguel rojas fernández,,+59164790260,Cbba.,15.01.2024,"158,69"
+C10348,José Suárez Choque,jose.suarez11@empresa.com.bo,591-695-98218,SUC,2025-05-28,"659,82"
+C10349,Sebastián  Rodríguez Martínez,SEBASTIAN.RODRIGUEZ78@OUTLOOK.COM,591-612-19090,EL ALTO,2023-10-09,807.41
+C10350,HÉCTOR QUISPE ARCE,hector.quispe6@hotmail.com,591-631-39694,Cochabamba,11/06/2025,649.27
+C10351, mónica pérez núñez ,monica.perez77@gmail.com,6660-4894,LA PAZ,16/06/2022,"640,78"
+C10352,Carla Choque Núñez,CARLA.CHOQUE12@HOTMAIL.COM,591-649-05005,santa cruz,20/09/2023,"1.403,70"
+C10353,Juan Sánchez Rojas,juan.sanchez17@hotmail.com,68679804,LA PAZ,01.02.2024,405.97
+C10354, MARÍA MAMANI TORRES ,maria.mamani74@empresa.com.bo,+591 74038493,santa cruz,2024-09-26,386.40
+C10355,Luis Vargas Rojas,luis.vargas25@hotmail.com,(591) 6537 9143,la paz ,2022-07-01,259.12
+C10356,Luis Mendoza Paredes,luis.mendoza86empresa.com.bo,,EL ALTO,2025-09-18,288.05
+C10357,LUCIA SUAREZ SANCHEZ,lucia.suarez81@outlook.com,+59176285335,la paz ,24/10/2025,"Bs 1.099,73"
+C10358,RUBÉN MOLINA RIVERA,ruben.molina64@gmail.com,(591) 6995 6058,Sta. Cruz,2023-11-23,"Bs 2.492,86"
+C10359,Camila  Núñez Ortiz,camila.nunez54@hotmail.com,+591 68502989,Cochabamba,2025-03-26,"687,89"
+C10360,Elena Rodriguez Rodriguez,ELENA.RODRIGUEZ76@OUTLOOK.COM,591-792-22027,Sta. Cruz,2023-08-26,"1.125,33"
+C10361,HECTOR ARCE FERNANDEZ,hector.arce30@yahoo.com,591-797-25103,santa cruz,2023-09-14,541.04
+C10362,JOSE GUTIERREZ PAREDES,jose.gutierrez27@empresa.com.bo,6847-0839,SCZ,pendiente,539.30
+C10363,elena lópez lópez,elena.lopez53@gmail.com,+591 75923444,la paz ,16/08/2023,"Bs 252,45"
+C10364, Paola Rojas Gutiérrez ,paola.rojas44@empresa.com.bo,+591 62525725,cbba,2024-05-10,"1.914,69"
+C10365,Óscar Núñez Sánchez, oscar.nunez38@outlook.com ,+59165134562,el alto,2024-02-21,480.01
+C10366,JUAN RODRÍGUEZ CHOQUE,juan.rodriguez12gmail.com,+59178416316,Tarija,2025-08-02,934.04
+C10367,óscar salazar molina,oscar.salazar55@hotmail,+591 75992318,Sta. Cruz,29.01.2025,"Bs 1.608,39"
+C10368,DIEGO FERNANDEZ PAREDES,diego.fernandez11@outlook.com,76968203,Cochabamba,02/08/2024,930.35
+C10369,Sofía López López,SOFIA.LOPEZ73@HOTMAIL.COM,79325557,Cbba.,16.03.2024,"Bs 263,78"
+C10370, Camila Mendoza Flores ,camila.mendoza23@yahoo.com,(591) 6998 1208,la paz ,04.12.2023,764.08
+C10371,MIGUEL VARGAS GUTIÉRREZ,miguel.vargas15@gmail.com,+59172691602,Sta. Cruz,2024-11-04,"685,76"
+C10372,Luis  Rojas Torres,luis.rojas20@empresa.com.bo,+591 72739033,cbba,2023-08-03,"473,03"
+C10373,Juan  Quispe Paredes,juan.quispe14@gmail.com,+591 72490283,SUC,01/03/2024,"Bs 262,72"
+C10374,valeria sanchez lopez,valeria.sanchez95@yahoo.com,(591) 6234 4175,COCHABAMBA,29/05/2024,402.68
+C10375,Oscar Lopez Paredes,oscar.lopez40@gmail.com,591-709-19718,Cochabamba,02/07/2024,750.04
+C10376,ANA MOLINA MARTÍNEZ,ANA.MOLINA64@HOTMAIL.COM,+59167574269,LA PAZ,2022-07-02,"Bs 599,67"
+C10377, ELENA MOLINA VARGAS ,ELENA.MOLINA80@YAHOO.COM,591-797-18117,TJA,2024-04-19,920.79
+C10378,claudia choque vargas,claudia.choque91@outlook.com,7048-6780,Tarija,2022-11-04,"Bs 857,60"
+C10379,Héctor Mamani Rivera,hector.mamani57@empresa.com.bo,7624-9117,LPZ,2023-03-05,"5.947,43"
+C10380,Maria Molina Perez,maria.molina12@hotmail.com,591-607-37707,Cbba.,15.01.2025,237.43
+C10381,FERNANDO FLORES TORRES,fernando.flores26@empresa.com.bo,591-731-61439,Santa Cruz de la Sierra,20/07/2024,650.88
+C10382,Mónica Fernández Castro,monica.fernandez28@gmail.com,7063-4513,El Alto,31/10/2024,"2,268.06"
+C10383,VERÓNICA  PAREDES LÓPEZ,VERONICA.PAREDES11@YAHOO.COM,+591 71724244,El Alto,2024-03-12,"687,38"
+C10384,ana salazar lópez,ANA.SALAZAR34@YAHOO.COM,6557-4369,Sta. Cruz,24.01.2022,"2,354.43"
+C10385, Veronica Flores Rodriguez ,veronica.flores86@hotmail.com,63932573,Sucre,06/11/2023,"2,307.36"
+C10386,Camila Quispe Mendoza,CAMILA.QUISPE17@GMAIL.COM,7691-7359,La Paz,14/08/2024,"Bs 2.409,78"
+C10387,sebastián  suárez mamani,sebastian.suarez33@hotmail.com,7438-8943,Sta. Cruz,2024-08-17,"6.040,31"
+C10388,Raúl Pérez Rojas,raul.perez23@yahoo.com,68239273,LA PAZ,2024-12-16,344.82
+C10389,Fernando  Gutiérrez Pérez,fernando.gutierrez77@hotmail.com,+591 66983609,Santa Cruz,2023-12-20,"2.225,53"
+C10390,Mónica Ramírez Sánchez,monica.ramirez45@gmail.com,,el alto,28/04/2022,2848.87
+C10391, elena choque lópez ,elena.choque75@yahoo.com,+59172897210,LA PAZ,06/08/2025,"227,75"
+C10392,Diego Suárez Rivera,diego.suarez75@outlook.com,79570566,la paz ,2023-04-21,402.54
+C10393,María Sánchez Fernández,,+59166930717,Sucre,03/09/2025,1251.16
+C10394,ricardo choque quispe, ricardo.choque77@empresa.com.bo ,(591) 7138 6236,tarija,2025-02-03,957.67
+C10395,Óscar Suárez Mamani,OSCAR.SUAREZ38@OUTLOOK.COM,69524229,Cochabamba,pendiente,"676,76"
+C10396,Óscar  Quispe Suárez,oscar.quispe67@empresa.com.bo,+591 63049692,SCZ,12/09/2024,"1,572.78"
+C10397, carla salazar rojas ,carla.salazar92yahoo.com,591-612-98071,LA PAZ,16.01.2022,"Bs 473,29"
+C10398,FERNANDO RAMÍREZ LÓPEZ, fernando.ramirez3@hotmail.com ,,el alto,24/06/2023,356.37
+C10399,Sebastián Suárez Quispe,sebastian.suarez24@yahoo,+591 74583699,COCHABAMBA,2022-04-10,261.60
+C10400, Hector Lopez Suarez ,hector.lopez85@gmail.com,+59168223565,SUC,25/03/2022,417.81
+C10401,FERNANDO ARCE RODRIGUEZ, fernando.arce65@outlook.com ,591-684-56149,Tarija,pendiente,"Bs 565,79"
+C10402,camila salazar rojas,camila.salazar66@yahoo.com,(591) 6938 4457,cbba,29/12/2022,"Bs 315,91"
+C10403,Luis Fernández Suárez,luis.fernandez44@gmail.com,68723976,La Paz,03/07/2022,"1,995.35"
+C10404,óscar  mendoza pérez,oscar.mendoza5@outlook.com,+59172906198,Sta. Cruz,2023-04-27,"1.163,11"
+C10405,PAOLA ARCE MARTÍNEZ,paola.arce10@hotmail.com,7495-6502,santa cruz,12/09/2024,142.69
+C10406, claudia molina mamani ,claudia.molina79@hotmail.com,60835729,el alto,2024-10-07,"Bs 859,48"
+C10407,natalia sánchez gómez,natalia.sanchez88@hotmail.com,7591-3146,Cochabamba,2022-10-16,"636,13"
+C10408,héctor pérez fernández,hector.perez62gmail.com,67395746,sucre,30/10/2024,"266,80"
+C10409,Monica Mendoza Arce,monica.mendoza30@gmail,(591) 6199 5275,Santa Cruz,04/12/2024,704.32
+C10410,valeria flores choque, valeria.flores91@gmail.com ,+591 62481238,La Paz,25/08/2023,"1.591,99"
+C10411,Daniela  Ramírez Pérez,daniela.ramirez15@hotmail.com,+59174009980,Tarija,16/06/2023,"Bs 2.323,47"
+C10412,Ivan Lopez Mamani,ivan.lopez30@yahoo.com,+591 74340042,Cbba.,2025-04-21,403.98
+C10413, Juan  Flores Gutierrez ,juan.flores83@hotmail.com,(591) 7025 4341,Santa Cruz de la Sierra,2024-08-07,"2,107.70"
+C10414,José López Flores,jose.lopez96@outlook.com,+59160506815,cbba,2024-11-13,213.37
+C10415,Rubén Castro Sánchez,RUBEN.CASTRO15@OUTLOOK.COM,+591 67502187,cbba,2025-07-23,974.64
+C10416,diego choque pérez,diego.choque77@hotmail.com,79625715,EL ALTO,12.05.2024,617.53
+C10417, Luis Rojas Mendoza ,luis.rojas36@gmail.com,76317349,LA PAZ,2022-05-09,1420.58
+C10418,iván  mendoza ortiz,ivan.mendoza50@outlook.com,+591 73610086,Sucre,14/03/2023,653.83
+C10419,María Castro Núñez,maria.castro97@empresa.com,67147545,la paz ,2023-02-21,"647,16"
+C10420,MARÍA NÚÑEZ SÁNCHEZ,MARIA.NUNEZ96@YAHOO.COM,+591 66959390,Sucre,11/09/2023,"510,58"
+C10421,JUAN SALAZAR PÉREZ,,+59178087508,SUC,16.08.2022,775.21
+C10422,LUCÍA SÁNCHEZ MOLINA,lucia.sanchez81@yahoo.com,591-720-60013,Cochabamba,23/03/2024,"Bs 803,92"
+C10423,Valeria Perez Fernandez,,7421-3402,COCHABAMBA,12.02.2022,265.64
+C10424,Iván  Gutiérrez Suárez,ivan.gutierrez94@gmail.com,+59168824980,sucre,17/03/2024,690.74
+C10425,Valeria Pérez Mendoza,valeria.perez9@outlook.com,+591 74173716,Santa Cruz de la Sierra,14/01/2025,545.61
+C10426,fernando  rivera gómez,fernando.rivera43@outlook.com,75859199,Tarija,2024-04-26,692.66
+C10427,Diego Ortiz Ortiz,diego.ortiz46@outlook.com,(591) 7655 6084,Santa Cruz de la Sierra,14/12/2023,1061.55
+C10428, CARLA  FERNÁNDEZ ORTIZ ,CARLA.FERNANDEZ84@YAHOO.COM,,El Alto,14/06/2025,254.77
+C10429,Fernando Sanchez Suarez,fernando.sanchez53@empresa.com.bo,,Santa Cruz de la Sierra,2024-10-06,"Bs 433,24"
+C10430,Camila Arce Molina,camila.arce43@yahoo.com,66665158,santa cruz,2023-08-05,"1.979,64"
+C10431, Ricardo Choque Suárez ,ricardo.choque6@hotmail.com,+59178107793,La Paz,01/11/2022,"1,372.25"
+C10432,Héctor Mamani Mamani,hector.mamani57@outlook.com,,Tarija,2024-09-09,"1,324.59"
+C10433, Ana Pérez Torres ,ana.perez60@hotmail.com,(591) 7078 2861,SCZ,19/05/2022,"Bs 297,31"
+C10434,Camila Martinez Mendoza,camila.martinez65@empresa.com.bo,6909-0943,Sta. Cruz,22.07.2022,"2,028.91"
+C10435, Sofía Paredes Flores , sofia.paredes35@gmail.com ,(591) 6926 3163,SUC,2025-08-29,787.14
+C10436, Paola Rivera Paredes ,paola.rivera32@outlook.com,67127961,Santa Cruz de la Sierra,26/10/2023,"599,18"
+C10437, Héctor  Gómez Suárez ,hector.gomez79@yahoo.com,(591) 7310 0099,cbba,2024-09-30,"Bs 2.358,40"
+C10438,VERÓNICA  PÉREZ SÁNCHEZ,veronica.perez29@gmail.com,(591) 6703 5484,Santa Cruz de la Sierra,21/05/2023,1443.44
+C10439,raul rivera paredes,raul.rivera4@outlook.com,+59173190969,tarija,2023-01-06,416.01
+C10440,jorge  mendoza quispe,jorge.mendoza19@yahoo.com,66157406,TJA,2022-10-30,2370.03
+C10441,Jorge Rodríguez Martínez,jorge.rodriguez59@gmail.com,61785443,Santa Cruz de la Sierra,2023-06-05,199.72
+C10442,Sofia  Ortiz Flores,sofia.ortiz2@gmail.com,6081-8918,Cochabamba,24.11.2022,"360,67"
+C10443,valeria flores choque,,62481238,LPZ,25.08.2023,"1.591,99"
+C10444,Claudia  Torres Arce,claudia.torres25@outlook.com,591-618-40033,SCZ,11/03/2022,"446,92"
+C10445,maría molina flores,MARIA.MOLINA71@OUTLOOK.COM,7323-6593,SCZ,2022-06-11,"1.102,36"
+C10446,Paola Torres Suarez,,6953-3560,EL ALTO,2022-07-21,"1,562.49"
+C10447,ELENA MARTÍNEZ QUISPE,elena.martinez93@yahoo.com,+59178799123,Santa Cruz de la Sierra,2025-05-23,311.21
+C10448,Héctor Pérez Paredes,hector.perez53empresa.com.bo,+591 63105296,Cochabamba,25/11/2023,607.33
+C10449,Hector Ortiz Choque,hector.ortiz60empresa.com.bo,75339832,EL ALTO,25/11/2022,"Bs 691,41"
+C10450,Andres Gomez Gutierrez,andres.gomez39@yahoo.com,66939210,La Paz,12.10.2024,"Bs 802,87"
+C10451, JORGE GÓMEZ TORRES ,jorge.gomez37@outlook.com,6198-4915,Santa Cruz de la Sierra,24/05/2023,651.12
+C10452,Elena  Rivera Castro,ELENA.RIVERA64@OUTLOOK.COM,591-709-98680,TJA,2023-12-24,437.61
+C10453, Jorge Mamani Martínez ,JORGE.MAMANI68@HOTMAIL.COM,61261731,Cbba.,2025-04-21,"693,82"
+C10454,Sofia Choque Rojas,,60193523,la paz ,2025-03-22,398.47
+C10455,elena arce paredes,elena.arce93gmail.com,591-657-42332,Cbba.,15.06.2024,"1.269,32"
+C10456, Carla  Arce Castro , carla.arce90@gmail.com ,+591 61820202,Santa Cruz,14/04/2023,"1,213.79"
+C10457,Claudia  Rodríguez Rodríguez,CLAUDIA.RODRIGUEZ43@EMPRESA.COM.BO,591-750-15002,SCZ,17.12.2023,"340,20"
+C10458,Óscar Flores Martínez,oscar.flores23@gmail.com,(591) 7270 0094,Sta. Cruz,02/07/2022,"Bs 411,35"
+C10459,camila lópez quispe,camila.lopez50@yahoo.com,,Santa Cruz de la Sierra,2023-03-19,836.29
+C10460, Natalia  Ramírez Molina ,natalia.ramirez51@gmail.com,+591 75160411,Santa Cruz de la Sierra,2024-03-11,2865.75
+C10461,Juan Pérez Gómez, juan.perez46@hotmail.com ,+591 74421519,SCZ,01/01/2024,2700.39
+C10462,HÉCTOR QUISPE PAREDES,HECTOR.QUISPE72@GMAIL.COM,+59163970073,cbba,2024-11-21,1153.54
+C10463,oscar rodriguez salazar,oscar.rodriguez1@hotmail.com,591-664-78520,Santa Cruz,11/08/2025,"298,95"
+C10464,Hector Choque Arce,hector.choque16@yahoo.com,+591 73573807,Sta. Cruz,23/12/2022,"145,88"
+C10465,LUIS ARCE MOLINA,luis.arce57@gmail.com,(591) 7544 9458,Cochabamba,20/03/2023,"548,33"
+C10466,Daniela Nunez Castro,daniela.nunez44@gmail.com,+591 65827262,La Paz,12.09.2022,5573.87
+C10467,Elena Núñez Quispe,elena.nunez47@empresa.com.bo,+591 75498277,tarija,2025-05-31,2248.97
+C10468, mónica  gómez ortiz ,monica.gomez62@hotmail.com,(591) 7651 5238,cbba,23.05.2024,424.63
+C10469,daniela rivera torres,daniela.rivera40@outlook.com,7201-5538,cbba,24.05.2024,616.45
+C10470,lucía quispe suárez,lucia.quispe86@yahoo.com,+591 67940526,Sucre,pendiente,805.12
+C10471,ELENA FERNÁNDEZ MAMANI,elena.fernandez51@outlook.com,(591) 7846 1160,LA PAZ,29/04/2023,594.02
+C10472,Luis Choque Perez,luis.choque25@outlook.com,591-630-07831,Santa Cruz de la Sierra,25/01/2022,487.31
+C10473,RAÚL  VARGAS TORRES, raul.vargas93@hotmail.com ,591-706-94120,Santa Cruz,15/08/2023,120.59
+C10474,Camila López Fernández,camila.lopez5@gmail.com,+59169527277,SCZ,04/02/2023,633.92
+C10475,Luis Gutiérrez Ortiz,luis.gutierrez80@empresa.com.bo,(591) 7984 1788,la paz ,2025-03-03,"Bs 1.370,60"
+C10476,Jorge Choque Gómez,JORGE.CHOQUE86@OUTLOOK.COM,(591) 6924 6144,SUC,04.08.2022,"Bs 3.339,73"
+C10477,Camila  Gutierrez Gutierrez,camila.gutierrez15@outlook.com,7164-6377,Santa Cruz de la Sierra,2025-08-30,616.65
+C10478,ANDRÉS MAMANI QUISPE,andres.mamani55@hotmail.com,+591 66623153,LA PAZ,19.12.2024,2306.68
+C10479,HÉCTOR CHOQUE PÉREZ,hector.choque47@hotmail.com,62864222,Santa Cruz de la Sierra,01/11/2022,"Bs 526,37"
+C10480,Lucía Martínez Núñez,lucia.martinez59@hotmail.com,(591) 6605 2922,Tarija,02.11.2023,"827,65"
+C10481,Verónica  Gutiérrez Gutiérrez,veronica.gutierrez48@outlook.com,+59163690047,Sucre,25/11/2024,807.14
+C10482,paola  pérez suárez,paola.perez67@yahoo.com,+59169570396,sucre,11.02.2023,"Bs 445,00"
+C10483,paola perez choque,PAOLA.PEREZ24@HOTMAIL.COM,+59162898526,Sta. Cruz,2025-07-27,692.69
+C10484,RICARDO SUAREZ MOLINA, ricardo.suarez60@empresa.com.bo ,(591) 6242 0802,LA PAZ,2022-01-14,413.27
+C10485, Fernando Suárez Fernández ,fernando.suarez75@hotmail.com,591-659-99746,Sta. Cruz,2023-12-21,"288,17"
+C10486, MÓNICA  MOLINA PÉREZ ,monica.molina1@empresa.com.bo,(591) 6523 8162,SCZ,2023-12-30,"489,26"
+C10487,Ana Torres Sánchez,ana.torres54@outlook.com,+591 76118000,SCZ,2022-07-25,"527,52"
+C10488, José Gómez Núñez ,jose.gomez4outlook.com,6769-5664,Santa Cruz,13.02.2023,"Bs 284,60"
+C10489,Fernando  Vargas Lopez,FERNANDO.VARGAS37@GMAIL.COM,61479490,El Alto,2024-04-08,"719,05"
+C10490, Ricardo Salazar Choque ,ricardo.salazar15@gmail.com,(591) 6983 8983,LPZ,2024-09-11,"1,030.34"
+C10491,Paola Arce Arce,PAOLA.ARCE56@EMPRESA.COM.BO,6385-5424,sucre,27/06/2024,82.80
+C10492,sofia molina flores, sofia.molina79@empresa.com.bo ,62109976,EL ALTO,01/04/2025,"Bs 4.420,29"
+C10493, Miguel  Sánchez Choque ,miguel.sanchez16@hotmail.com,78447322,COCHABAMBA,27/04/2025,695.62
+C10494,ÓSCAR  SUÁREZ FERNÁNDEZ,OSCAR.SUAREZ71@EMPRESA.COM.BO,75435498,La Paz,05.06.2023,"1,368.87"
+C10495,Claudia Gómez Salazar,claudia.gomez25@gmail.com,+59171190124,SCZ,09/06/2022,528.33
+C10496,Claudia Quispe Ramirez, claudia.quispe76@empresa.com.bo ,591-633-82183,La Paz,23.08.2022,"Bs 455,97"
+C10497,VERÓNICA  FERNÁNDEZ LÓPEZ,veronica.fernandez78@outlook.com,68495851,Cbba.,2023-02-28,166.07
+C10498,RICARDO  TORRES FERNANDEZ,ricardo.torres24@empresa.com.bo,591-639-56605,El Alto,04.09.2022,"802,51"
+C10499,ricardo quispe martínez, ricardo.quispe6@empresa.com.bo ,(591) 7116 8106,santa cruz,2023-03-23,"1,154.80"
+C10500,juan  mamani mamani, juan.mamani9@hotmail.com ,+59171804021,SCZ,2023-11-30,675.20
+C10501,Ana Sánchez Rivera,ana.sanchez34@outlook.com,+591 64180600,Sucre,2023-07-17,"889,80"
+C10502,JORGE  MENDOZA TORRES,JORGE.MENDOZA56@YAHOO.COM,6165-3296,Tarija,24/02/2025,"558,56"
+C10503,Ana López Gutiérrez,ana.lopez24@empresa.com.bo,(591) 7009 6433,Santa Cruz de la Sierra,03/12/2024,"Bs 1.861,68"
+C10504,NATALIA ARCE LÓPEZ,,591-669-57689,SCZ,12.08.2022,"Bs 2.421,75"
+C10505,Elena  Ortiz Gutierrez,elena.ortiz88@hotmail.com,591-618-64511,LPZ,12.12.2023,"1,074.08"
+C10506,elena suárez fernández, elena.suarez30@empresa.com.bo ,62862865,SUC,2025-02-06,"508,68"
+C10507,CLAUDIA  VARGAS PÉREZ,,591-781-80068,COCHABAMBA,03.07.2023,"663,90"
+C10508, Raúl Molina Mendoza ,RAUL.MOLINA12@YAHOO.COM,+591 79087697,Cbba.,2023-11-02,"Bs 622,15"
+C10509,Gabriela Gutiérrez Rojas,gabriela.gutierrez65@outlook.com,7117-0524,Tarija,24.10.2025,"772,63"
+C10510,Lucía Quispe Gómez,lucia.quispe75@outlook.com,+591 74090794,LA PAZ,2023-05-21,"Bs 1.455,13"
+C10511,José Fernández Rodríguez,,(591) 6596 6001,cbba,19/09/2025,"299,16"
+C10512,IVÁN RAMÍREZ RIVERA,ivan.ramirez71@hotmail.com,591-714-43745,LPZ,2024-01-11,"1,067.97"
+C10513,maría  mamani rivera,maria.mamani34@gmail.com,7910-2096,LPZ,2024-11-22,"743,55"
+C10514,Óscar Arce Flores,oscar.arce23@gmail.com,591-690-89276,El Alto,12/05/2024,560.58
+C10515,Natalia Rodriguez Mendoza,natalia.rodriguez73@empresa.com.bo,73983580,La Paz,2023-03-24,439.68
+C10516,Iván Arce Salazar,ivan.arce23@hotmail.com,62814417,SCZ,20.07.2022,"Bs 289,85"
+C10517,Luis Fernandez Suarez,LUIS.FERNANDEZ44@GMAIL.COM,+59168723976,la paz ,03/07/2022,"Bs 1.995,35"
+C10518,Valeria Rivera Flores,valeria.rivera80@gmail.com,6099-9443,Sta. Cruz,2025-07-30,"1,386.23"
+C10519,ANA  ARCE CHOQUE,ana.arce75@yahoo.com,+591 78509291,SCZ,14/08/2022,739.46
+C10520,juan  molina sánchez,juan.molina34yahoo.com,+591 76204160,LPZ,15/08/2025,378.91
+C10521,Ricardo  Castro Rodríguez,ricardo.castro22@outlook.com,591-710-52162,COCHABAMBA,06/04/2025,"242,98"
+C10522,CAMILA  GUTIERREZ MOLINA,CAMILA.GUTIERREZ36@YAHOO.COM,591-764-18283,La Paz,21.05.2022,"649,38"
+C10523,Verónica Molina Paredes,veronica.molina52@gmail.com,+59177757661,LA PAZ,13/02/2022,953.30
+C10524, José Arce Sánchez ,JOSE.ARCE18@GMAIL.COM,591-712-11003,Sta. Cruz,11/02/2025,"1.146,95"
+C10525, gabriela rodriguez lopez , gabriela.rodriguez29@hotmail.com ,(591) 6696 2993,Cochabamba,2025-01-02,772.00
+C10526,Monica Mamani Ramirez,monica.mamani52@empresa.com.bo,+591 66237155,la paz ,2022-01-10,373.77
+C10527,paola mamani molina,paola.mamani93@outlook.com,6361-4581,Sta. Cruz,26/11/2022,"Bs 1.196,04"
+C10528,andres salazar rodriguez,andres.salazar60@gmail.com,6395-7030,La Paz,2025-02-03,"Bs 675,43"
+C10529,Valeria  Ortiz Ramírez,VALERIA.ORTIZ45@GMAIL.COM,591-754-21562,SCZ,31.10.2023,547.64
+C10530,SEBASTIÁN MAMANI MENDOZA,sebastian.mamani39@gmail.com,6658-8740,SCZ,08/08/2022,"Bs 140,30"
+C10531,ricardo sanchez gutierrez, ricardo.sanchez91@gmail.com ,+591 78252530,Sta. Cruz,2025-03-26,"Bs 304,54"
+C10532,ruben rodriguez nunez,ruben.rodriguez41@yahoo.com,60738534,La Paz,03/03/2023,"Bs 444,07"
+C10533,Paola Rodríguez Choque,PAOLA.RODRIGUEZ49@OUTLOOK.COM,591-774-23925,Sucre,2025-07-29,"Bs 398,60"
+C10534,Diego  Torres Paredes,diego.torres63@empresa.com.bo,6086-5897,La Paz,2025-02-24,655.42
+C10535,José Rojas Pérez,jose.rojas43@outlook.com,+591 60941498,El Alto,29/01/2022,"2.480,85"
+C10536,FERNANDO RAMÍREZ QUISPE,fernando.ramirez84@empresa.com.bo,79337141,tarija,11.09.2024,"Bs 668,65"
+C10537,Ricardo  Flores Choque,ricardo.flores15@yahoo.com,,Santa Cruz,13.03.2022,377.80
+C10538,RUBÉN ROJAS PAREDES, ruben.rojas88@yahoo.com ,591-757-66134,LPZ,2024-03-23,"705,60"
+C10539,Lucía Mendoza Pérez,lucia.mendoza92@gmail.com,6328-1468,Tarija,2025-06-26,"2.793,79"
+C10540,Carla Castro Vargas,carla.castro40@outlook.com,6785-5338,Santa Cruz de la Sierra,21.01.2022,353.32
+C10541,Elena Rodríguez Sánchez,elena.rodriguez79@hotmail.com,79016558,la paz ,2022-08-27,"1,083.51"
+C10542,Juan López Paredes,juan.lopez2@outlook.com,6004-3350,Sta. Cruz,14.05.2022,"Bs 657,83"
+C10543,Natalia  Rojas Mendoza,NATALIA.ROJAS86@YAHOO.COM,(591) 6643 2461,SCZ,2024-04-17,"Bs 780,25"
+C10544,MIGUEL VARGAS MOLINA, miguel.vargas36@yahoo.com ,591-713-39969,SCZ,16/05/2022,"Bs 267,00"
+C10545,Elena Rojas Rivera,,+59170526332,SCZ,06/08/2024,84.29
+C10546,fernando ramírez gómez,fernando.ramirez92@gmail.com,(591) 6440 2246,Santa Cruz,04/12/2024,3723.53
+C10547,gabriela vargas fernandez,gabriela.vargas96@outlook.com,+591 75042794,cbba,01.04.2022,"429,74"
+C10548,Camila  Martínez Paredes,camila.martinez84@hotmail.com,(591) 6664 2951,Santa Cruz de la Sierra,03.06.2023,570.15
+C10549,héctor  ortiz gómez,hector.ortiz19@hotmail.com,,la paz ,2022-12-31,2517.22
+C10550, Natalia  Gutiérrez Castro , natalia.gutierrez16@yahoo.com ,+591 69060298,LPZ,2022-08-29,"Bs 1.466,09"
+C10551,NATALIA GUTIÉRREZ NÚÑEZ,natalia.gutierrez86@outlook.com,67614383,la paz ,06/02/2024,731.93
+C10552,Jose Salazar Vargas,JOSE.SALAZAR53@YAHOO.COM,591-623-60526,EL ALTO,2024-01-06,175.18
+C10553,FERNANDO MOLINA ORTIZ,FERNANDO.MOLINA36@HOTMAIL.COM,+59176225106,La Paz,2022-12-22,279.81
+C10554,Mónica Rojas Paredes,monica.rojas86@hotmail.com,591-614-35889,La Paz,2023-06-05,1652.44
+C10555, Luis Sánchez Rojas , luis.sanchez2@yahoo.com ,(591) 7864 4865,la paz ,08/04/2024,"Bs 1.006,78"
+C10556,Daniela Ortiz Torres,daniela.ortiz65yahoo.com,+591 77456131,Sta. Cruz,2023-09-02,738.39
+C10557, maria  castro sanchez ,maria.castro29@hotmail.com,+59177255436,La Paz,06/04/2024,"275,72"
+C10558,Mónica Quispe Fernández, monica.quispe19@hotmail.com ,591-745-12751,SCZ,2023-04-06,505.68
+C10559, LUCÍA VARGAS RAMÍREZ ,lucia.vargas42@hotmail.com,7510-4653,EL ALTO,03.11.2024,501.15
+C10560,Rubén Vargas Martínez,ruben.vargas85@yahoo.com,7270-5411,LA PAZ,03.06.2024,560.56
+C10561,ricardo gómez rodríguez,ricardo.gomez2@empresa.com.bo,591-616-31412,Santa Cruz,10/12/2023,"Bs 355,78"
+C10562,FERNANDO MARTÍNEZ ROJAS,fernando.martinez11@yahoo.com,+59176574091,Cbba.,2024-08-27,"2.088,53"
+C10563,Lucía Pérez Castro,lucia.perez50@outlook.com,65699666,Tarija,2024-03-24,383.70
+C10564,Sofia Quispe Martinez,sofia.quispe42@hotmail.com,+59162940262,EL ALTO,2024-04-23,352.42
+C10565, Claudia Lopez Nunez ,claudia.lopez61@outlook.com,77519691,COCHABAMBA,28.08.2023,"409,38"
+C10566,camila martínez sánchez,camila.martinez2@gmail.com,+59171484297,cbba,18.04.2025,"1,684.74"
+C10567,Valeria Arce Torres,valeria.arce4@yahoo.com,+591 61363601,Santa Cruz de la Sierra,2025-08-14,"Bs 524,46"
+C10568,Andrés Ortiz Mamani,andres.ortiz23@empresa.com.bo,(591) 7635 9973,LPZ,18.03.2025,419.76
+C10569,DIEGO ORTIZ QUISPE,diego.ortiz50@hotmail.com,7578-7831,tarija,2022-03-20,"1.773,53"
+C10570,Miguel Gutiérrez Castro,miguel.gutierrez72@outlook.com,,El Alto,2025-06-25,"1.366,49"
+C10571,Rubén López Choque,ruben.lopez59empresa.com.bo,591-743-64807,santa cruz,19/04/2024,451.68
+C10572, Paola  Martínez Castro ,PAOLA.MARTINEZ31@EMPRESA.COM.BO,(591) 6201 7630,la paz ,15.11.2022,"Bs 928,08"
+C10573, CARLA SUAREZ SALAZAR ,carla.suarez34@yahoo.com,6884-1544,SUC,29.10.2023,"275,25"
+C10574,Ricardo Gómez Pérez,ricardo.gomez67@yahoo.com,,cbba,04/10/2023,607.52
+C10575,Veronica Rodriguez Quispe, veronica.rodriguez48@gmail.com ,(591) 6203 7877,SUC,2025-03-28,"1,112.93"
+C10576,Héctor Martínez Arce,hector.martinez84@gmail.com,6280-6655,el alto,2024-10-09,"563,41"
+C10577,Miguel Rojas Gutiérrez,MIGUEL.ROJAS10@GMAIL.COM,+59172933511,la paz ,2022-09-02,581.46
+C10578,Verónica Sánchez Gómez,,+59173157930,El Alto,2022-08-05,"1,300.57"
+C10579,Diego  Ramírez Quispe,DIEGO.RAMIREZ40@YAHOO.COM,(591) 6168 9786,Santa Cruz,12/03/2022,"429,67"
+C10580,Camila Ramirez Lopez,camila.ramirez14yahoo.com,+591 72484592,cbba,24/05/2025,"1.221,10"
+C10581, elena rojas sánchez ,elena.rojas40@outlook.com,+59168079307,El Alto,22/04/2025,"Bs 622,40"
+C10582, Elena Suarez Rivera ,ELENA.SUAREZ79@OUTLOOK.COM,(591) 7779 3253,SCZ,2025-03-04,243.73
+C10583,luis  fernández flores,luis.fernandez49@yahoo.com,67526160,santa cruz,08/04/2024,"161,84"
+C10584, Raúl Quispe Suárez ,raul.quispe91@outlook.com,65435927,Sta. Cruz,06/12/2022,"Bs 1.947,94"
+C10585,ruben molina fernandez,,6382-6630,Sucre,24/06/2023,923.10
+C10586,Fernando Rodríguez Salazar,fernando.rodriguez42@hotmail.com,7067-0425,EL ALTO,18/06/2022,297.03
+C10587,Verónica  Torres Núñez,,7277-7171,SCZ,23/04/2023,"714,95"
+C10588,María Gutiérrez Rojas,maria.gutierrez39@gmail.com,63432945,Sucre,06/06/2024,136.60
+C10589, NATALIA ARCE ORTIZ ,natalia.arce2@outlook.com,66295829,Cochabamba,2024-08-05,"2,573.91"
+C10590,sofía lópez ortiz,SOFIA.LOPEZ71@EMPRESA.COM.BO,591-620-61424,Santa Cruz,2022-05-03,745.59
+C10591, NATALIA MAMANI MOLINA ,natalia.mamani11@outlook.com,69635228,SCZ,31.03.2022,"488,71"
+C10592,Sebastián Torres Molina,SEBASTIAN.TORRES80@EMPRESA.COM.BO,+591 67138729,Cbba.,16.06.2022,207.27
+C10593, JUAN PÉREZ PÉREZ ,juan.perez95@yahoo.com,6579-8115,la paz ,2023-09-04,"690,15"
+C10594, MÓNICA VARGAS ARCE ,monica.vargas69@empresa.com.bo,7109-2512,El Alto,27/09/2025,"677,83"
+C10595,JUAN  ARCE MARTÍNEZ,juan.arce95@empresa.com.bo,7296-9916,Cbba.,24/04/2023,220.01
+C10596, NATALIA FLORES MENDOZA ,NATALIA.FLORES18@YAHOO.COM,+591 67316109,el alto,09/09/2023,"Bs 187,53"
+C10597,SOFÍA PAREDES NÚÑEZ,SOFIA.PAREDES82@HOTMAIL.COM,591-798-20664,Santa Cruz de la Sierra,17/07/2025,936.42
+C10598,Carla Nunez Martinez,carla.nunez32@outlook.com,66044506,El Alto,29/09/2024,"Bs 561,93"
+C10599,Rubén  Molina Martínez, ruben.molina4@yahoo.com ,70031997,La Paz,29/01/2025,746.27
+C10600, carla arce flores ,,7794-3984,EL ALTO,2024-07-19,"1,500.50"
+C10601,paola arce fernández,PAOLA.ARCE5@YAHOO.COM,+59162725482,La Paz,15/08/2024,763.81
+C10602,sebastián  flores ramírez, sebastian.flores44@outlook.com ,7150-7395,TJA,2025-07-10,"1.063,70"
+C10603,SOFÍA VARGAS ARCE,sofia.vargas26@hotmail.com,74226594,la paz ,2022-01-23,"957,51"
+C10604,LUIS  PÉREZ MENDOZA,,(591) 7388 7050,LA PAZ,2023-03-22,"320,25"
+C10605,MÓNICA SUÁREZ MARTÍNEZ,monica.suarez11@outlook.com,591-765-84957,SCZ,09/07/2024,719.33
+C10606,ana rodríguez salazar,ana.rodriguez74@outlook.com,+59167563147,El Alto,23.07.2025,"2,018.40"
+C10607,Elena  Fernández Núñez,elena.fernandez91@yahoo.com,6394-5628,Cochabamba,12/11/2024,"3.548,34"
+C10608,Andrés  Fernández Salazar,andres.fernandez48@hotmail.com,(591) 6540 0322,santa cruz,2023-12-10,"814,26"
+C10609, Iván Núñez Mamani ,ivan.nunez51@empresa.com.bo,+59169000414,Cochabamba,2024-02-01,200.36
+C10610,Natalia  Molina Rodríguez,natalia.molina20@hotmail.com,,Sucre,02.10.2025,"685,14"
+C10611, valeria gómez suárez ,valeria.gomez8@yahoo.com,(591) 7381 2541,Santa Cruz,2024-07-29,"515,09"
+C10612, Lucía  Rojas Rodríguez ,lucia.rojas85@empresa.com.bo,(591) 6534 7353,Santa Cruz,23/05/2023,542.47
+C10613,Jorge  Suárez Rivera,jorge.suarez77@hotmail.com,67978693,LPZ,2025-06-09,"4,418.87"
+C10614,Carla Vargas Torres, carla.vargas48@gmail.com ,60509637,Santa Cruz de la Sierra,2023-07-23,486.82
+C10615, JORGE GÓMEZ GUTIÉRREZ ,jorge.gomez49@hotmail.com,77453470,COCHABAMBA,2023-09-04,275.72
+C10616,Sebastián Núñez Fernández,sebastian.nunez20@gmail.com,(591) 7827 7902,santa cruz,2025-09-13,540.63
+C10617,Ricardo Flores Mamani,ricardo.flores2@outlook.com,(591) 7127 0127,SCZ,2025-06-12,"Bs 166,84"
+C10618, HÉCTOR NÚÑEZ PAREDES ,hector.nunez90@hotmail.com,7796-3057,la paz ,09.10.2022,"Bs 419,84"
+C10619, Sofia Salazar Suarez ,sofia.salazar59@hotmail.com,(591) 7712 6349,COCHABAMBA,16/04/2025,"400,04"
+C10620,Monica Castro Arce,monica.castro51outlook.com,+59170604879,Cbba.,17.02.2022,"815,88"
+C10621,DIEGO ORTIZ MOLINA,diego.ortiz31@outlook.com,+591 75380746,La Paz,2024-10-11,"Bs 1.749,88"
+C10622,carla fernández mendoza, carla.fernandez70@yahoo.com ,591-708-23127,La Paz,2023-06-08,140.40
+C10623,Juan Arce Martínez,juan.arce95@empresa.com.bo,591-729-69916,Cochabamba,24/04/2023,220.01
+C10624,Iván Choque Paredes,ivan.choque85@hotmail.com,7087-2188,LA PAZ,18/04/2025,"498,84"
+C10625,Ricardo Torres Gutiérrez,ricardo.torres45@yahoo.com,+59176489444,SCZ,21.01.2022,"Bs 1.227,14"
+C10626,Verónica  Choque Fernández,veronica.choque53@hotmail.com,+591 71924946,La Paz,29.11.2023,"Bs 406,22"
+C10627,ana ramírez gutiérrez,ANA.RAMIREZ84@EMPRESA.COM.BO,591-791-50947,tarija,10/06/2023,"442,32"
+C10628, CAMILA CHOQUE MAMANI , camila.choque37@hotmail.com ,591-655-28040,TJA,2023-03-22,1073.42
+C10629,Ricardo Perez Arce,RICARDO.PEREZ9@OUTLOOK.COM,6544-6231,Cochabamba,2023-10-22,"234,21"
+C10630, NATALIA FERNÁNDEZ ARCE ,natalia.fernandez96@hotmail.com,61159448,SUC,04/03/2023,"165,39"
+C10631,Carla Núñez Choque,CARLA.NUNEZ16@YAHOO.COM,6296-3646,Cochabamba,11/07/2024,"1,142.90"
+C10632,Andrés Sánchez Arce,ANDRES.SANCHEZ44@GMAIL.COM,591-700-95421,Cochabamba,16.02.2024,"446,76"
+C10633,Hector Suarez Gomez,hector.suarez66@empresa.com.bo,591-783-32433,LA PAZ,29.10.2022,"418,62"
+C10634,Maria Mamani Salazar,maria.mamani88@hotmail.com,+591 73426185,LA PAZ,2022-02-10,"1,328.98"
+C10635,raúl mamani pérez,RAUL.MAMANI87@GMAIL.COM,+591 77595174,SCZ,2024-10-29,"1,338.82"
+C10636,paola  nunez rodriguez,paola.nunez10@yahoo.com,591-662-32711,SCZ,pendiente,"Bs 1.543,92"
+C10637,Paola Núñez López,PAOLA.NUNEZ47@EMPRESA.COM.BO,,LPZ,19/10/2024,"1,263.39"
+C10638,valeria  ramirez rodriguez,valeria.ramirez92@hotmail.com,+591 68839459,tarija,2025-09-26,"1,207.06"
+C10639,verónica salazar martínez,veronica.salazar97@outlook.com,76481969,Tarija,2023-03-13,"195,04"
+C10640,HÉCTOR PÉREZ PAREDES,hector.perez53@empresa.com.bo,+591 63105296,Cochabamba,25.11.2023,"607,33"
+C10641,Valeria Gómez López, valeria.gomez20@yahoo.com ,(591) 6751 5921,Sta. Cruz,2022-06-05,1185.54
+C10642,Carla Suarez Molina, carla.suarez91@gmail.com ,+591 70191294,Santa Cruz,27.08.2024,"1.748,91"
+C10643,sofía fernández martínez,sofia.fernandez14@yahoo.com,7597-6601,SUC,2025-05-29,"Bs 2.762,63"
+C10644, VERÓNICA LÓPEZ LÓPEZ ,veronica.lopez26@outlook.com,69850127,Santa Cruz de la Sierra,06/03/2025,554.23
+C10645,IVAN VARGAS ARCE,ivan.vargas93@yahoo.com,76209677,La Paz,14/05/2023,76.74
+C10646,Miguel Sanchez Perez,MIGUEL.SANCHEZ8@HOTMAIL.COM,(591) 6449 0849,Cbba.,2023-03-29,"Bs 808,64"
+C10647, jose vargas martinez ,jose.vargas70@yahoo.com,(591) 6519 0478,la paz ,02/04/2022,"2,458.75"
+C10648, Ana  Núñez Gómez ,ana.nunez55@hotmail.com,6535-3179,el alto,2022-02-07,"8.662,33"
+C10649,Claudia Salazar Rojas,claudia.salazar73@yahoo.com,+59163761986,la paz ,14/03/2023,253.25
+C10650,Valeria Rodríguez Vargas,valeria.rodriguez86@outlook.com,+591 77035264,LPZ,14.05.2022,775.69
+C10651,SOFIA  MOLINA LOPEZ,sofia.molina71@outlook.com,+591 74093180,Santa Cruz,18.07.2025,"539,11"
+C10652, LUIS  FERNANDEZ MOLINA ,luis.fernandez37@outlook.com,6778-8387,Cochabamba,2022-06-04,835.66
+C10653,Natalia Mendoza Fernandez, natalia.mendoza70@hotmail.com ,74888087,Cochabamba,2022-01-28,"Bs 550,63"
+C10654, Sebastián Torres Torres ,sebastian.torres35gmail.com,(591) 6257 7026,sucre,24/01/2022,757.51
+C10655,Héctor Mamani Rivera,hector.mamani57@empresa.com.bo,(591) 7624 9117,la paz ,05.03.2023,5947.43
+C10656,HÉCTOR MOLINA ARCE, hector.molina75@yahoo.com ,591-736-53513,LA PAZ,2022-04-04,383.80
+C10657, VERONICA CASTRO RAMIREZ ,veronica.castro96@empresa.com.bo,7814-8043,Santa Cruz,2024-08-02,"2.268,80"
+C10658, iván pérez ramírez ,ivan.perez10@outlook.com,+59160662727,La Paz,2025-08-18,661.85
+C10659, DIEGO RIVERA CHOQUE ,diego.rivera79@yahoo.com,+59179505628,La Paz,13.11.2022,"1,065.36"
+C10660, SEBASTIÁN SÁNCHEZ NÚÑEZ ,SEBASTIAN.SANCHEZ42@OUTLOOK.COM,6452-8562,El Alto,21.03.2024,"2.334,64"
+C10661,Miguel Salazar Rojas,MIGUEL.SALAZAR31@YAHOO.COM,6848-0250,SUC,26/09/2025,"279,40"
+C10662, Luis Fernández Choque ,LUIS.FERNANDEZ96@HOTMAIL.COM,591-799-85039,el alto,2025-02-19,129.11
+C10663, Raúl López López ,raul.lopez93@yahoo.com,61212144,Sucre,02.03.2024,320.70
+C10664,LUIS  MARTINEZ ARCE,luis.martinez35@yahoo.com,+59168682866,SUC,08/06/2025,"Bs 778,52"
+C10665,Daniela  Pérez Torres,DANIELA.PEREZ77@OUTLOOK.COM,,SCZ,21/01/2025,"Bs 561,37"
+C10666,Miguel Ramirez Quispe,miguel.ramirez50@yahoo.com,(591) 6379 6593,La Paz,20/10/2022,"966,28"
+C10667,Ruben Sanchez Rojas,ruben.sanchez2@hotmail.com,,SCZ,20/08/2022,"2,136.24"
+C10668,Fernando  Nunez Lopez, fernando.nunez16@gmail.com ,77360515,LPZ,2024-03-29,231.04
+C10669,RUBEN RODRIGUEZ MOLINA,ruben.rodriguez73@outlook.com,(591) 6098 8737,LPZ,29/11/2023,"1.898,35"
+C10670,Miguel  Mamani Rivera,miguel.mamani96@empresa.com.bo,+591 63522546,SCZ,2023-03-21,"2.560,98"
+C10671, RICARDO CASTRO SALAZAR ,ricardo.castro44@empresa.com.bo,,el alto,2022-09-24,3686.43
+C10672,RAÚL ROJAS SUÁREZ,raul.rojas95gmail.com,+59176484646,Sta. Cruz,2023-11-03,803.53
+C10673,Ricardo Ortiz Vargas,RICARDO.ORTIZ77@EMPRESA.COM.BO,(591) 7671 2610,La Paz,2024-07-08,"1.115,85"
+C10674,Jorge Rodríguez Gutiérrez,jorge.rodriguez21@empresa.com.bo,591-656-94359,el alto,15/04/2025,1475.69
+C10675,Valeria Ramírez López,VALERIA.RAMIREZ20@YAHOO.COM,591-791-00085,Santa Cruz,2023-06-17,"892,11"
+C10676,María  Martínez Paredes,maria.martinez81@empresa.com.bo,(591) 6785 6281,santa cruz,19.02.2022,434.31
+C10677,Mónica Núñez Paredes,monica.nunez72@hotmail.com,(591) 6647 2621,LA PAZ,2025-07-17,818.26
+C10678,Paola Suárez Flores,paola.suarez93@outlook.com,+59179044244,Santa Cruz,2023-08-30,"432,76"
+C10679, Daniela Torres Molina ,daniela.torres15@yahoo.com,(591) 6909 2375,LA PAZ,pendiente,948.08
+C10680, Valeria Rivera Vargas ,valeria.rivera48@gmail.com,6079-6206,La Paz,pendiente,341.28
+C10681, verónica martínez torres ,veronica.martinez49@hotmail.com,(591) 6561 4434,LA PAZ,15/08/2022,"1.539,77"
+C10682,veronica choque paredes,veronica.choque28@outlook.com,+591 69335457,Santa Cruz,01/09/2023,287.63
+C10683,Lucía  Núñez Mendoza,lucia.nunez31@yahoo.com,(591) 7180 9588,SCZ,25/09/2024,528.71
+C10684,Luis Ortiz Torres,luis.ortiz69@yahoo.com,,La Paz,2025-07-07,"577,11"
+C10685,Hector Gutierrez Rivera,hector.gutierrez7@gmail.com,(591) 6678 2485,Santa Cruz,2025-06-15,"2.617,93"
+C10686,María Pérez Quispe,maria.perez5@hotmail.com,+59163317225,Santa Cruz,pendiente,"429,43"
+C10687,Verónica Salazar Mamani,,6775-9063,SUC,17/08/2023,364.50
+C10688, Lucia Castro Paredes ,lucia.castro73@hotmail.com,+591 64828381,Cbba.,18.11.2024,450.24
+C10689,paola vargas flores,PAOLA.VARGAS66@OUTLOOK.COM,(591) 6995 4956,El Alto,22/12/2022,1181.89
+C10690,CLAUDIA PAREDES ARCE,claudia.paredes37@gmail.com,(591) 7679 6813,LA PAZ,14/05/2024,"1.103,07"
+C10691,SEBASTIÁN NÚÑEZ ORTIZ,SEBASTIAN.NUNEZ11@HOTMAIL.COM,(591) 7936 9037,cbba,25/03/2023,867.10
+C10692,DIEGO FLORES SALAZAR,diego.flores23@gmail.com,65600695,La Paz,2023-11-27,"1,105.73"
+C10693,luis choque molina,luis.choque39gmail.com,62561375,Cochabamba,2024-09-26,"Bs 983,33"
+C10694,claudia salazar fernández,claudia.salazar5outlook.com,+591 68039322,Cbba.,14/01/2022,866.18
+C10695,andrés molina martínez,,591-736-87174,LPZ,10/10/2023,354.50
+C10696,LUIS ARCE NUNEZ,luis.arce39@yahoo.com,78143071,Sucre,2023-05-13,140.06
+C10697,Óscar  Arce Rivera,oscar.arce12@outlook.com,79571012,la paz ,2022-09-11,590.14
+C10698,Natalia Gutiérrez Núñez, natalia.gutierrez86@outlook.com ,(591) 6761 4383,la paz ,2024-02-06,"Bs 731,93"
+C10699,Mónica Fernández Molina,monica.fernandez2@hotmail.com,,Santa Cruz,28.12.2022,152.41
+C10700,HÉCTOR ROJAS RODRÍGUEZ,hector.rojas57@hotmail.com,591-686-94201,el alto,2022-02-18,"Bs 302,11"
+C10701,ANDRÉS GÓMEZ MAMANI,andres.gomez23@empresa.com.bo,+591 72079877,El Alto,25.01.2025,"1.640,55"
+C10702,RUBÉN MAMANI CASTRO,ruben.mamani84@outlook.com,6914-7360,El Alto,11/07/2025,"1.170,84"
+C10703,lucía rojas ramírez,lucia.rojas13@empresa.com.bo,591-608-47987,Sta. Cruz,25/10/2024,127.67
+C10704,Ana Rivera Gutiérrez,,+591 62762071,SCZ,29/04/2024,"Bs 1.811,03"
+C10705,Fernando Vargas Fernández,,+591 62619829,Santa Cruz de la Sierra,2025-01-02,"202,07"
+C10706,Héctor Molina Sánchez, hector.molina41@gmail.com ,591-605-03651,Cbba.,2023-09-04,"Bs 191,60"
+C10707,MARÍA CASTRO FERNÁNDEZ,maria.castro10@hotmail.com,591-702-44826,Cbba.,2023-11-01,"Bs 848,33"
+C10708,Paola Rodríguez Quispe,paola.rodriguez37@empresa.com.bo,(591) 7326 2387,cbba,2022-12-19,"664,20"
+C10709,maría lópez mendoza,MARIA.LOPEZ84@EMPRESA.COM.BO,+591 76409020,Santa Cruz de la Sierra,2025-10-18,329.40
+C10710, Mónica Quispe Martínez ,monica.quispe68@gmail.com,,tarija,21.03.2025,3706.36
+C10711,JOSE  RAMIREZ SALAZAR,jose.ramirez4@gmail.com,73960503,Santa Cruz,27.02.2024,"Bs 761,83"
+C10712, Óscar  Gómez Torres ,oscar.gomez9@yahoo.com,591-674-67268,El Alto,2023-10-25,176.01
+C10713,valeria  perez castro,valeria.perez22@hotmail.com,60087446,COCHABAMBA,2022-08-21,1131.84
+C10714,andrés castro sánchez,andres.castro42@outlook.com,+59179526359,COCHABAMBA,18.03.2024,989.02
+C10715,Verónica  Fernández Castro,veronica.fernandez81@gmail.com,72946307,COCHABAMBA,24.08.2022,"392,72"
+C10716,Daniela  Suarez Perez,daniela.suarez91@gmail.com,+59176855401,La Paz,pendiente,"1,377.68"
+C10717, ricardo  paredes paredes ,RICARDO.PAREDES82@HOTMAIL.COM,+59172456968,la paz ,20.03.2023,"332,00"
+C10718,NATALIA FLORES RODRÍGUEZ,NATALIA.FLORES55@GMAIL.COM,7519-3596,Cbba.,2025-05-26,"545,03"
+C10719, Paola Martínez Núñez ,paola.martinez73@hotmail.com,(591) 6237 4311,El Alto,10/01/2025,"939,58"
+C10720,Andres Suarez Quispe,andres.suarez48@yahoo.com,+591 71468109,COCHABAMBA,02.07.2024,604.21
+C10721,Luis Quispe Sánchez,luis.quispe14@hotmail.com,591-636-59671,COCHABAMBA,2025-10-29,"2,581.47"
+C10722,Ruben Molina Choque,ruben.molina89@hotmail.com,591-674-98864,Cochabamba,2022-07-02,2250.87
+C10723,sofía sánchez núñez,sofia.sanchez38@hotmail.com,62288686,EL ALTO,2023-07-04,"Bs 2.713,55"
+C10724,rubén ortiz pérez,ruben.ortiz54@empresa.com.bo,(591) 7514 7201,SCZ,2023-01-31,"Bs 297,68"
+C10725,Ricardo Paredes Pérez,,+591 75287102,santa cruz,2023-11-26,483.66
+C10726,Iván Castro Paredes,ivan.castro74@yahoo.com,68692397,Sta. Cruz,2022-05-14,1333.99
+C10727, Camila Rodriguez Nunez ,camila.rodriguez60@yahoo.com,(591) 6069 1018,LA PAZ,10.08.2023,"2,439.35"
+C10728,Sebastián  Flores Fernández,sebastian.flores38@outlook.com,+591 64894604,LPZ,28/10/2023,"940,92"
+C10729, Maria Mendoza Salazar ,maria.mendoza58@outlook.com,+591 78308947,Santa Cruz,2022-12-07,555.03
+C10730,sofia salazar salazar, sofia.salazar51@empresa.com.bo ,74932036,La Paz,2022-02-04,"497,71"
+C10731,Oscar Quispe Lopez,OSCAR.QUISPE24@HOTMAIL.COM,591-683-51434,cbba,2023-10-10,2967.80
+C10732,Jorge Mamani Rodríguez,jorge.mamani25@yahoo.com,591-627-25663,Sta. Cruz,14/08/2023,"Bs 1.319,85"
+C10733,LUIS  RAMÍREZ GÓMEZ,luis.ramirez57@empresa.com.bo,75074683,sucre,2023-02-21,"Bs 130,63"
+C10734,raúl martínez vargas, raul.martinez87@outlook.com ,6000-6224,SUC,20/10/2024,"Bs 701,57"
+C10735,Mónica Ramírez Martínez,monica.ramirez19@yahoo.com,+59173491817,LPZ,pendiente,600.51
+C10736,Ruben Molina Fernandez,ruben.molina71@empresa.com.bo,6382-6630,SUC,24/06/2023,"Bs 923,10"
+C10737,Jorge Martínez Martínez,jorge.martinez70@gmail.com,(591) 7465 7891,Santa Cruz de la Sierra,2023-05-15,"1.261,88"
+C10738,Ana Sánchez Mamani,ana.sanchez55gmail.com,,EL ALTO,17/05/2025,734.32
+C10739,Ricardo Ramirez Rojas,ricardo.ramirez65@outlook.com,591-744-02000,sucre,12/12/2024,229.71
+C10740,Monica Salazar Suarez,MONICA.SALAZAR86@EMPRESA.COM.BO,(591) 7485 9188,LA PAZ,2023-07-15,"Bs 402,21"
+C10741,DIEGO  GUTIÉRREZ VARGAS, diego.gutierrez97@yahoo.com ,69469226,Santa Cruz,02/07/2024,770.72
+C10742,valeria  martinez flores,valeria.martinez20@hotmail.com,7747-9239,LA PAZ,17.03.2024,607.79
+C10743,Elena  Rojas Mendoza,elena.rojas27@gmail.com,+591 79134589,cbba,2022-06-13,"Bs 839,71"
+C10744,Lucía Molina Molina, lucia.molina21@gmail.com ,,Cbba.,2023-07-26,"3,250.77"
+C10745,Claudia  Suárez Martínez,CLAUDIA.SUAREZ16@OUTLOOK.COM,+59175240346,SUC,31.10.2023,"900,25"
+C10746, Diego Sánchez Gómez ,diego.sanchez62@empresa.com.bo,76868767,EL ALTO,30.08.2024,392.77
+C10747,Lucía  Pérez Quispe,lucia.perez58@hotmail.com,591-710-75528,SUC,29/11/2024,"Bs 241,76"
+C10748, Sebastian Perez Fernandez ,,73006405,la paz ,25/06/2023,"Bs 231,63"
+C10749,Valeria Arce Lopez,valeria.arce56@yahoo.com,63224561,El Alto,14/10/2024,340.27
+C10750,María Quispe Castro,MARIA.QUISPE91@YAHOO.COM,6427-5351,Sucre,2022-03-05,116.23
+C10751,Ricardo  Choque Rojas,ricardo.choque91@gmail.com,+59176060629,LPZ,2022-03-28,"425,69"
+C10752, Paola  Salazar Mendoza ,paola.salazar45@yahoo.com,(591) 7845 5200,TJA,05/04/2023,"964,82"
+C10753, juan sánchez gómez ,juan.sanchez38@yahoo.com,65998324,Cbba.,10.05.2023,501.24
+C10754, andrés rivera choque ,andres.rivera64@hotmail.com,(591) 7979 4561,Sta. Cruz,15/10/2024,"1.203,70"
+C10755,Valeria Fernandez Ramirez,,71408160,la paz ,2022-06-02,323.57
+C10756, JOSÉ LÓPEZ MENDOZA ,jose.lopez85@hotmail.com,79861526,Sucre,05/06/2023,"Bs 1.075,75"
+C10757, Claudia Rojas Choque ,claudia.rojas94@yahoo.com,+59173917930,LPZ,2022-10-21,158.85
+C10758, MÓNICA QUISPE MARTÍNEZ ,monica.quispe68@gmail.com,6851-3796,Tarija,2025-03-21,3706.36
+C10759,Luis Sánchez Rodríguez,luis.sanchez17@empresa.com.bo,6575-3760,SUC,2022-05-22,"543,67"
+C10760,camila lopez ortiz,,591-690-44151,TJA,21/11/2023,285.84
+C10761,Claudia Fernandez Torres,claudia.fernandez71@hotmail.com,7912-4575,LPZ,21.10.2025,"1,653.35"
+C10762, Lucia  Paredes Mamani ,lucia.paredes39@outlook.com,6928-2181,el alto,14/03/2023,"534,79"
+C10763,Jorge Salazar Ortiz, jorge.salazar46@outlook.com ,60211571,Sta. Cruz,29/02/2024,312.22
+C10764,juan rojas molina,JUAN.ROJAS73@GMAIL.COM,(591) 7045 5745,Santa Cruz,2023-09-21,"690,13"
+C10765, Luis Martínez Flores ,,591-605-08697,santa cruz,2024-09-29,"861,09"
+C10766, Ricardo  Mamani Rivera , ricardo.mamani91@gmail.com ,+59172430495,El Alto,2025-10-03,3011.10
+C10767, Mónica Ramírez Mendoza ,MONICA.RAMIREZ9@GMAIL.COM,+591 72319584,Tarija,04/10/2022,"Bs 782,28"
+C10768,Luis Rodriguez Rivera, luis.rodriguez28@empresa.com.bo ,,La Paz,2022-06-28,"97,16"
+C10769, Fernando Quispe Suárez ,fernando.quispe4@empresa.com.bo,6114-0949,EL ALTO,07/03/2023,439.99
+C10770,luis gómez salazar,luis.gomez23@empresa.com.bo,65556353,Sta. Cruz,16/02/2023,"508,95"
+C10771, Luis Flores Vargas ,luis.flores36@outlook.com,+59175597771,SUC,2025-03-17,"1.687,03"
+C10772,Sofia  Paredes Nunez,sofia.paredes82@hotmail.com,+591 79820664,Santa Cruz,17/07/2025,936.42
+C10773,LUCÍA GUTIÉRREZ QUISPE,LUCIA.GUTIERREZ57@GMAIL.COM,+591 77646036,Cbba.,29/09/2024,985.03
+C10774, Hector Salazar Flores ,hector.salazar26@outlook.com,(591) 6119 4876,Santa Cruz,2024-05-10,779.33
+C10775,Diego Choque Vargas,diego.choque34@gmail.com,+591 79726182,TJA,28/10/2022,"675,42"
+C10776,ELENA  SÁNCHEZ MAMANI,elena.sanchez19hotmail.com,591-621-50019,Santa Cruz,16/02/2023,709.96
+C10777,Claudia  Arce Fernández,claudia.arce49@outlook.com,7458-7907,Cbba.,29/08/2023,352.09
+C10778,Maria  Sanchez Salazar,,(591) 7624 6643,Sucre,2024-10-24,1355.63
+C10779, Carla Suárez Molina ,carla.suarez91@gmail.com,(591) 7019 1294,Santa Cruz de la Sierra,27/08/2024,1748.91
+C10780,Gabriela Fernández Pérez, gabriela.fernandez3@hotmail.com ,+59160941488,Sta. Cruz,pendiente,"2.132,21"
+C10781,CAMILA  TORRES MARTÍNEZ,camila.torres58yahoo.com,+59177711888,Sta. Cruz,15/08/2024,542.47
+C10782,ana paredes paredes, ana.paredes72@gmail.com ,+59170132610,Santa Cruz,07/11/2024,"Bs 357,69"
+C10783,Verónica  Vargas Gutiérrez,VERONICA.VARGAS91@GMAIL.COM,+591 77077790,Sta. Cruz,03/07/2023,594.27
+C10784, JOSÉ ROJAS GÓMEZ ,jose.rojas86@hotmail.com,(591) 6028 4778,santa cruz,17/01/2024,"Bs 741,47"
+C10785,José Gómez Salazar,jose.gomez9@yahoo.com,+591 61219376,La Paz,2022-12-18,471.11
+C10786,Camila Gómez Rojas,CAMILA.GOMEZ49@GMAIL.COM,(591) 6139 1185,SCZ,2025-09-21,191.29
+C10787, CARLA ORTIZ GUTIERREZ ,carla.ortiz45@outlook.com,72585707,LPZ,16/04/2025,420.22
+C10788,PAOLA  GUTIÉRREZ MARTÍNEZ,paola.gutierrez74@empresa.com.bo,7822-3290,el alto,pendiente,202.26
+C10789,diego  rodríguez núñez,diego.rodriguez24@yahoo.com,591-668-30066,Sta. Cruz,25.09.2022,1029.58
+C10790, Sebastian Castro Ortiz ,sebastian.castro25@empresa.com,76182355,Sta. Cruz,18/06/2022,"4.082,41"
+C10791,sofía paredes ramírez,sofia.paredes80@hotmail.com,7568-9779,Sta. Cruz,2022-07-26,641.46
+C10792, Andrés Fernández Choque ,,,santa cruz,05/04/2024,"1.706,49"
+C10793, SOFÍA RIVERA RAMÍREZ ,sofia.rivera67@yahoo.com,+59162253596,Cochabamba,2022-11-22,"Bs 1.046,79"
+C10794,Natalia Martinez Choque,natalia.martinez42@empresa.com.bo,591-652-22201,SCZ,2025-02-08,284.67
+C10795,VALERIA SUÁREZ SALAZAR,valeria.suarez28@empresa.com.bo,591-737-71387,Santa Cruz,21/03/2023,"Bs 3.383,19"
+C10796, mónica lópez gutiérrez ,monica.lopez75@empresa.com.bo,+591 71286508,Cochabamba,27.07.2022,"Bs 1.491,69"
+C10797, María Rivera Salazar ,maria.rivera8@empresa.com.bo,(591) 6677 0805,Tarija,2024-02-14,"Bs 288,73"
+C10798,Gabriela Torres Ortiz,gabriela.torres17@outlook.com,+59179136010,EL ALTO,08/07/2025,265.57
+C10799, CLAUDIA CHOQUE RIVERA ,CLAUDIA.CHOQUE2@YAHOO.COM,+59171823944,Santa Cruz,03/11/2022,396.67
+C10800,IVAN TORRES MARTINEZ,ivan.torres25@empresa.com.bo,(591) 6992 8616,santa cruz,2024-07-09,688.16
+C10801,Claudia Paredes Martinez, claudia.paredes4@yahoo.com ,78063246,Sucre,21/01/2023,629.16
+C10802,RUBÉN GÓMEZ MENDOZA,RUBEN.GOMEZ48@OUTLOOK.COM,+59166371997,SUC,10/12/2024,625.36
+C10803,josé arce flores,jose.arce58@gmail.com,+59178623058,la paz ,2025-08-17,"1.759,90"
+C10804,SOFÍA RAMÍREZ PAREDES,sofia.ramirez56empresa.com.bo,77467379,Santa Cruz,20/03/2023,"Bs 574,32"
+C10805,Fernando Nunez Flores,fernando.nunez28@empresa.com,+59168275792,LPZ,2025-02-08,"2.237,02"
+C10806,ricardo  mendoza rodríguez,RICARDO.MENDOZA39@HOTMAIL.COM,+59177954797,sucre,2024-02-22,"352,23"
+C10807, Hector Lopez Ortiz ,HECTOR.LOPEZ39@EMPRESA.COM.BO,7576-9297,Cochabamba,2022-10-05,"Bs 823,39"
+C10808,Carla  Quispe Paredes,carla.quispe9@gmail.com,+59162802547,COCHABAMBA,2022-02-19,"Bs 447,24"
+C10809,Jose Suarez Salazar,jose.suarez63@hotmail.com,69034029,Cbba.,18.11.2023,"1,947.56"
+C10810, claudia  paredes choque ,CLAUDIA.PAREDES79@YAHOO.COM,+59178893676,el alto,03/01/2024,"1.216,91"
+C10811,Raúl Choque Pérez,raul.choque27@yahoo.com,6910-2243,LPZ,08/01/2023,1246.04
+C10812,Monica Quispe Lopez,MONICA.QUISPE57@HOTMAIL.COM,,Cochabamba,2023-08-08,550.04
+C10813,José Fernández Rivera,jose.fernandez54@yahoo.com,7417-1479,Santa Cruz,06/10/2025,"1.490,85"
+C10814,Camila Martínez Rodríguez,camila.martinez71@hotmail.com,+59161079652,cbba,2024-06-21,"Bs 1.094,20"
+C10815,Sofía Torres Ramírez,sofia.torres73@yahoo.com,+59176806073,Sucre,22/09/2022,"Bs 835,92"
+C10816,RAÚL PAREDES CASTRO,RAUL.PAREDES53@YAHOO.COM,6513-7094,Sta. Cruz,31/08/2022,2051.60
+C10817,Jose Choque Molina,jose.choque52@gmail.com,7585-1432,COCHABAMBA,02.09.2024,"1.214,71"
+C10818, Diego Sanchez Paredes ,diego.sanchez22@yahoo.com,+59171074731,la paz ,2025-10-25,1491.95
+C10819,Mónica Pérez Rivera,monica.perez31@hotmail.com,(591) 6127 6808,EL ALTO,2024-01-29,"Bs 743,18"
+C10820,Claudia Mamani Suárez,claudia.mamani6@outlook.com,7092-7257,la paz ,2023-11-05,"Bs 463,37"
+C10821,andres torres castro,andres.torres85@outlook.com,7345-5883,santa cruz,2023-06-27,745.84
+C10822,SEBASTIÁN PAREDES RAMÍREZ,sebastian.paredes49@yahoo.com,+59165247647,Santa Cruz de la Sierra,2022-08-15,"1.120,32"
+C10823,JORGE ORTIZ QUISPE,jorge.ortiz88@outlook.com,(591) 6888 5613,Sucre,15.09.2022,538.32
+C10824, Camila Sánchez Pérez ,camila.sanchez49@hotmail.com,62042873,COCHABAMBA,03/11/2023,"713,90"
+C10825,LUCIA NUNEZ FLORES,lucia.nunez89hotmail.com,(591) 6505 1543,Santa Cruz de la Sierra,02/10/2024,"255,87"
+C10826,Diego Castro Rodríguez,diego.castro44@yahoo.com,74702321,tarija,2024-06-14,"302,35"
+C10827,Lucía Núñez Flores,LUCIA.NUNEZ89@HOTMAIL.COM,591-650-51543,SCZ,02.10.2024,255.87
+C10828,andrés fernández castro,andres.fernandez34@yahoo.com,+59172705282,el alto,15.02.2022,697.14
+C10829,ELENA MAMANI MARTÍNEZ,elena.mamani38@gmail.com,6600-9285,SCZ,2023-07-18,"1,189.44"
+C10830,Camila Sánchez Flores,camila.sanchez13@empresa.com.bo,(591) 6130 4965,el alto,2023-02-18,890.48
+C10831,Camila Arce Torres,CAMILA.ARCE58@EMPRESA.COM.BO,77507221,Sta. Cruz,09/09/2023,"Bs 279,91"
+C10832,Mónica Quispe Gómez,monica.quispe48@gmail.com,6806-3623,Cochabamba,2022-12-28,"1,112.61"
+C10833,Monica Fernandez Nunez,monica.fernandez48@hotmail.com,6452-9382,tarija,28/11/2023,"277,48"
+C10834,natalia  torres martínez, natalia.torres61@yahoo.com ,(591) 6724 4017,Sucre,2022-10-04,1000.63
+C10835,sofía  rodríguez molina,SOFIA.RODRIGUEZ46@YAHOO.COM,+591 69927364,el alto,pendiente,732.05
+C10836,JUAN  MOLINA ORTIZ,JUAN.MOLINA64@GMAIL.COM,6741-7744,santa cruz,2025-08-04,1125.00
+C10837,hector gomez rodriguez,hector.gomez14@outlook.com,7622-7613,EL ALTO,30.06.2024,"Bs 626,39"
+C10838,Verónica  López Martínez,veronica.lopez65@yahoo.com,591-752-46536,LPZ,2023-06-12,"422,56"
+C10839, Daniela Perez Rivera ,daniela.perez47@hotmail.com,591-772-58771,La Paz,10.06.2022,373.18
+C10840,NATALIA VARGAS PÉREZ,natalia.vargas95@hotmail,75922265,LPZ,2024-05-22,202.16
+C10841,Diego Paredes Ramírez,diego.paredes93@gmail.com,(591) 7161 1422,SCZ,28/05/2022,1296.82
+C10842,RICARDO  CHOQUE SUAREZ,ricardo.choque6@hotmail.com,+591 78107793,La Paz,pendiente,1372.25
+C10843,Jorge Paredes Rojas,jorge.paredes3@outlook.com,(591) 6879 9298,LPZ,2024-10-10,577.33
+C10844, Valeria Nunez Arce ,valeria.nunez34@gmail.com,65919326,santa cruz,2024-03-09,"785,85"
+C10845,VERÓNICA FLORES ORTIZ,veronica.flores6@hotmail,591-699-08685,SUC,2022-12-07,"Bs 1.919,76"
+C10846,Rubén Molina Choque,ruben.molina89@hotmail.com,(591) 6749 8864,COCHABAMBA,2022-07-02,"Bs 2.250,87"
+C10847, jorge martínez mendoza ,jorge.martinez95@outlook.com,(591) 7766 1900,SUC,2023-06-22,3215.92
+C10848,Diego Molina Suárez,diego.molina36outlook.com,78452484,Santa Cruz,03/07/2025,"Bs 190,46"
+C10849,ricardo gutiérrez sánchez,ricardo.gutierrez52@gmail.com,6131-9276,SCZ,2022-05-18,"952,94"
+C10850, ELENA MARTÍNEZ SALAZAR ,elena.martinez39outlook.com,591-680-49554,La Paz,06/06/2025,"Bs 395,38"
+C10851, IVAN MAMANI VARGAS ,ivan.mamani16@empresa.com.bo,+591 76736685,Tarija,08/06/2023,"Bs 825,97"
+C10852,Veronica Fernandez Molina,veronica.fernandez70@empresa.com.bo,+591 62631176,Cbba.,2023-10-02,"Bs 581,68"
+C10853, andrés ortiz rivera ,andres.ortiz83@empresa.com.bo,64682427,Santa Cruz de la Sierra,02/04/2022,1899.95
+C10854,Daniela  Sánchez Arce,DANIELA.SANCHEZ13@YAHOO.COM,+591 60990726,sucre,04/02/2022,"902,64"
+C10855,Ricardo  Suárez Choque,ricardo.suarez54@yahoo.com,7478-9173,COCHABAMBA,29/07/2024,"732,34"
+C10856,Andrés  Rodríguez Castro,andres.rodriguez35@empresa.com.bo,7508-5667,sucre,08/02/2022,"2,084.05"
+C10857,IVÁN ORTIZ PÉREZ,ivan.ortiz75@outlook.com,(591) 6542 7475,el alto,2023-10-31,157.39
+C10858,Ruben  Paredes Paredes,ruben.paredes86hotmail.com,+591 79610521,Sucre,2025-06-14,"1.041,30"
+C10859,VERÓNICA  VARGAS GUTIÉRREZ,veronica.vargas91@gmail,591-770-77790,SCZ,03/07/2023,594.27
+C10860,RICARDO MAMANI NUNEZ,,,sucre,28/05/2024,"Bs 640,19"
+C10861,Elena Flores Torres, elena.flores14@yahoo.com ,591-705-84762,santa cruz,2024-01-17,"1.338,81"
+C10862, JUAN MARTÍNEZ ROJAS ,JUAN.MARTINEZ33@YAHOO.COM,591-617-89216,Sucre,24/09/2023,815.33
+C10863, Gabriela Lopez Ortiz ,gabriela.lopez52@yahoo.com,7010-9499,LA PAZ,2024-07-17,"615,77"
+C10864, Iván Gómez Torres ,ivan.gomez87@outlook.com,+591 63836256,la paz ,21/08/2024,"Bs 933,78"
+C10865,LUCIA MAMANI RODRIGUEZ, lucia.mamani16@empresa.com.bo ,,SCZ,15/05/2023,684.48
+C10866,paola  pérez vargas,,6402-8991,SUC,2024-12-19,1209.27
+C10867,miguel mendoza gutiérrez,miguel.mendoza65@yahoo.com,(591) 6194 3069,COCHABAMBA,19.11.2023,222.55
+C10868,Raul Fernandez Ortiz,raul.fernandez25@hotmail.com,77476921,Santa Cruz de la Sierra,28.10.2024,191.32
+C10869, Oscar Arce Castro ,oscar.arce12@hotmail.com,591-681-77654,santa cruz,29/08/2023,"551,71"
+C10870,José  Arce Gutiérrez,jose.arce38@hotmail.com,70197589,LPZ,31/01/2025,325.08
+C10871, Camila Pérez Martínez ,camila.perez65@hotmail.com,591-740-53199,la paz ,28/10/2024,"4,905.36"
+C10872, lucía paredes rodríguez , lucia.paredes3@yahoo.com ,69027429,COCHABAMBA,2025-03-15,615.98
+C10873,María Torres Torres,maria.torres71@empresa.com.bo,75917591,SCZ,26.09.2025,700.48
+C10874, JORGE ORTIZ FLORES ,JORGE.ORTIZ17@GMAIL.COM,(591) 7334 8197,Sta. Cruz,05.06.2024,"Bs 1.112,08"
+C10875,Raul Ramirez Suarez,RAUL.RAMIREZ58@HOTMAIL.COM,(591) 6187 6032,El Alto,2025-10-22,380.97
+C10876,Sebastián Choque Quispe, sebastian.choque60@empresa.com.bo ,+591 73887385,La Paz,04/08/2023,2733.74
+C10877, DANIELA FERNÁNDEZ GUTIÉRREZ ,daniela.fernandez89@empresa.com.bo,7124-9011,La Paz,2022-06-02,673.33
+C10878,andrés ortiz lópez,andres.ortiz7@empresa.com.bo,591-618-58099,santa cruz,30/11/2024,378.21
+C10879,Natalia Quispe Ramírez,natalia.quispe97@outlook.com,6845-0873,Cochabamba,13/08/2022,913.25
+C10880,verónica ortiz lópez, veronica.ortiz7@hotmail.com ,+591 61535893,LA PAZ,15.02.2022,"303,22"
+C10881,Lucía Mamani Quispe,LUCIA.MAMANI47@HOTMAIL.COM,+59172876597,santa cruz,2024-12-16,"1,962.39"
+C10882,HÉCTOR  ROJAS LÓPEZ,hector.rojas41@yahoo,7816-6863,La Paz,14/06/2023,418.45
+C10883, óscar vargas rodríguez ,oscar.vargas71@outlook.com,591-674-15454,COCHABAMBA,27/09/2022,952.99
+C10884,Diego Castro Quispe,diego.castro98@hotmail.com,7824-2763,sucre,17/01/2022,"1,045.48"
+C10885,ANA ROJAS PAREDES,ana.rojas65@outlook.com,6573-5594,COCHABAMBA,21.07.2022,562.86
+C10886,ANDRÉS  PÉREZ GÓMEZ,,6111-8266,el alto,06/11/2023,294.66
+C10887,Ricardo Gómez Suárez, ricardo.gomez5@gmail.com ,+59165816580,Santa Cruz,14.03.2023,730.48
+C10888,Juan  Sanchez Gomez,juan.sanchez38@yahoo.com,65998324,COCHABAMBA,2023-05-10,"Bs 501,24"
+C10889,sebastian  sanchez lopez,sebastian.sanchez86@empresa.com.bo,(591) 7281 3650,La Paz,03/03/2024,"Bs 127,79"
+C10890,LUCÍA  NÚÑEZ NÚÑEZ,lucia.nunez45@hotmail.com,591-670-12810,cbba,21/02/2023,"Bs 1.183,75"
+C10891, Lucía  Martínez Rojas ,lucia.martinez87@yahoo.com,+591 62031678,Tarija,2023-04-30,"398,20"
+C10892,MÓNICA ORTIZ FERNÁNDEZ,monica.ortiz5@gmail.com,+59161262427,Cochabamba,28/10/2024,194.05
+C10893,Raul  Rojas Flores,RAUL.ROJAS82@HOTMAIL.COM,+591 60472470,Sta. Cruz,2022-01-02,1424.18
+C10894,MIGUEL ARCE GUTIÉRREZ,MIGUEL.ARCE76@EMPRESA.COM.BO,+59179161734,Sta. Cruz,2022-12-02,"Bs 2.022,91"
+C10895,ELENA LOPEZ VARGAS,ELENA.LOPEZ85@YAHOO.COM,62491659,el alto,22/03/2022,"2.117,64"
+C10896,Jorge Rodriguez Mamani,jorge.rodriguez54@empresa.com.bo,591-739-07917,La Paz,pendiente,"1,939.83"
+C10897,IVÁN  ROJAS RIVERA,ivan.rojas84@empresa.com.bo,7086-8812,El Alto,2022-08-30,"1.397,37"
+C10898,ANA PÉREZ RIVERA,ana.perez97@hotmail.com,591-734-00642,Santa Cruz de la Sierra,19.10.2023,"2.068,79"
+C10899,ruben gomez lopez,ruben.gomez64@gmail.com,(591) 6407 4886,Sucre,2025-06-04,"1,907.34"
+C10900,PAOLA  ARCE QUISPE,paola.arce78@gmail.com,591-661-92800,SUC,2024-08-11,332.48
+C10901,sebastián quispe gómez, sebastian.quispe46@empresa.com.bo ,(591) 6203 7372,la paz ,2023-11-02,243.76
+C10902,ÓSCAR MAMANI MAMANI,oscar.mamani29@gmail.com,71216097,santa cruz,07/11/2023,522.97
+C10903, iván  mendoza rodríguez , ivan.mendoza54@gmail.com ,+591 78840237,Santa Cruz de la Sierra,12/10/2025,490.94
+C10904,Miguel  Ramírez Fernández, miguel.ramirez53@hotmail.com ,(591) 7018 3361,cbba,2024-10-19,"Bs 752,86"
+C10905,Luis  Suárez Molina, luis.suarez2@yahoo.com ,+59173925624,Sta. Cruz,13.12.2022,895.92
+C10906,claudia lópez paredes,CLAUDIA.LOPEZ3@YAHOO.COM,,santa cruz,2024-02-11,"3,192.74"
+C10907,Ana Pérez Flores,ana.perez27@outlook.com,(591) 6944 7423,LA PAZ,pendiente,"435,39"
+C10908,veronica  salazar ramirez, veronica.salazar72@outlook.com ,,sucre,23/07/2025,715.28
+C10909,Sebastián Mamani Pérez,sebastian.mamani74@outlook.com,+59168431817,EL ALTO,11.05.2023,2373.23
+C10910,daniela ramirez torres,daniela.ramirez97@yahoo.com,(591) 6329 3287,Santa Cruz de la Sierra,08.02.2024,"527,74"
+C10911, Raúl Vargas Choque ,RAUL.VARGAS20@EMPRESA.COM.BO,7613-5577,el alto,02/09/2025,541.12
+C10912,Miguel Suárez Sánchez,miguel.suarez85@outlook.com,(591) 6558 0910,SCZ,2024-07-02,403.46
+C10913,carla paredes castro,carla.paredes41@gmail.com,7499-7275,SCZ,30/08/2024,2348.21
+C10914,FERNANDO LOPEZ FLORES, fernando.lopez65@gmail.com ,79095262,LA PAZ,2023-01-05,821.51
+C10915,Elena Castro Perez,elena.castro10@outlook.com,+591 63440553,Santa Cruz,09.05.2024,296.52
+C10916,Daniela Martínez Torres, daniela.martinez5@outlook.com ,6795-0140,La Paz,2022-10-13,"Bs 458,15"
+C10917,CLAUDIA ARCE RAMÍREZ,claudia.arce14@empresa.com.bo,+591 75835725,Cochabamba,2022-11-20,611.32
+C10918,Hector  Mamani Suarez,hector.mamani90outlook.com,(591) 7820 6348,LA PAZ,21/01/2022,495.72
+C10919,valeria choque quispe, valeria.choque20@empresa.com.bo ,+59179155264,Santa Cruz,2023-07-19,"Bs 409,92"
+C10920,JOSÉ ARCE FERNÁNDEZ,jose.arce13@gmail,+59167709586,COCHABAMBA,2025-07-08,680.00
+C10921, Diego  Mendoza Ortiz ,diego.mendoza19@empresa.com.bo,,la paz ,31.03.2024,"Bs 347,04"
+C10922, Veronica Paredes Gomez ,veronica.paredes53@gmail.com,73356884,cbba,16/06/2024,"Bs 3.366,42"
+C10923, lucía rivera martínez ,lucia.rivera58@yahoo.com,+59160256763,Sta. Cruz,2024-04-29,"2,796.59"
+C10924,Elena Gómez Pérez, elena.gomez67@empresa.com.bo ,72078176,La Paz,2023-09-12,546.17
+C10925,GABRIELA RODRÍGUEZ ROJAS,,+591 79273684,El Alto,2023-10-22,"Bs 1.617,02"
+C10926,Daniela Vargas Salazar,daniela.vargas32@yahoo.com,+591 76158957,EL ALTO,2023-06-12,674.02
+C10927,Héctor  Paredes Mamani,hector.paredes15@outlook.com,,La Paz,24.08.2024,"Bs 680,96"
+C10928,SEBASTIAN MARTINEZ TORRES,SEBASTIAN.MARTINEZ26@GMAIL.COM,(591) 6093 0429,LPZ,2024-10-02,"3,316.49"
+C10929,Gabriela Gómez Martínez,gabriela.gomez68@gmail.com,64693339,cbba,2025-04-25,164.67
+C10930, Ivan Castro Ortiz ,ivan.castro36outlook.com,(591) 7205 2939,EL ALTO,2025-02-10,"407,93"
+C10931,ana torres gutierrez,ana.torres20@hotmail.com,7607-8109,Santa Cruz,09/02/2025,197.18
+C10932,Ruben Fernandez Flores,ruben.fernandez9@outlook.com,71344430,santa cruz,2022-03-20,"Bs 122,68"
+C10933, ANA TORRES VARGAS ,ana.torres10@outlook.com,73595816,Sucre,2023-03-27,"1.894,82"
+C10934,JUAN CHOQUE TORRES,juan.choque19@empresa.com.bo,+59179093164,cbba,26.01.2025,"1,462.76"
+C10935,Ana  Choque Rojas,ana.choque22@yahoo.com,70333017,sucre,18/08/2022,939.20
+C10936,Ricardo Núñez Paredes,RICARDO.NUNEZ43@EMPRESA.COM.BO,591-736-66168,santa cruz,11/01/2022,"Bs 241,55"
+C10937,JOSÉ MARTÍNEZ RAMÍREZ,,6310-7251,LA PAZ,22/05/2024,500.26
+C10938,FERNANDO  MAMANI RAMÍREZ,fernando.mamani36@yahoo.com,73276465,SUC,2022-05-21,"1.100,25"
+C10939,LUIS LÓPEZ MOLINA, luis.lopez85@yahoo.com ,591-674-39550,LA PAZ,25/05/2022,"Bs 765,81"
+C10940,GABRIELA  ROJAS SÁNCHEZ,gabriela.rojas19@empresa.com.bo,(591) 6411 7126,santa cruz,26.10.2024,"Bs 407,19"
+C10941, Andrés Torres Paredes ,ANDRES.TORRES91@YAHOO.COM,+591 60145955,Sta. Cruz,13/08/2025,"1,028.48"
+C10942, Ana Choque Arce ,ana.choque81@gmail,(591) 7449 3452,Cbba.,09/02/2023,"723,69"
+C10943, SOFIA  MAMANI NUNEZ ,sofia.mamani2@gmail.com,71307412,Sta. Cruz,26/09/2023,475.90
+C10944, MARÍA SÁNCHEZ LÓPEZ ,maria.sanchez60@yahoo.com,72395429,sucre,18/07/2022,"1.449,13"
+C10945,Paola Sánchez Torres,paola.sanchez61@empresa.com.bo,68284331,santa cruz,2023-03-11,"490,17"
+C10946,Paola Martínez Arce,paola.martinez5@hotmail.com,591-774-38845,Santa Cruz de la Sierra,2024-07-18,514.38
+C10947,daniela  rojas salazar,daniela.rojas7@outlook.com,67579762,LA PAZ,20.06.2022,"1.400,84"
+C10948,ANDRÉS NÚÑEZ FLORES,ANDRES.NUNEZ56@GMAIL.COM,7428-7834,santa cruz,10.06.2024,392.24
+C10949,Juan Torres Ortiz,,65408605,SCZ,26.01.2022,"Bs 521,61"
+C10950,Andres Salazar Mamani,andres.salazar30@yahoo.com,64156666,Santa Cruz,2025-03-30,"912,07"
+C10951, raúl ortiz lópez ,raul.ortiz34yahoo.com,591-781-87326,La Paz,14.05.2022,"3,949.06"
+C10952, DIEGO MAMANI CHOQUE ,diego.mamani86@gmail.com,79464213,Tarija,25.05.2024,"Bs 754,33"
+C10953,daniela choque fernández,daniela.choque72@yahoo.com,591-607-22437,Sta. Cruz,2022-04-22,"1,500.40"
+C10954,Valeria  Flores Rivera,VALERIA.FLORES90@GMAIL.COM,68238837,Tarija,25/09/2022,"Bs 821,28"
+C10955, gabriela vargas choque ,gabriela.vargas97@outlook.com,(591) 7694 0542,SCZ,20/05/2025,688.86
+C10956,ruben molina rodriguez, ruben.molina54@gmail.com ,591-708-78684,LPZ,11.07.2022,622.38
+C10957,SEBASTIÁN  RIVERA MENDOZA,SEBASTIAN.RIVERA60@GMAIL.COM,6274-9304,SCZ,30/06/2025,"1.887,58"
+C10958,JORGE ARCE FLORES,jorge.arce84@gmail.com,591-722-90776,La Paz,2024-07-24,"Bs 940,24"
+C10959,valeria martinez choque,valeria.martinez41@outlook.com,591-779-77318,SCZ,01.01.2023,938.42
+C10960,jorge mamani martínez,jorge.mamani68@hotmail.com,+591 61261731,Cochabamba,21.04.2025,693.82
+C10961,Veronica Ortiz Flores,VERONICA.ORTIZ29@GMAIL.COM,+591 65525198,Santa Cruz de la Sierra,09.06.2024,333.62
+C10962,RUBÉN RAMÍREZ RAMÍREZ,ruben.ramirez57@hotmail.com,591-778-50776,TJA,07.06.2024,253.26
+C10963,Jorge Salazar Rodríguez,jorge.salazar85@hotmail.com,79415013,TJA,2022-09-14,"1,285.90"
+C10964,Ricardo Gutiérrez Salazar,,7452-8196,COCHABAMBA,2022-04-07,379.24
+C10965,RICARDO LOPEZ FERNANDEZ,ricardo.lopez73@yahoo.com,7015-4324,Tarija,05/12/2024,838.05
+C10966,RICARDO PAREDES MARTÍNEZ,ricardo.paredes58@outlook.com,(591) 7655 7530,Cbba.,2022-05-28,"282,12"
+C10967,óscar mamani gutiérrez,oscar.mamani83@yahoo.com,7136-2282,Cbba.,2022-09-28,552.93
+C10968, Natalia Quispe Paredes ,natalia.quispe46@hotmail.com,7505-1617,El Alto,03/05/2024,"172,99"
+C10969,María Molina Quispe,MARIA.MOLINA5@OUTLOOK.COM,79180176,Sucre,2022-01-02,819.61
+C10970,ANA PAREDES PAREDES,ANA.PAREDES72@GMAIL.COM,591-701-32610,Santa Cruz de la Sierra,2024-11-07,"Bs 357,69"
+C10971, Gabriela Paredes Rojas ,gabriela.paredes1@empresa.com.bo,+591 61112545,LPZ,2022-06-20,218.66
+C10972, daniela rodriguez sanchez ,daniela.rodriguez27@yahoo.com,(591) 7113 3643,Cochabamba,2023-09-17,1367.13
+C10973,Lucía Castro Núñez,LUCIA.CASTRO28@EMPRESA.COM.BO,6573-3304,Sta. Cruz,20.02.2024,417.71
+C10974,JORGE NÚÑEZ MAMANI,jorge.nunez76@yahoo.com,73494826,LA PAZ,2024-10-21,442.60
+C10975,LUCÍA MARTÍNEZ LÓPEZ, lucia.martinez84@gmail.com ,591-695-13495,El Alto,pendiente,"1.333,57"
+C10976, Juan Quispe López , juan.quispe83@outlook.com ,591-679-15191,Santa Cruz,28/09/2022,"Bs 2.150,22"
+C10977, María  Arce Rojas ,maria.arce77@empresa.com.bo,591-652-98742,Santa Cruz,2022-10-20,"2,258.63"
+C10978,Fernando Fernandez Flores,fernando.fernandez88@hotmail.com,7029-9315,la paz ,2024-05-30,504.06
+C10979,DIEGO  ROJAS MARTÍNEZ,DIEGO.ROJAS45@YAHOO.COM,6406-3122,la paz ,2023-10-21,"998,90"
+C10980,JOSÉ FERNÁNDEZ TORRES,jose.fernandez62@yahoo.com,591-746-25424,el alto,03/04/2023,"Bs 827,78"
+C10981,LUIS  MAMANI GUTIÉRREZ,luis.mamani26@gmail.com,(591) 7217 1971,la paz ,03/07/2025,452.99
+C10982,MARÍA QUISPE PAREDES,maria.quispe16@hotmail,591-623-13804,El Alto,2025-09-12,798.46
+C10983, diego pérez choque ,DIEGO.PEREZ25@HOTMAIL.COM,6853-6121,Santa Cruz de la Sierra,03.10.2023,"763,33"
+C10984,Verónica Ortiz López,veronica.ortiz7hotmail.com,+591 61535893,LA PAZ,pendiente,"303,22"
+C10985,Diego Ortiz Paredes, diego.ortiz17@yahoo.com ,591-628-42721,LA PAZ,2023-01-06,238.02
+C10986,juan rodríguez quispe,juan.rodriguez42hotmail.com,591-735-26054,cbba,07/03/2025,"591,89"
+C10987,jorge mamani mamani,jorge.mamani26@outlook.com,,la paz ,03/02/2023,"2,055.78"
+C10988,daniela rodriguez vargas,DANIELA.RODRIGUEZ73@GMAIL.COM,591-659-05986,Sta. Cruz,2022-02-21,2695.81
+C10989,LUCIA MOLINA PEREZ,LUCIA.MOLINA43@OUTLOOK.COM,7066-1423,Cbba.,20.11.2022,746.77
+C10990,iván fernández gutiérrez,ivan.fernandez98@gmail.com,7038-1852,LPZ,04.05.2024,"Bs 151,68"
+C10991, Claudia  Molina Mamani ,claudia.molina79@hotmail.com,6083-5729,el alto,2024-10-07,"Bs 859,48"
+C10992,Óscar Paredes Choque,oscar.paredes73@yahoo.com,+59161305811,sucre,10.10.2023,"1.803,89"
+C10993,ANA SALAZAR LÓPEZ,ana.salazar34@yahoo.com,65574369,santa cruz,2022-01-24,"2,354.43"
+C10994, Natalia Torres Vargas ,natalia.torres1yahoo.com,+591 76636893,Sta. Cruz,05/08/2022,803.01
+C10995, Ana Choque Gomez ,ana.choque15@hotmail.com,+59165325987,la paz ,2022-01-05,"Bs 1.084,12"
+C10996, IVÁN  FLORES NÚÑEZ , ivan.flores32@outlook.com ,(591) 6651 9537,santa cruz,2022-02-07,"1,316.31"
+C10997, Sofía  Torres Mendoza ,sofia.torres52@empresa.com.bo,(591) 6598 4441,el alto,2024-11-29,"597,83"
+C10998, VALERIA GÓMEZ MOLINA ,valeria.gomez41@hotmail,(591) 7748 7277,Sucre,2023-12-06,1687.11
+C10999,verónica núñez ortiz, veronica.nunez25@gmail.com ,+59163006686,cbba,02/12/2022,2785.34
+C11000, raul martinez nunez ,raul.martinez43@hotmail.com,+591 78690497,EL ALTO,01/04/2022,"649,31"
+C11001, DANIELA CASTRO LÓPEZ ,DANIELA.CASTRO42@HOTMAIL.COM,,Cochabamba,25/05/2025,"2.118,39"
+C11002, Elena Torres Arce ,elena.torres93hotmail.com,+59169522909,sucre,26/04/2023,"680,02"
+C11003, Gabriela  Rojas Choque ,gabriela.rojas67@outlook.com,(591) 7716 6910,la paz ,01/08/2024,"1.186,97"
+C11004,Ana Gutiérrez Fernández,ANA.GUTIERREZ60@GMAIL.COM,591-779-01613,sucre,12/01/2022,828.81
+C11005,Oscar Ramirez Suarez,oscar.ramirez81@empresa.com.bo,591-768-81455,Cbba.,10.08.2024,"Bs 1.196,67"
+C11006,Mónica Ortiz Fernández,monica.ortiz5@gmail.com,591-612-62427,Cochabamba,28.10.2024,"Bs 194,05"
+C11007,camila suárez pérez,camila.suarez33@gmail.com,+59168296859,la paz ,2025-05-30,"1.618,02"
+C11008, Fernando  Quispe Gutiérrez ,fernando.quispe32@outlook.com,+591 79229857,el alto,27/07/2022,"Bs 271,65"
+C11009,Gabriela  Mamani Sánchez,GABRIELA.MAMANI56@GMAIL.COM,+59175784133,la paz ,03.08.2022,517.34
+C11010,gabriela ortiz choque,gabriela.ortiz46@yahoo.com,+59179513614,santa cruz,2024-02-25,"Bs 957,27"
+C11011, Claudia Quispe Ramirez ,claudia.quispe76@empresa.com,6338-2183,LA PAZ,23/08/2022,455.97
+C11012, Sebastián  Torres López ,sebastian.torres71empresa.com.bo,7186-9580,Cbba.,2023-12-05,554.77
+C11013,camila martinez perez,camila.martinez94@hotmail.com,6792-6560,Sucre,07.04.2022,"104,76"
+C11014,Miguel Molina Fernandez,miguel.molina62@hotmail.com,591-743-93494,la paz ,05.05.2022,"264,60"
+C11015,Raul Salazar Choque,RAUL.SALAZAR22@EMPRESA.COM.BO,+591 74083361,Cochabamba,19/02/2024,896.94
+C11016,Fernando Mendoza Nunez, fernando.mendoza63@outlook.com ,+591 66691286,SCZ,15.05.2025,345.23
+C11017,camila arce sánchez,camila.arce32@gmail.com,65933080,Sta. Cruz,12/01/2023,759.57
+C11018, Lucía Mendoza Gómez ,LUCIA.MENDOZA87@OUTLOOK.COM,65771681,LPZ,22.01.2023,736.38
+C11019,Hector Gomez Quispe,HECTOR.GOMEZ60@GMAIL.COM,(591) 6416 1843,Cbba.,05/03/2025,216.80
+C11020,fernando ortiz rodríguez,fernando.ortiz8@hotmail,63393333,la paz ,26.07.2024,2289.98
+C11021,miguel núñez ramírez,MIGUEL.NUNEZ87@HOTMAIL.COM,6048-4225,SUC,2024-12-12,"330,05"
+C11022,Rubén Mamani Martínez,ruben.mamani32@hotmail.com,70863907,la paz ,2024-02-12,339.18
+C11023,Raúl Paredes Gutiérrez,RAUL.PAREDES36@OUTLOOK.COM,6155-9287,LA PAZ,25.10.2025,"1,332.85"
+C11024,Valeria Flores Ortiz,valeria.flores2@hotmail.com,591-749-69182,sucre,13/11/2024,711.49
+C11025,camila molina rivera,camila.molina49@empresa.com.bo,+591 60969654,la paz ,2022-04-27,"653,19"
+C11026,Ruben  Mendoza Mamani,ruben.mendoza43@yahoo.com,(591) 6013 6631,santa cruz,01.07.2022,"Bs 1.578,58"
+C11027,Diego Sanchez Perez,,(591) 6365 6364,LPZ,2022-02-01,"252,97"
+C11028,veronica fernandez quispe, veronica.fernandez12@empresa.com.bo ,65279952,Santa Cruz de la Sierra,27/01/2025,"753,31"
+C11029,Gabriela Martínez Fernández,GABRIELA.MARTINEZ55@GMAIL.COM,7495-9822,sucre,2025-02-07,"781,74"
+C11030,iván lópez arce,ivan.lopez6hotmail.com,+59172480534,El Alto,2025-09-03,"Bs 1.121,40"
+C11031,Mónica Paredes Rojas, monica.paredes83@gmail.com ,+591 74473542,SCZ,2022-08-24,"Bs 609,52"
+C11032,CARLA MOLINA ORTIZ,carla.molina92@yahoo.com,+591 65534590,sucre,04.08.2022,"2.437,29"
+C11033, valeria martínez arce ,VALERIA.MARTINEZ38@GMAIL.COM,61363087,santa cruz,2024-02-01,154.88
+C11034,JORGE RODRÍGUEZ MAMANI,JORGE.RODRIGUEZ54@EMPRESA.COM.BO,+59173907917,la paz ,02/04/2025,"1.939,83"
+C11035,Sebastian Rivera Quispe,sebastian.rivera31@yahoo.com,+591 63914860,COCHABAMBA,12/05/2025,1224.39
+C11036, Rubén Choque Martínez ,RUBEN.CHOQUE83@GMAIL.COM,7652-1407,LPZ,27.10.2023,341.69
+C11037,Monica Torres Gomez,monica.torres38@gmail.com,78561384,el alto,25/02/2023,"746,87"
+C11038, ÓSCAR  GÓMEZ SÁNCHEZ ,oscar.gomez28@empresa.com.bo,,Cochabamba,05.12.2024,"Bs 442,73"
+C11039,RICARDO ROJAS RODRIGUEZ, ricardo.rojas20@hotmail.com ,,COCHABAMBA,27.06.2025,"Bs 711,84"
+C11040,DIEGO  RAMÍREZ MAMANI,diego.ramirez7@hotmail.com,76651399,Santa Cruz,11.01.2024,"Bs 1.095,39"
+C11041,Iván Rivera Molina,IVAN.RIVERA4@EMPRESA.COM.BO,,LPZ,02/04/2022,643.48
+C11042,Natalia Flores Ramirez, natalia.flores42@empresa.com.bo ,6507-2873,SUC,15.04.2024,"1,332.75"
+C11043,Verónica  Quispe Gómez,VERONICA.QUISPE95@EMPRESA.COM.BO,591-736-17026,Santa Cruz,2024-02-12,770.44
+C11044, NATALIA RODRÍGUEZ NÚÑEZ ,NATALIA.RODRIGUEZ90@GMAIL.COM,+591 79105404,SUC,06/10/2023,1550.49
+C11045,Claudia Choque Rodriguez,claudia.choque81@hotmail.com,(591) 6937 9591,Santa Cruz,2023-06-30,"2,244.31"
+C11046,Iván Núñez Martínez,ivan.nunez80@outlook.com,+591 67612578,LPZ,24/09/2022,"236,27"
+C11047,jorge quispe salazar,jorge.quispe33@outlook.com,(591) 7795 0058,Cbba.,2022-09-09,"346,30"
+C11048,Ivan  Gomez Fernandez,ivan.gomez36@empresa.com.bo,+591 75048599,cbba,2023-02-06,"Bs 949,94"
+C11049,Ana Salazar Torres,ANA.SALAZAR39@HOTMAIL.COM,+59179339143,LPZ,28.02.2022,2613.50
+C11050,Camila Choque Gomez,camila.choque45@yahoo.com,591-693-98317,el alto,25.10.2025,"Bs 1.144,49"
+C11051,valeria vargas vargas,VALERIA.VARGAS10@YAHOO.COM,(591) 6013 3981,santa cruz,08.05.2025,736.06
+C11052,camila fernández martínez,CAMILA.FERNANDEZ39@OUTLOOK.COM,7500-6720,TJA,11/03/2025,373.01
+C11053, Daniela  Molina Suárez ,daniela.molina18@outlook.com,+591 75356396,sucre,06.02.2022,727.21
+C11054,José  Mendoza Gómez,jose.mendoza36@yahoo.com,6376-6225,cbba,2025-05-31,"299,63"
+C11055, elena  núñez vargas , elena.nunez96@outlook.com ,6598-7300,Cbba.,05/10/2024,642.82
+C11056, Claudia Arce Vargas , claudia.arce40@gmail.com ,64401154,Cochabamba,2023-01-12,557.00
+C11057,ANDRÉS  PAREDES SÁNCHEZ, andres.paredes57@empresa.com.bo ,(591) 6531 5769,COCHABAMBA,2024-08-06,"1,745.62"
+C11058,Lucia  Rodriguez Lopez,lucia.rodriguez77@hotmail.com,+59173718550,cbba,pendiente,5018.25
+C11059,claudia molina suárez,CLAUDIA.MOLINA83@OUTLOOK.COM,79457559,Santa Cruz de la Sierra,2024-02-15,2189.14
+C11060,juan suarez vargas,juan.suarez5hotmail.com,74132783,Santa Cruz,2025-01-10,474.83
+C11061,Miguel Mamani Sánchez,miguel.mamani84@outlook.com,591-652-46059,sucre,24.08.2022,422.93
+C11062,carla rojas gómez,carla.rojas58@yahoo.com,591-777-76191,TJA,15/02/2023,717.41
+C11063,María Torres Castro,maria.torres33@yahoo.com,591-756-95024,la paz ,15/09/2024,"1.517,92"
+C11064, MIGUEL RIVERA LÓPEZ ,MIGUEL.RIVERA87@OUTLOOK.COM,+591 68378501,sucre,22.12.2023,"937,15"
+C11065,Camila  Salazar Ortiz,camila.salazar19@outlook.com,(591) 7994 7556,La Paz,2025-07-03,192.04
+C11066, Miguel Rivera Mamani ,MIGUEL.RIVERA58@YAHOO.COM,+59178766020,Sta. Cruz,2022-11-03,269.03
+C11067, Fernando Choque Rodriguez , fernando.choque26@yahoo.com ,+591 72018278,LA PAZ,30/01/2025,694.53
+C11068,CAMILA  SALAZAR PAREDES,,7152-4267,santa cruz,29.12.2023,643.88
+C11069, valeria  torres ortiz ,VALERIA.TORRES37@YAHOO.COM,+591 64303409,santa cruz,14/12/2023,"Bs 290,29"
+C11070,LUIS MARTÍNEZ CASTRO,luis.martinez98gmail.com,+59161320284,El Alto,14.05.2024,"651,63"
+C11071,hector nunez fernandez,hector.nunez67empresa.com.bo,(591) 6036 0934,LA PAZ,01.10.2023,1433.56
+C11072, Mónica Arce Torres ,monica.arce1@hotmail.com,591-704-43685,Santa Cruz de la Sierra,10.10.2023,"Bs 632,99"
+C11073,IVÁN RODRÍGUEZ MOLINA,ivan.rodriguez35@empresa.com.bo,(591) 7635 7261,sucre,17/03/2023,"702,19"
+C11074, CLAUDIA  RAMIREZ GOMEZ ,claudia.ramirez93@hotmail.com,(591) 7981 8342,El Alto,pendiente,"Bs 281,25"
+C11075,Gabriela Mendoza Salazar,gabriela.mendoza34@gmail.com,(591) 6345 5007,santa cruz,2022-01-24,1224.48
+C11076,óscar  castro martínez,oscar.castro33@gmail.com,+591 61675780,LA PAZ,03/06/2022,508.47
+C11077,Natalia Castro Rodríguez,NATALIA.CASTRO58@GMAIL.COM,(591) 6444 3790,Sta. Cruz,2024-08-03,"1,302.28"
+C11078,CLAUDIA  ARCE MAMANI,,6911-6091,La Paz,15/04/2022,"2.608,43"
+C11079,VALERIA SÁNCHEZ ARCE, valeria.sanchez52@gmail.com ,(591) 6363 5941,LA PAZ,2022-04-27,313.23
+C11080,JORGE  NUNEZ CHOQUE,JORGE.NUNEZ13@EMPRESA.COM.BO,591-786-93805,Sta. Cruz,04.09.2023,"899,02"
+C11081,FERNANDO  TORRES GUTIÉRREZ,fernando.torres91@hotmail.com,591-742-66643,SUC,2024-02-06,737.49
+C11082,ana rivera rojas, ana.rivera63@gmail.com ,7642-0778,Santa Cruz de la Sierra,28/01/2025,167.36
+C11083,FERNANDO  VARGAS MAMANI,fernando.vargas53@yahoo.com,591-662-35973,LA PAZ,15/01/2024,"Bs 533,36"
+C11084,Diego Gomez Gomez,,+591 74229229,Sucre,2023-06-23,"1.193,79"
+C11085,ANDRES  TORRES QUISPE,ANDRES.TORRES66@GMAIL.COM,6232-0987,Sucre,2022-02-15,"356,51"
+C11086,RUBÉN GUTIÉRREZ RODRÍGUEZ,ruben.gutierrez80@yahoo.com,+59176991445,cbba,2023-04-17,"1.695,53"
+C11087,andrés núñez torres,andres.nunez43@outlook.com,+591 75553639,Cbba.,10/04/2025,1778.69
+C11088, FERNANDO MOLINA LOPEZ ,fernando.molina43@outlook.com,591-745-66647,cbba,18/05/2023,146.91
+C11089, Jorge  Choque Lopez ,JORGE.CHOQUE81@GMAIL.COM,,sucre,22/10/2025,273.21
+C11090,RAUL ARCE SUAREZ,raul.arce25@gmail.com,591-687-12701,SCZ,07.11.2023,"Bs 932,52"
+C11091,Daniela Salazar Mamani, daniela.salazar67@hotmail.com ,+591 75703986,Sta. Cruz,08/05/2022,"1,579.88"
+C11092,IVÁN FERNÁNDEZ SUÁREZ,ivan.fernandez36@hotmail.com,76971983,la paz ,28/06/2023,188.35
+C11093, Sofía  Vargas Vargas ,sofia.vargas74@yahoo.com,67912456,sucre,17/10/2023,"1,132.51"
+C11094,Héctor Fernández Pérez,hector.fernandez3@yahoo.com,70568875,Santa Cruz de la Sierra,2024-08-06,"Bs 792,68"
+C11095,Iván Mamani Vargas,ivan.mamani16@empresa.com.bo,7673-6685,tarija,2023-06-08,"825,97"
+C11096,miguel mamani sanchez,MIGUEL.MAMANI84@OUTLOOK.COM,,SUC,24.08.2022,"Bs 422,93"
+C11097,luis  castro gómez,luis.castro73@outlook.com,(591) 6411 0040,Sta. Cruz,02.03.2022,7600.57
+C11098,ELENA LÓPEZ LÓPEZ,elena.lopez53@gmail.com,7592-3444,la paz ,16.08.2023,"Bs 252,45"
+C11099,Natalia Salazar Rivera,natalia.salazar34@empresa.com.bo,(591) 7134 1135,santa cruz,12/08/2025,"598,34"
+C11100,DIEGO  ROJAS ORTIZ,diego.rojas68hotmail.com,,Cbba.,01/01/2025,187.33
+C11101,Diego  Quispe Ramirez,diego.quispe56@yahoo.com,591-692-58682,santa cruz,2023-01-14,"1.325,11"
+C11102,Daniela Mamani Perez,daniela.mamani85@outlook.com,+591 63872609,La Paz,27/06/2025,2438.93
+C11103,Monica Lopez Mendoza,monica.lopez15@hotmail.com,(591) 7612 1658,Santa Cruz,18/10/2024,"Bs 311,26"
+C11104,DANIELA VARGAS MAMANI,daniela.vargas19@yahoo.com,(591) 6568 6747,LA PAZ,13/07/2023,125.27
+C11105,Valeria  Suárez Rodríguez,valeria.suarez24@outlook.com,+59167746368,Sta. Cruz,2023-06-29,"1,758.40"
+C11106, Mónica  Fernández Fernández ,monica.fernandez51@hotmail.com,(591) 6182 7371,Cbba.,27.10.2025,"1,299.73"
+C11107,Ricardo Pérez Mamani,ricardo.perez27@outlook.com,591-657-00573,SCZ,2024-07-30,"Bs 993,81"
+C11108,CARLA ORTIZ GUTIÉRREZ,CARLA.ORTIZ45@OUTLOOK.COM,+59172585707,LPZ,16/04/2025,"Bs 420,22"
+C11109,LUCÍA NÚÑEZ MENDOZA,lucia.nunez31@yahoo.com,591-718-09588,santa cruz,25/09/2024,"Bs 528,71"
+C11110,maría  mendoza mamani,maria.mendoza78@yahoo.com,6243-7593,LPZ,28.10.2024,831.88
+C11111, Carla Mamani Rivera ,carla.mamani47@yahoo.com,+591 70547489,La Paz,2023-03-11,4600.62
+C11112,luis quispe castro,luis.quispe38@hotmail.com,+591 62913199,El Alto,16/12/2023,850.51
+C11113,andrés salazar mendoza,andres.salazar92@empresa.com.bo,7276-6790,Cbba.,01/03/2024,577.75
+C11114,Jose Gutierrez Choque,jose.gutierrez37@empresa.com.bo,+59169072048,tarija,2022-06-22,576.18
+C11115, JORGE CHOQUE GÓMEZ , jorge.choque86@outlook.com ,69246144,SUC,04.08.2022,"Bs 3.339,73"
+C11116,Carla Gutiérrez Rojas,carla.gutierrez97outlook.com,+59179033307,Sucre,15.01.2024,214.41
+C11117,Héctor  Vargas Mamani,hector.vargas37@empresa.com,+59172301061,santa cruz,05/12/2023,"597,38"
+C11118,claudia gómez rivera,claudia.gomez72@gmail,591-737-23566,EL ALTO,2022-06-21,"Bs 308,11"
+C11119,Ruben Castro Gomez,ruben.castro68@outlook.com,(591) 7665 9813,LPZ,11/11/2022,1598.25
+C11120,Jorge Vargas Paredes,,+591 64550947,La Paz,21/12/2023,"2,242.92"
+C11121,Elena Rodríguez Torres,,+59172555355,Cochabamba,2023-10-26,4232.57
+C11122,IVAN CHOQUE RIVERA,ivan.choque65@hotmail.com,(591) 7139 1664,SCZ,2024-11-03,2301.34
+C11123,Diego Flores Salazar,diego.flores23@gmail.com,+591 65600695,LA PAZ,2023-11-27,"Bs 1.105,73"
+C11124, Mónica Vargas Arce ,MONICA.VARGAS69@EMPRESA.COM.BO,+591 71092512,el alto,27/09/2025,"677,83"
+C11125,daniela paredes choque,daniela.paredes63@hotmail.com,71700470,Cochabamba,2023-06-28,"Bs 329,88"
+C11126,Luis Arce Núñez,luis.arce39@yahoo.com,591-781-43071,SUC,13/05/2023,"Bs 140,06"
+C11127,Raúl Castro Pérez,raul.castro2@hotmail.com,+591 77525762,Sucre,20/05/2024,2164.19
+C11128,LUCIA  MARTINEZ ROJAS,lucia.martinez87@yahoo.com,6203-1678,TJA,2023-04-30,"398,20"
+C11129,José Pérez Gómez,JOSE.PEREZ73@HOTMAIL.COM,(591) 7381 8044,LPZ,15/08/2022,"Bs 622,82"
+C11130,Óscar Gómez Martínez,oscar.gomez71@empresa.com.bo,+59163354524,LA PAZ,12/09/2022,1364.21
+C11131,CARLA PÉREZ ORTIZ,carla.perez56@outlook.com,+591 75808816,SCZ,08/07/2022,385.54
+C11132,Daniela Gómez Fernández,daniela.gomez44@yahoo.com,591-753-17964,Cochabamba,2024-10-17,"213,13"
+C11133, IVÁN MOLINA CASTRO ,IVAN.MOLINA81@GMAIL.COM,+591 75290912,Santa Cruz,15.10.2024,"Bs 1.744,85"
+C11134,Claudia Castro Mamani,CLAUDIA.CASTRO28@YAHOO.COM,+59161738985,la paz ,2022-05-18,596.56
+C11135,miguel martínez molina,miguel.martinez56@hotmail.com,591-682-87953,TJA,2024-02-28,"Bs 1.025,93"
+C11136,natalia martínez flores,natalia.martinez76@yahoo.com,591-756-54860,LA PAZ,13/05/2025,569.70
+C11137,Fernando Nunez Rodriguez,fernando.nunez96@outlook.com,69143630,la paz ,2025-03-12,"1.099,87"
+C11138,Juan Mamani Sánchez,juan.mamani97@gmail.com,76087400,cbba,04.04.2024,484.55
+C11139,Daniela Rojas Ramírez,daniela.rojas44@outlook.com,6613-5139,EL ALTO,2022-08-22,1234.24
+C11140, NATALIA LÓPEZ NÚÑEZ ,natalia.lopez41@empresa.com.bo,7871-9010,el alto,10/02/2024,"537,04"
+C11141,Luis Fernández Flores,luis.fernandez49@yahoo.com,+591 67526160,Sta. Cruz,2024-04-08,161.84
+C11142,ANA CHOQUE GÓMEZ,ana.choque15@hotmail.com,65325987,la paz ,pendiente,1084.12
+C11143,RICARDO FLORES CHOQUE,RICARDO.FLORES15@YAHOO.COM,(591) 6419 6700,Santa Cruz,2022-03-13,377.80
+C11144,Luis  Ortiz Gutiérrez,LUIS.ORTIZ97@HOTMAIL.COM,591-618-38947,El Alto,2022-09-18,"Bs 3.117,29"
+C11145,VERÓNICA LÓPEZ MOLINA,,+591 71556508,SCZ,24.04.2024,2312.50
+C11146,HÉCTOR RODRÍGUEZ PÉREZ,hector.rodriguez73@outlook.com,+59163368383,santa cruz,2025-06-25,297.77
+C11147,Diego  Salazar Mendoza,diego.salazar50@outlook.com,591-756-84506,Sucre,13.09.2024,794.52
+C11148, Verónica  Suárez Sánchez ,veronica.suarez36@outlook.com,,Cbba.,30.10.2024,"2,284.74"
+C11149,Carla  Pérez Gómez,carla.perez82@gmail.com,68850760,SCZ,15/04/2022,"Bs 808,10"
+C11150,Natalia Mendoza Ortiz,NATALIA.MENDOZA42@EMPRESA.COM.BO,74700096,santa cruz,2025-06-10,880.71
+C11151, daniela choque arce , daniela.choque65@hotmail.com ,+591 69546502,COCHABAMBA,2025-04-09,"Bs 361,93"
+C11152, Elena Gutierrez Rodriguez ,ELENA.GUTIERREZ48@HOTMAIL.COM,(591) 6935 5839,LPZ,2023-08-15,"1.509,09"
+C11153,Paola Paredes Vargas,PAOLA.PAREDES63@GMAIL.COM,7048-2542,Santa Cruz de la Sierra,2022-05-10,413.16
+C11154,Jorge Rivera Ramírez,JORGE.RIVERA50@EMPRESA.COM.BO,+591 62341113,Cochabamba,25.09.2022,"Bs 517,20"
+C11155,Mónica Mamani Suárez,monica.mamani62@empresa.com.bo,,cbba,2023-11-29,541.84
+C11156, Diego Mendoza Pérez ,DIEGO.MENDOZA48@HOTMAIL.COM,+591 79357552,TJA,2024-02-13,"Bs 453,46"
+C11157,VALERIA MAMANI SALAZAR,valeria.mamani98@outlook.com,+591 77040961,Santa Cruz,2023-01-12,"Bs 291,96"
+C11158, Juan Paredes Ortiz ,,591-699-68884,COCHABAMBA,19/02/2025,"338,48"
+C11159,sebastián ramírez vargas,SEBASTIAN.RAMIREZ48@EMPRESA.COM.BO,+591 65390358,Santa Cruz de la Sierra,2023-07-04,438.91
+C11160,mónica sánchez flores,monica.sanchez57@yahoo.com,591-629-85026,La Paz,09.11.2023,"Bs 271,94"
+C11161,LUCÍA CHOQUE ORTIZ,lucia.choque5@yahoo.com,591-756-62633,Sucre,01/07/2025,"501,36"
+C11162,Raúl Rivera Rojas,raul.rivera12@hotmail.com,+591 68105451,La Paz,15/09/2022,"Bs 453,60"
+C11163,natalia quispe núñez,natalia.quispe45@yahoo.com,591-786-29954,el alto,30.08.2025,"Bs 1.824,95"
+C11164,Miguel Suárez Gutiérrez,miguel.suarez9@hotmail.com,+59160406299,Santa Cruz,2024-11-10,"1,004.06"
+C11165,Iván  Rodríguez Molina,ivan.rodriguez35@empresa.com.bo,+591 76357261,sucre,2023-03-17,"Bs 702,19"
+C11166,HECTOR FLORES SALAZAR,hector.flores11@hotmail.com,+591 73296794,Sucre,27/05/2025,"Bs 286,67"
+C11167,ANA MOLINA VARGAS, ana.molina79@empresa.com.bo ,+59160665807,COCHABAMBA,20/09/2023,"3,638.06"
+C11168, carla nunez martinez ,CARLA.NUNEZ32@OUTLOOK.COM,66044506,EL ALTO,2024-09-29,561.93
+C11169,Daniela Martínez Fernández,daniela.martinez21@hotmail.com,6821-9020,tarija,25/06/2025,"377,06"
+C11170,Óscar  Núñez Gómez,oscar.nunez88@outlook.com,591-688-06686,La Paz,14/05/2023,"549,76"
+C11171,Lucia Molina Flores,lucia.molina86@empresa.com.bo,(591) 6009 7413,Cochabamba,02.10.2023,"Bs 2.331,09"
+C11172,ANDRÉS FERNÁNDEZ CASTRO,,591-727-05282,el alto,2022-02-15,697.14
+C11173,hector molina arce,HECTOR.MOLINA75@YAHOO.COM,+59173653513,La Paz,2022-04-04,383.80
+C11174,LUIS  SALAZAR TORRES,LUIS.SALAZAR74@GMAIL.COM,68465010,El Alto,25/04/2022,"Bs 571,84"
+C11175, Óscar Torres Rojas ,oscar.torres83@hotmail.com,(591) 6420 9700,Cochabamba,2022-01-28,944.76
+C11176,ricardo suarez mamani,ricardo.suarez54@empresa.com.bo,79806891,tarija,2025-09-16,96.34
+C11177,juan  rojas pérez,juan.rojas56@gmail.com,7885-7012,la paz ,24.02.2025,"239,42"
+C11178,Camila Castro Rodriguez,CAMILA.CASTRO21@OUTLOOK.COM,61411340,Santa Cruz,19.03.2023,"923,87"
+C11179,Miguel Ortiz Fernández,,591-778-67480,Santa Cruz de la Sierra,12/12/2022,372.10
+C11180, Juan Ramírez Martínez ,juan.ramirez60@empresa.com.bo,(591) 6049 4098,sucre,22/07/2025,934.74
+C11181, diego gómez rivera ,diego.gomez56@empresa.com.bo,7352-5519,la paz ,21/07/2025,"3.258,30"
+C11182,elena gómez martínez,elena.gomez6@outlook.com,(591) 7425 0149,Cbba.,30/10/2024,"287,97"
+C11183,Raúl  Suárez Quispe,RAUL.SUAREZ20@YAHOO.COM,591-776-05585,SCZ,14.01.2024,"730,37"
+C11184,claudia  rojas vargas,claudia.rojas22@gmail.com,72772389,la paz ,01.09.2023,348.77
+C11185,Claudia Paredes Quispe,CLAUDIA.PAREDES76@EMPRESA.COM.BO,591-739-66294,tarija,2025-07-12,906.39
+C11186,CLAUDIA RIVERA PAREDES,claudia.rivera42@gmail.com,591-616-21414,la paz ,03/03/2023,"1,110.95"
+C11187,josé rodríguez sánchez,JOSE.RODRIGUEZ70@GMAIL.COM,,el alto,12.08.2024,825.89
+C11188,ana rojas torres,ANA.ROJAS98@OUTLOOK.COM,,LPZ,06.06.2024,1291.96
+C11189,Lucía Sánchez Quispe,lucia.sanchez49@outlook.com,+591 60225358,Tarija,pendiente,865.86
+C11190,ELENA  VARGAS VARGAS,elena.vargas53@outlook.com,,Cochabamba,2025-04-09,"Bs 419,44"
+C11191,José Suárez Torres,jose.suarez3@empresa.com.bo,+591 68051172,COCHABAMBA,28/10/2023,"Bs 812,07"
+C11192,RUBÉN  ROJAS FLORES,ruben.rojas39@outlook.com,7718-6517,El Alto,05/09/2023,1897.56
+C11193,Ana Choque Flores,ana.choque98@yahoo.com,+59177928267,Sucre,26/03/2025,"Bs 802,81"
+C11194,Sebastián Martínez Molina,sebastian.martinez35@gmail,6578-8801,la paz ,2022-10-17,"202,48"
+C11195,María Gutiérrez Flores, maria.gutierrez80@yahoo.com ,71073472,EL ALTO,2022-10-01,1057.47
+C11196,RUBÉN  GÓMEZ SUÁREZ,ruben.gomez51@yahoo.com,6689-6052,santa cruz,25/05/2025,"1,490.49"
+C11197, MÓNICA TORRES QUISPE ,monica.torres45@gmail.com,(591) 7070 3008,LA PAZ,10.10.2025,"425,51"
+C11198,óscar rodríguez gutiérrez, oscar.rodriguez61@outlook.com ,+59172224904,Santa Cruz de la Sierra,05/09/2024,"1.072,51"
+C11199, luis castro rodríguez ,luis.castro16@yahoo.com,+59163338392,COCHABAMBA,2023-09-03,"704,49"
+C11200,Iván Núñez Molina,ivan.nunez61yahoo.com,+59162584388,Sta. Cruz,13/10/2023,576.85
+C11201,Luis Rivera Torres,luis.rivera81@hotmail.com,591-682-93752,EL ALTO,10/02/2025,838.97
+C11202,Gabriela Sanchez Flores,GABRIELA.SANCHEZ13@OUTLOOK.COM,7358-9857,SUC,21/08/2022,"Bs 2.699,87"
+C11203,Sofía  Rojas Gutiérrez,sofia.rojas22@empresa.com,+591 74352086,Santa Cruz de la Sierra,2024-04-01,"648,11"
+C11204,ANA FLORES QUISPE,ana.flores40@hotmail.com,+59163957914,SCZ,15/01/2023,131.13
+C11205,raúl mendoza pérez,raul.mendoza29@hotmail.com,591-753-18989,cbba,29.10.2025,"1,824.33"
+C11206,Ivan Gutierrez Gutierrez, ivan.gutierrez94@hotmail.com ,+59175360541,cbba,08.12.2023,"379,77"
+C11207,Diego  Perez Ortiz,DIEGO.PEREZ2@EMPRESA.COM.BO,591-762-50131,LA PAZ,2023-02-16,"1.825,92"
+C11208,luis  nunez choque, luis.nunez8@empresa.com.bo ,+591 70214967,COCHABAMBA,2023-06-23,632.19
+C11209, Andrés Ramírez Molina ,,6343-6125,santa cruz,2022-03-28,828.28
+C11210,Daniela Castro Mamani,daniela.castro7@gmail.com,73411167,EL ALTO,2022-07-06,"478,14"
+C11211,Ana Torres Martínez,ana.torres50@gmail.com,6916-9740,el alto,24.04.2023,750.90
+C11212,rubén  gómez lópez,ruben.gomez64@gmail.com,591-640-74886,sucre,2025-06-04,"Bs 1.907,34"
+C11213,elena ramírez vargas,elena.ramirez92@outlook.com,7441-5777,Cochabamba,2022-09-02,566.76
+C11214,Andrés Salazar Mendoza,ANDRES.SALAZAR92@EMPRESA.COM.BO,591-727-66790,Cbba.,01.03.2024,"Bs 577,75"
+C11215,Carla Paredes Suárez, carla.paredes44@outlook.com ,+591 71652235,La Paz,03.02.2023,2471.94
+C11216,ELENA ARCE LOPEZ,elena.arce81@hotmail.com,67721875,la paz ,2024-10-27,"Bs 600,47"
+C11217,Ricardo Ramírez Flores,ricardo.ramirez26@yahoo.com,+591 66300407,sucre,2023-06-19,535.18
+C11218,gabriela  rodríguez ramírez,gabriela.rodriguez88@hotmail.com,+591 72017916,SCZ,18.01.2024,817.37
+C11219,María Gómez Rojas,maria.gomez63@empresa.com.bo,(591) 7181 6827,El Alto,03.03.2024,"415,38"
+C11220,veronica lopez rojas,,67352180,Cbba.,2022-01-20,"Bs 2.137,96"
+C11221, ELENA RAMÍREZ LÓPEZ ,elena.ramirez27gmail.com,72189833,TJA,2023-09-15,697.40
+C11222,Gabriela Vargas López,GABRIELA.VARGAS65@OUTLOOK.COM,+591 79754920,Santa Cruz de la Sierra,08.01.2022,"224,19"
+C11223,RAÚL ARCE SUÁREZ,raul.arce25@gmail.com,(591) 6871 2701,Santa Cruz de la Sierra,2023-11-07,"932,52"
+C11224,gabriela arce gómez,gabriela.arce45@yahoo.com,+59179220191,Cochabamba,2023-07-16,578.17
+C11225,rubén gutiérrez mamani, ruben.gutierrez52@gmail.com ,74940389,Santa Cruz,22/12/2022,160.10
+C11226,Jose  Paredes Quispe,JOSE.PAREDES89@EMPRESA.COM.BO,63917210,Santa Cruz,2023-07-16,"398,61"
+C11227, SEBASTIÁN CASTRO TORRES ,sebastian.castro82@yahoo.com,591-684-00310,La Paz,2022-07-02,446.06
+C11228,raúl  gómez choque,raul.gomez20@yahoo.com,591-781-29746,LPZ,2025-05-15,"2.544,95"
+C11229,Sofia  Quispe Perez,sofia.quispe19@empresa.com.bo,75909872,Cochabamba,26/11/2024,1146.59
+C11230, ana castro choque ,ana.castro34@hotmail.com,+59169544602,Sta. Cruz,2025-08-21,447.28
+C11231,Fernando Arce Paredes,FERNANDO.ARCE77@OUTLOOK.COM,(591) 6719 0291,LA PAZ,2024-03-22,"1,403.02"
+C11232, Diego Nunez Rojas ,diego.nunez26@empresa.com.bo,(591) 7431 9753,Santa Cruz,17/01/2024,"588,38"
+C11233,andres  gutierrez salazar,andres.gutierrez47yahoo.com,+59171243286,tarija,2022-03-27,1801.35
+C11234, miguel ortiz paredes ,miguel.ortiz10@gmail,+59171299509,LPZ,28/07/2024,"Bs 1.603,20"
+C11235, Valeria Arce Rojas ,valeria.arce15@gmail.com,591-790-31913,santa cruz,27/06/2022,515.07
+C11236,Ana  Rivera Vargas,,,cbba,2025-04-27,"2.621,33"
+C11237,HÉCTOR FLORES PAREDES,hector.flores83@outlook.com,7329-4341,EL ALTO,09/04/2024,"874,05"
+C11238,Paola Paredes Vargas,paola.paredes63@gmail.com,70482542,SCZ,10/05/2022,"413,16"
+C11239,José Rodríguez Quispe,jose.rodriguez98@gmail.com,6885-9670,sucre,15/01/2022,"2,213.52"
+C11240,SOFÍA PAREDES MENDOZA,sofia.paredes35@hotmail.com,+59179211744,LPZ,26/02/2024,266.95
+C11241,Raul Sanchez Molina,raul.sanchez85@yahoo.com,591-669-44896,Santa Cruz de la Sierra,2025-08-02,518.45
+C11242,RICARDO SANCHEZ CHOQUE,ricardo.sanchez20hotmail.com,,Sucre,2024-09-29,398.31
+C11243,Juan Pérez Torres,,+59166889394,LA PAZ,2023-01-14,841.32
+C11244, hector salazar castro ,hector.salazar78@hotmail.com,(591) 6650 0266,COCHABAMBA,2023-09-04,893.12
+C11245,Carla Gutiérrez Rivera,carla.gutierrez2@hotmail.com,6706-7187,santa cruz,2022-12-14,998.33
+C11246,Gabriela Mendoza Núñez, gabriela.mendoza89@hotmail.com ,+591 60364240,Cbba.,14.09.2023,379.43
+C11247,Iván Mamani Suárez,ivan.mamani95@gmail.com,+59178043054,sucre,21/12/2023,646.58
+C11248, ANA MARTÍNEZ QUISPE ,ANA.MARTINEZ48@GMAIL.COM,67305741,Cochabamba,2022-08-01,"1,163.22"
+C11249,Valeria Mamani Choque,valeria.mamani42@yahoo.com,591-681-37392,Santa Cruz,21.10.2022,118.66
+C11250,FERNANDO SÁNCHEZ VARGAS,fernando.sanchez71@gmail.com,591-786-21282,Santa Cruz,13/04/2024,"Bs 781,90"
+C11251,Lucía Arce Arce,lucia.arce10yahoo.com,591-782-89804,SUC,2025-03-12,"1,789.49"
+C11252,IVÁN FLORES MAMANI,ivan.flores94@yahoo.com,+59173927295,EL ALTO,27.01.2022,"1,617.31"
+C11253,jorge martínez mendoza,jorge.martinez95@outlook.com,+59177661900,SUC,2023-06-22,"3.215,92"
+C11254,Gabriela Martinez Molina,GABRIELA.MARTINEZ79@HOTMAIL.COM,+59168447291,sucre,2025-09-09,"Bs 173,28"
+C11255,rubén  vargas ortiz,ruben.vargas20@empresa.com.bo,(591) 6594 1488,el alto,2023-05-26,"Bs 978,23"
+C11256,sofía ramírez pérez,sofia.ramirez59@hotmail.com,+59173698021,Sta. Cruz,2022-07-29,"599,52"
+C11257,Jose Martinez Ramirez,jose.martinez10@outlook.com,+59163107251,la paz ,22/05/2024,"500,26"
+C11258, Claudia Suárez Flores ,,+591 70744686,COCHABAMBA,2022-08-22,"Bs 1.142,32"
+C11259,Natalia  Choque Mamani,natalia.choque96@yahoo.com,+59163016445,santa cruz,24/04/2022,"Bs 538,59"
+C11260,Paola  Suarez Rodriguez,paola.suarez46@empresa.com.bo,65706149,Santa Cruz,2023-04-25,1331.99
+C11261, josé  mamani paredes ,jose.mamani23@yahoo.com,+59177017010,EL ALTO,08.03.2023,"1.854,20"
+C11262,ÓSCAR LÓPEZ ARCE,OSCAR.LOPEZ83@OUTLOOK.COM,+591 64386081,tarija,2023-02-02,537.89
+C11263,Sebastián Rodríguez Suárez,sebastian.rodriguez29@empresa.com,+59162761233,la paz ,2023-06-05,2786.75
+C11264,Luis Mamani Molina, luis.mamani21@gmail.com ,(591) 6429 7123,La Paz,27/12/2024,446.21
+C11265,Juan Rodríguez Arce,juan.rodriguez49gmail.com,(591) 6638 8743,santa cruz,09.05.2023,"1.668,00"
+C11266,Andrés Choque Flores,andres.choque18@yahoo.com,+591 78452321,Cbba.,13.12.2022,1740.15
+C11267,ricardo  vargas mamani,ricardo.vargas45@empresa.com.bo,,Santa Cruz de la Sierra,2024-05-20,"Bs 394,57"
+C11268,Natalia  Choque Mamani,NATALIA.CHOQUE96@YAHOO.COM,+59163016445,SCZ,2022-04-24,"538,59"
+C11269,SEBASTIAN RAMIREZ FLORES, sebastian.ramirez15@empresa.com.bo ,+591 74798267,Cbba.,01/08/2022,"1.230,31"
+C11270,Raúl Quispe Rojas, raul.quispe70@empresa.com.bo ,+591 65849559,EL ALTO,2024-02-13,"Bs 1.373,90"
+C11271,Iván  Gutiérrez Martínez,IVAN.GUTIERREZ30@HOTMAIL.COM,591-713-31891,COCHABAMBA,18/07/2025,"355,78"
+C11272,HECTOR FERNANDEZ MAMANI,hector.fernandez41@gmail.com,7699-7954,Cochabamba,15/02/2025,"2,139.71"
+C11273,Veronica Perez Martinez, veronica.perez97@empresa.com.bo ,+59173644823,Sta. Cruz,2022-11-30,"412,09"
+C11274, Mónica Ramírez Sánchez ,monica.ramirez45@gmail,591-762-24082,EL ALTO,28/04/2022,"2,848.87"
+C11275,sebastian torres perez,sebastian.torres32@hotmail.com,72562413,LPZ,30/11/2022,285.63
+C11276,Elena Rivera Rodríguez,ELENA.RIVERA73@GMAIL.COM,+59160315486,Santa Cruz de la Sierra,08.08.2025,321.24
+C11277,Lucía Mendoza Gómez,lucia.mendoza87@outlook.com,65771681,LPZ,22/01/2023,736.38
+C11278, Juan  Molina Arce ,,(591) 7448 8756,COCHABAMBA,2024-07-01,830.99
+C11279, Andrés Martínez Fernández ,andres.martinez53@empresa.com.bo,(591) 6300 1489,la paz ,06/07/2024,"Bs 881,73"
+C11280,luis gómez ramírez,luis.gomez86@gmail.com,7188-9598,Cbba.,2025-03-31,271.12
+C11281,CLAUDIA FERNANDEZ SANCHEZ,claudia.fernandez34@yahoo.com,6497-8083,LPZ,04/09/2023,"834,61"
+C11282, Elena  Mendoza Ramírez ,elena.mendoza42@gmail.com,+59173342798,LPZ,pendiente,887.00
+C11283, Diego  Vargas Martinez ,diego.vargas44@outlook.com,63600829,Santa Cruz,2023-03-06,824.12
+C11284,andres salazar rivera, andres.salazar76@empresa.com.bo ,+591 62447334,LA PAZ,17.05.2023,686.65
+C11285,Rubén Castro Mendoza,ruben.castro3@empresa.com.bo,6413-9769,SUC,pendiente,"2,402.97"
+C11286, óscar flores mamani , oscar.flores80@gmail.com ,7717-1502,SCZ,2024-10-07,469.69
+C11287,Héctor Arce Sánchez,hector.arce88@empresa.com.bo,591-655-10619,Sta. Cruz,2025-04-09,1585.72
+C11288,RAÚL  CHOQUE NÚÑEZ,raul.choque35@outlook.com,65928531,Cochabamba,pendiente,"1.000,79"
+C11289, Juan Rojas Mamani ,juan.rojas12@outlook.com,(591) 7617 9128,Sta. Cruz,11.10.2025,"Bs 1.062,27"
+C11290,Verónica Ramírez Rodríguez,veronica.ramirez26@gmail.com,(591) 6850 7457,COCHABAMBA,23.01.2022,1126.09
+C11291,Paola  Martínez Mendoza,paola.martinez2@hotmail.com,7889-8803,cbba,2022-11-05,"Bs 2.423,15"
+C11292, Raúl Gómez Ramírez ,raul.gomez2@yahoo.com,+59170838803,COCHABAMBA,2025-01-22,2473.57
+C11293,GABRIELA MENDOZA RIVERA,gabriela.mendoza57@hotmail.com,6505-7308,santa cruz,2023-08-29,"561,43"
+C11294, GABRIELA QUISPE TORRES ,gabriela.quispe53@empresa.com.bo,(591) 6154 1466,La Paz,19.08.2022,"Bs 424,76"
+C11295,Daniela  Rojas Mamani,DANIELA.ROJAS54@GMAIL.COM,+59167356149,LA PAZ,05.02.2025,346.23
+C11296,Daniela Gómez Fernández,DANIELA.GOMEZ44@YAHOO.COM,75317964,cbba,17/10/2024,"Bs 213,13"
+C11297,iván castro fernández,ivan.castro19@outlook.com,+591 63846120,Cochabamba,pendiente,393.35
+C11298, CAMILA CASTRO VARGAS , camila.castro52@outlook.com ,7475-2302,La Paz,27/05/2024,"279,13"
+C11299,MÓNICA SALAZAR FERNÁNDEZ,monica.salazar80@gmail.com,6695-5077,COCHABAMBA,2025-10-29,436.97
+C11300,Paola Arce Arce,paola.arce56empresa.com.bo,+59163855424,Sucre,27.06.2024,"Bs 82,80"
+C11301,Miguel Ortiz López,miguel.ortiz53@outlook.com,6608-7560,SUC,17/02/2024,"2.815,00"
+C11302,maria mendoza rivera,maria.mendoza10@empresa.com.bo,(591) 6921 1872,Cochabamba,2022-08-27,"510,94"
+C11303,Claudia  Mendoza Quispe, claudia.mendoza79@yahoo.com ,6750-2582,la paz ,01/11/2022,"Bs 251,06"
+C11304,Héctor Fernández Sánchez,hector.fernandez41@yahoo.com,591-729-39334,EL ALTO,2024-10-17,"971,53"
+C11305,Andrés Suárez López,ANDRES.SUAREZ29@EMPRESA.COM.BO,(591) 6505 6553,COCHABAMBA,2025-07-01,"291,60"
+C11306,Rubén Ramírez Paredes,ruben.ramirez96gmail.com,591-732-92410,Sta. Cruz,2024-01-08,"347,58"
+C11307,ANA ARCE CHOQUE,ana.arce75@yahoo.com,591-785-09291,Sta. Cruz,2022-08-14,739.46
+C11308,Valeria Torres Gomez,VALERIA.TORRES75@YAHOO.COM,+591 72833060,la paz ,03/10/2023,"3.218,79"
+C11309,Daniela  Gómez Arce,daniela.gomez59@outlook.com,(591) 7485 6006,Santa Cruz,15/08/2024,"608,10"
+C11310,Daniela Paredes Sánchez,DANIELA.PAREDES66@GMAIL.COM,(591) 7318 5332,SCZ,2022-03-25,352.74
+C11311,sofia paredes martinez, sofia.paredes13@yahoo.com ,+59169887760,LA PAZ,05/12/2024,"3,652.50"
+C11312, carla lópez suárez ,carla.lopez5empresa.com.bo,(591) 6633 6731,LPZ,11.05.2025,"195,97"
+C11313,DIEGO FLORES MENDOZA, diego.flores62@yahoo.com ,,Sta. Cruz,2025-01-04,"377,71"
+C11314,andrés gómez suárez, andres.gomez33@outlook.com ,60305657,SUC,01.07.2025,1449.84
+C11315,Miguel Torres Paredes,miguel.torres68@gmail.com,+591 75600249,Sta. Cruz,2024-05-15,"Bs 307,79"
+C11316,FERNANDO ROJAS VARGAS,fernando.rojas23@hotmail.com,+591 77650121,SCZ,04.11.2022,1850.49
+C11317,oscar  gutierrez perez,oscar.gutierrez25@hotmail.com,+591 74721179,tarija,09/04/2023,1607.97
+C11318, MIGUEL SUÁREZ TORRES ,miguel.suarez69@outlook.com,(591) 6686 6603,Cbba.,2022-07-25,"Bs 2.886,13"
+C11319, Claudia  Gutiérrez Salazar ,claudia.gutierrez50@hotmail.com,73969282,EL ALTO,2023-04-25,648.80
+C11320,Sofía Choque Mamani,sofia.choque54@gmail.com,(591) 7916 1834,Santa Cruz,2023-08-18,897.86
+C11321, FERNANDO FLORES SUÁREZ , fernando.flores80@yahoo.com ,+59165235610,COCHABAMBA,26/06/2024,658.06
+C11322,rubén quispe lópez,ruben.quispe7@yahoo.com,591-614-31340,Santa Cruz de la Sierra,2024-04-27,887.82
+C11323,Raúl Rodríguez Castro,raul.rodriguez83@outlook.com,,sucre,20/02/2022,457.58
+C11324, Ricardo Martínez Ortiz ,,+591 64666211,Sucre,pendiente,1582.51
+C11325,MARÍA ARCE MAMANI, maria.arce47@outlook.com ,6850-4756,cbba,02.07.2025,"201,06"
+C11326,Ricardo Sánchez Flores,ricardo.sanchez72@yahoo.com,7864-4867,el alto,18/12/2022,1654.25
+C11327,Sofía Gutiérrez Ortiz,sofia.gutierrez72@hotmail.com,7117-1407,Cochabamba,2023-07-21,"1,479.80"
+C11328,MÓNICA SÁNCHEZ FLORES,monica.sanchez57@yahoo.com,,La Paz,2023-11-09,"271,94"
+C11329, GABRIELA TORRES SUÁREZ ,gabriela.torres46@outlook.com,(591) 6065 9240,LPZ,09.01.2025,"4.222,53"
+C11330,LUCÍA RIVERA MARTÍNEZ, lucia.rivera58@yahoo.com ,+59160256763,Sta. Cruz,29/04/2024,2796.59
+C11331,camila martinez suarez,camila.martinez34empresa.com.bo,7500-7181,EL ALTO,01.07.2024,302.53
+C11332, MÓNICA RIVERA ROJAS ,monica.rivera92@outlook.com,+591 71067551,LPZ,14.03.2025,448.21
+C11333,Claudia  Ortiz Suárez,claudia.ortiz29@hotmail.com,69180737,el alto,pendiente,"3,066.70"
+C11334,MARÍA ROJAS PAREDES,maria.rojas89@outlook.com,(591) 6436 5944,LA PAZ,2025-10-19,"652,85"
+C11335,fernando perez nunez,fernando.perez12@outlook.com,+59167551780,SUC,2022-02-03,1708.41
+C11336,MIGUEL  RODRIGUEZ PEREZ,MIGUEL.RODRIGUEZ85@HOTMAIL.COM,+591 76213406,El Alto,pendiente,"479,09"
+C11337,Rubén Núñez Choque,ruben.nunez91@yahoo.com,7844-3875,santa cruz,22/05/2025,574.65
+C11338,sofía castro flores,,(591) 7524 9753,Cochabamba,30/08/2023,"548,24"
+C11339,MARÍA  MENDOZA MAMANI,maria.mendoza78@yahoo.com,591-624-37593,la paz ,28.10.2024,"Bs 831,88"
+C11340,CARLA SÁNCHEZ ORTIZ,carla.sanchez67@empresa.com.bo,(591) 7942 1778,SCZ,2022-06-30,393.30
+C11341, RUBÉN  SALAZAR GUTIÉRREZ ,RUBEN.SALAZAR20@OUTLOOK.COM,(591) 7489 6349,Cochabamba,2023-03-06,"1.506,70"
+C11342, Ricardo  Paredes López ,ricardo.paredes9@yahoo.com,+59173763614,la paz ,2023-05-04,"Bs 79,63"
+C11343,andrés gómez molina,andres.gomez21@gmail.com,+591 60802970,Santa Cruz de la Sierra,23/11/2022,1358.30
+C11344,Carla  Martínez Choque,carla.martinez29@yahoo.com,63585895,Santa Cruz de la Sierra,2025-09-12,442.58
+C11345,RAÚL TORRES VARGAS,raul.torres68@yahoo.com,+591 60374507,la paz ,29/01/2023,1058.60
+C11346, Camila Mendoza Gómez ,camila.mendoza28@outlook.com,,La Paz,22/03/2024,1585.30
+C11347,Paola Martínez Vargas,PAOLA.MARTINEZ13@YAHOO.COM,(591) 7023 3682,SCZ,06/06/2025,356.77
+C11348,Jose Rodriguez Rivera, jose.rodriguez92@empresa.com.bo ,(591) 6565 2369,Cochabamba,30.06.2023,"541,36"
+C11349,andrés molina martínez,ANDRES.MOLINA39@OUTLOOK.COM,+591 73687174,La Paz,2023-10-10,354.50
+C11350,Natalia Pérez Vargas, natalia.perez4@yahoo.com ,67099925,Sucre,30/06/2023,1242.95
+C11351,JUAN SALAZAR PEREZ,juan.salazar81@hotmail.com,7808-7508,sucre,pendiente,775.21
+C11352,Iván  Flores Arce,IVAN.FLORES67@EMPRESA.COM.BO,78201513,Cbba.,13/04/2024,"466,40"
+C11353,CARLA PEREZ ORTIZ,carla.perez56outlook.com,,Sta. Cruz,08/07/2022,"Bs 385,54"
+C11354,RICARDO CASTRO RODRÍGUEZ,RICARDO.CASTRO22@OUTLOOK.COM,71052162,Cbba.,06/04/2025,"Bs 242,98"
+C11355, Sofía Vargas Fernández ,sofia.vargas48@yahoo.com,+59170607290,SUC,01.05.2023,428.57
+C11356,ricardo nunez salazar,ricardo.nunez2@outlook,70256200,La Paz,2024-12-10,"1,223.07"
+C11357,Óscar Suárez Fernández, oscar.suarez71@empresa.com.bo ,+591 75435498,LPZ,05/06/2023,"Bs 1.368,87"
+C11358,Valeria Perez Sanchez, valeria.perez63@outlook.com ,+59169127419,Santa Cruz,14/07/2023,"1.149,74"
+C11359, ANA RODRIGUEZ SALAZAR ,ANA.RODRIGUEZ74@OUTLOOK.COM,67563147,El Alto,23.07.2025,"2,018.40"
+C11360,FERNANDO ROJAS GÓMEZ,fernando.rojas66@gmail.com,,La Paz,2022-10-19,781.94
+C11361,Fernando  Molina Molina,FERNANDO.MOLINA73@GMAIL.COM,,El Alto,24/07/2025,"Bs 430,97"
+C11362, ANA MARTINEZ LOPEZ ,ana.martinez1@gmail.com,+591 71953607,Tarija,31.05.2023,895.36
+C11363,Monica Salazar Rojas,monica.salazar91@empresa.com.bo,7439-8853,la paz ,2024-01-15,"Bs 843,38"
+C11364, JOSÉ MARTÍNEZ QUISPE ,jose.martinez8@empresa.com.bo,67222369,La Paz,12/08/2024,103.47
+C11365,CLAUDIA  SALAZAR RIVERA,CLAUDIA.SALAZAR88@OUTLOOK.COM,6516-3803,La Paz,10/01/2023,"756,45"
+C11366,Ricardo  Ramírez Molina,RICARDO.RAMIREZ78@EMPRESA.COM.BO,73282907,SUC,2023-05-04,1290.59
+C11367,DIEGO ORTIZ PÉREZ,diego.ortiz33@gmail.com,60021677,Cochabamba,20/10/2023,"1,704.96"
+C11368, Ana Pérez Rivera ,ana.perez97@hotmail.com,(591) 7340 0642,Sta. Cruz,2023-10-19,2068.79
+C11369,Héctor Mendoza Molina,HECTOR.MENDOZA51@HOTMAIL.COM,7672-4506,LPZ,2024-07-20,1213.48
+C11370,Ana Castro Fernández,ana.castro52@gmail.com,6735-6634,EL ALTO,2025-05-22,730.09
+C11371,DANIELA RIVERA CHOQUE,daniela.rivera50gmail.com,7439-1799,Cbba.,17/03/2025,1715.31
+C11372,Ricardo Lopez Suarez,ricardo.lopez56@gmail.com,69329380,el alto,2022-02-19,1018.92
+C11373,Sofia  Suarez Torres,SOFIA.SUAREZ36@EMPRESA.COM.BO,591-632-84000,LPZ,2022-10-23,181.67
+C11374, CAMILA  GÓMEZ LÓPEZ ,camila.gomez14@gmail.com,+59163982199,TJA,2022-08-17,430.25
+C11375,Lucia Rojas Rodriguez,,(591) 6534 7353,Sta. Cruz,2023-05-23,"542,47"
+C11376,Juan Rivera Fernandez,juan.rivera87@hotmail.com,(591) 6383 3633,SCZ,07/02/2024,715.43
+C11377, ana  mamani salazar ,ana.mamani60@gmail.com,(591) 6249 5194,Santa Cruz de la Sierra,25.04.2024,"629,37"
+C11378,Ana Castro Fernández,ana.castro52@gmail.com,+59167356634,el alto,22/05/2025,730.09
+C11379,Carla Molina Mamani,CARLA.MOLINA56@GMAIL.COM,6956-7436,Cbba.,2022-10-17,169.80
+C11380,Paola Quispe Castro,paola.quispe66@outlook.com,+59179456781,el alto,30/06/2023,"Bs 492,14"
+C11381, Carla Mamani Martínez ,carla.mamani20@gmail.com,+59172843555,Tarija,2025-03-28,"Bs 832,39"
+C11382,daniela  quispe sánchez,daniela.quispe53@gmail,7991-3847,LA PAZ,20/08/2022,1829.28
+C11383,iván  lópez mamani,ivan.lopez30@yahoo.com,7434-0042,cbba,2025-04-21,403.98
+C11384,valeria ramirez ramirez,valeria.ramirez61@yahoo.com,64595329,Cochabamba,28/05/2024,"Bs 92,90"
+C11385,juan torres ortiz,juan.torres2@yahoo.com,65408605,Sta. Cruz,26/01/2022,"Bs 521,61"
+C11386,luis molina gómez,luis.molina51@gmail.com,+59177154794,Santa Cruz,02.06.2022,1811.21
+C11387,Ruben Rivera Quispe,ruben.rivera40@empresa.com.bo,591-729-27615,tarija,31.08.2022,"1,318.86"
+C11388,Gabriela Quispe Castro,gabriela.quispe90@hotmail.com,(591) 6515 1874,la paz ,2024-08-14,"Bs 327,04"
+C11389,Elena Castro Gutiérrez,elena.castro71yahoo.com,60319218,EL ALTO,2025-03-08,"612,90"
+C11390,sebastian sanchez nunez,SEBASTIAN.SANCHEZ42@OUTLOOK.COM,+59164528562,El Alto,21/03/2024,2334.64
+C11391,Claudia Mamani Ramirez,claudia.mamani58@gmail.com,591-720-99215,LA PAZ,21.04.2024,"160,98"
+C11392, Claudia Choque Ramírez ,CLAUDIA.CHOQUE10@EMPRESA.COM.BO,+591 78761301,SCZ,08/11/2022,"Bs 3.320,70"
+C11393,maría salazar ramírez,maria.salazar75@outlook.com,60901606,El Alto,11.08.2022,"Bs 550,09"
+C11394, sofía  arce salazar , sofia.arce44@outlook.com ,(591) 6096 5155,santa cruz,14/07/2023,"Bs 1.510,23"
+C11395,DANIELA GUTIERREZ ROJAS, daniela.gutierrez95@outlook.com ,591-791-00171,El Alto,2023-11-29,765.12
+C11396,RICARDO ARCE RIVERA,ricardo.arce56@empresa.com.bo,(591) 6504 2514,TJA,12.07.2024,422.78
+C11397,Juan Molina Sanchez,juan.molina34yahoo.com,(591) 7620 4160,LPZ,2025-08-15,378.91
+C11398, Verónica Gómez Ramírez ,,+591 74406814,SCZ,31/07/2022,"878,45"
+C11399,óscar  rodríguez arce,oscar.rodriguez60@hotmail.com,+591 64818042,la paz ,20.09.2023,"1.403,70"
+C11400, Daniela Choque Suárez ,daniela.choque11empresa.com.bo,(591) 7546 0356,Sta. Cruz,27/02/2023,585.04
+C11401,SOFIA  ORTIZ RAMIREZ,SOFIA.ORTIZ77@GMAIL.COM,+591 77762373,Sta. Cruz,09.04.2024,205.44
+C11402,JOSÉ VARGAS SUÁREZ,jose.vargas80@outlook.com,,el alto,10.10.2022,"1,079.21"
+C11403,María Ramírez Rivera,maria.ramirez75@gmail.com,7182-6592,LPZ,2022-11-07,"Bs 556,80"
+C11404,Luis  Choque Pérez,luis.choque25@outlook.com,(591) 6300 7831,Santa Cruz,2022-01-25,"Bs 487,31"
+C11405,CAMILA MOLINA SÁNCHEZ,camila.molina95@outlook.com,+59172071768,La Paz,10.02.2025,"Bs 1.697,82"
+C11406,andrés  castro mendoza,andres.castro42@empresa.com.bo,591-617-77959,Cbba.,10.10.2022,942.67
+C11407,Lucía Ortiz Salazar,lucia.ortiz73@empresa.com.bo,(591) 7640 7263,LA PAZ,pendiente,661.38
+C11408,Mónica Sánchez Salazar,monica.sanchez77@empresa.com.bo,+591 67307645,Cochabamba,2025-10-12,"Bs 1.551,44"
+C11409,SEBASTIÁN PAREDES ROJAS,sebastian.paredes93@gmail,(591) 7873 2401,Santa Cruz de la Sierra,04/03/2025,1236.08
+C11410,Luis Arce Rivera,LUIS.ARCE38@EMPRESA.COM.BO,+59170969747,Tarija,20/02/2023,"316,98"
+C11411, DIEGO  GOMEZ CHOQUE ,DIEGO.GOMEZ12@YAHOO.COM,591-727-72147,COCHABAMBA,23/08/2024,"803,98"
+C11412, camila sánchez sánchez ,CAMILA.SANCHEZ47@OUTLOOK.COM,61303702,Tarija,2024-09-08,"685,53"
+C11413,camila suárez castro,camila.suarez48@outlook.com,74905530,santa cruz,12.07.2025,"652,84"
+C11414, Rubén Molina Rodríguez ,ruben.molina54@gmail.com,70878684,La Paz,11.07.2022,622.38
+C11415,sofía lópez salazar,sofia.lopez69@empresa.com.bo,591-690-49380,Santa Cruz,17/04/2024,"323,53"
+C11416,LUIS RODRÍGUEZ GUTIÉRREZ,luis.rodriguez96@gmail.com,591-788-33913,Santa Cruz,23/09/2025,"300,99"
+C11417,Valeria Rojas Arce,valeria.rojas36@empresa.com.bo,70956465,Cbba.,13.07.2025,579.97
+C11418,Claudia Sánchez Torres,claudia.sanchez69@empresa.com.bo,7519-3633,EL ALTO,01/05/2022,"Bs 418,30"
+C11419,JUAN RIVERA QUISPE,juan.rivera86@gmail.com,75898200,Santa Cruz de la Sierra,2023-12-18,501.12
+C11420,raúl ramírez lópez,raul.ramirez94@gmail.com,591-661-43746,SCZ,05/01/2024,"Bs 1.498,14"
+C11421, ANA  TORRES SUÁREZ ,ANA.TORRES17@YAHOO.COM,+591 75718443,la paz ,2023-05-18,802.24
+C11422,Ana  Castro Paredes,ana.castro73@yahoo.com,+591 78523845,Sta. Cruz,18/04/2025,"1,142.07"
+C11423,Natalia Sánchez Paredes,natalia.sanchez82@yahoo.com,68962828,Santa Cruz de la Sierra,06/04/2023,"1,241.13"
+C11424,Ana Fernandez Paredes,ana.fernandez44@yahoo,+591 60322561,santa cruz,pendiente,"1,108.30"
+C11425,camila pérez choque, camila.perez69@outlook.com ,+591 78688526,EL ALTO,21/10/2025,917.55
+C11426,Ruben Lopez Gomez,RUBEN.LOPEZ4@YAHOO.COM,591-735-05701,SUC,11.03.2022,100.55
+C11427,rubén castro mendoza,ruben.castro3@empresa.com.bo,+591 64139769,Sucre,2023-04-30,2402.97
+C11428, Camila Suárez Castro ,camila.suarez48@outlook.com,74905530,Sta. Cruz,12/07/2025,652.84
+C11429,Juan Rodríguez Salazar,juan.rodriguez75@yahoo.com,(591) 7172 8125,LPZ,2023-05-05,"330,22"
+C11430,sofía  ortiz mamani,sofia.ortiz63@outlook.com,+59165589373,EL ALTO,22.12.2024,"Bs 359,28"
+C11431,Lucía Vargas Mamani,LUCIA.VARGAS82@YAHOO.COM,+59171254337,tarija,2023-08-07,"405,76"
+C11432, josé  fernández rodríguez ,,591-659-66001,Cochabamba,19/09/2025,"299,16"
+C11433,ivan salazar mamani,ivan.salazar13@gmail.com,(591) 6866 5576,La Paz,27/01/2024,"252,71"
+C11434,Elena Ramírez Choque, elena.ramirez8@hotmail.com ,+591 77572187,sucre,23/04/2023,"3.175,07"
+C11435, IVÁN GÓMEZ FERNÁNDEZ ,IVAN.GOMEZ36@EMPRESA.COM.BO,7504-8599,Cbba.,06/02/2023,"949,94"
+C11436,fernando  rodriguez mamani,fernando.rodriguez53@yahoo.com,,Santa Cruz de la Sierra,2023-02-08,2262.58
+C11437, valeria  pérez castro , valeria.perez22@hotmail.com ,591-600-87446,Cbba.,2022-08-21,1131.84
+C11438,Ruben Gomez Choque, ruben.gomez69@outlook.com ,+591 75861099,El Alto,06.02.2022,179.50
+C11439,HÉCTOR FERNÁNDEZ QUISPE,hector.fernandez94@outlook.com,+591 68794080,COCHABAMBA,06/10/2025,558.17
+C11440,camila mendoza rivera,camila.mendoza63@outlook.com,79567648,LPZ,2022-07-31,"462,46"
+C11441,Rubén Paredes Paredes,ruben.paredes86@hotmail.com,7961-0521,sucre,2025-06-14,"Bs 1.041,30"
+C11442,lucía fernández sánchez,lucia.fernandez58@gmail.com,+591 61148292,Santa Cruz,2024-08-07,1134.00
+C11443,Carla Mamani Lopez,carla.mamani50@gmail.com,+59176367157,SUC,30/06/2022,210.35
+C11444,Veronica Flores Suarez,veronica.flores35@hotmail.com,+59166831937,LA PAZ,2022-11-08,668.95
+C11445,ELENA CHOQUE FLORES,elena.choque3@yahoo.com,+59168484396,Sta. Cruz,2024-06-04,"2,487.40"
+C11446,Hector Arce Paredes,HECTOR.ARCE87@EMPRESA.COM.BO,(591) 6174 3854,el alto,02/08/2022,"967,62"
+C11447, RUBÉN  NÚÑEZ PÉREZ ,ruben.nunez38@outlook.com,591-711-33930,santa cruz,20.05.2022,724.53
+C11448, VALERIA MOLINA PAREDES ,valeria.molina93@empresa.com.bo,+591 71932173,TJA,2022-11-08,1023.02
+C11449,RUBÉN GUTIÉRREZ MAMANI,ruben.gutierrez52@gmail.com,7494-0389,SCZ,22.12.2022,"160,10"
+C11450, sebastián torres mamani ,sebastian.torres93@outlook.com,+59161534487,Cbba.,14.06.2024,"960,09"
+C11451, Daniela  Flores Paredes ,DANIELA.FLORES51@GMAIL.COM,+59172545360,el alto,2022-07-10,"Bs 365,56"
+C11452,Daniela  Suárez Castro,DANIELA.SUAREZ91@OUTLOOK.COM,6565-1135,el alto,31/08/2025,992.15
+C11453,Camila  Paredes Rivera,camila.paredes87@empresa.com.bo,+59176389556,Sta. Cruz,09.05.2024,"1.808,85"
+C11454,Natalia  Martínez López,NATALIA.MARTINEZ5@HOTMAIL.COM,+591 77682551,LPZ,10/12/2024,"608,00"
+C11455,Sofia Rivera Ramirez,sofia.rivera67yahoo.com,+591 62253596,Cbba.,22/11/2022,1046.79
+C11456,Ricardo Suárez Ortiz,ricardo.suarez87@empresa.com.bo,(591) 7158 6781,Santa Cruz,13/11/2023,838.02
+C11457, Sofia Choque Quispe ,sofia.choque32@empresa.com.bo,591-792-67588,Sta. Cruz,2022-03-06,"2.884,70"
+C11458,Raúl Ramírez López,RAUL.RAMIREZ94@GMAIL.COM,591-661-43746,Santa Cruz de la Sierra,05/01/2024,"1,498.14"
+C11459,HÉCTOR QUISPE NÚÑEZ,hector.quispe60@gmail.com,(591) 7812 8554,la paz ,20/07/2024,943.50
+C11460,CARLA NÚÑEZ PÉREZ,carla.nunez86@outlook.com,(591) 6806 5095,COCHABAMBA,2023-07-01,"1.038,67"
+C11461,Daniela Mamani Salazar,daniela.mamani24@gmail.com,591-757-49106,SCZ,2022-05-14,323.81
+C11462,jorge torres castro,jorge.torres35@outlook.com,+591 70381564,Cochabamba,16.10.2022,391.37
+C11463,ANDRÉS SALAZAR FLORES, andres.salazar19@gmail.com ,6025-6145,El Alto,2024-10-18,"569,41"
+C11464, Paola Sanchez Gomez ,paola.sanchez48@empresa.com.bo,+59177302730,sucre,14.01.2023,"Bs 2.271,64"
+C11465,CLAUDIA  NÚÑEZ VARGAS,claudia.nunez40@yahoo.com,+59164995998,el alto,17/08/2025,986.82
+C11466,Hector  Lopez Rivera,hector.lopez64@empresa.com.bo,+591 76904709,LA PAZ,06/07/2023,446.35
+C11467,carla rodriguez suarez,carla.rodriguez86@gmail.com,7603-9026,COCHABAMBA,2023-12-25,"Bs 281,14"
+C11468,Andrés Ramírez Gómez, andres.ramirez81@outlook.com ,591-675-15543,LPZ,2022-11-05,1152.76
+C11469,mónica  vargas ortiz, monica.vargas28@empresa.com.bo ,65670526,cbba,2022-09-19,1991.99
+C11470,ANDRES RAMIREZ SUAREZ,andres.ramirez96@hotmail.com,+591 65006585,La Paz,17/01/2023,635.31
+C11471,paola  quispe ramírez,paola.quispe18@gmail.com,(591) 7409 6465,Santa Cruz,15.07.2022,"Bs 290,72"
+C11472,Daniela Mendoza Núñez,DANIELA.MENDOZA46@HOTMAIL.COM,591-690-34681,Tarija,08.02.2025,"Bs 730,42"
+C11473,paola castro salazar,,+59176765808,el alto,01.10.2022,288.60
+C11474, Juan  Torres Suárez ,juan.torres90@empresa.com.bo,+591 61160674,la paz ,03.12.2024,265.88
+C11475,daniela sánchez gutiérrez,DANIELA.SANCHEZ2@YAHOO.COM,+591 63843392,La Paz,06/04/2024,"2,462.78"
+C11476,Carla  Choque Arce,carla.choque13@hotmail.com,6509-0289,Santa Cruz,2023-03-01,"Bs 384,51"
+C11477,Daniela Castro Rodríguez,daniela.castro80@empresa.com.bo,+59178044713,Cbba.,15/10/2023,"569,19"
+C11478,MARIA SUAREZ GOMEZ, maria.suarez97@yahoo.com ,+591 74420901,Sucre,2024-01-19,1548.04
+C11479,Maria Mamani Gomez, maria.mamani44@yahoo.com ,7488-6057,La Paz,08/01/2022,1335.68
+C11480,luis  gutierrez castro,luis.gutierrez96@empresa.com.bo,(591) 7434 0193,El Alto,2023-12-05,497.32
+C11481,ricardo molina fernández,ricardo.molina89@empresa.com.bo,591-663-33413,LPZ,26/10/2024,1974.92
+C11482,Sofía Rojas Gutiérrez,sofia.rojas22@empresa.com.bo,(591) 7435 2086,santa cruz,2024-04-01,"648,11"
+C11483,Claudia Mendoza Quispe,claudia.mendoza79@yahoo.com,+59167502582,la paz ,01.11.2022,"Bs 251,06"
+C11484, Rubén  López Vargas ,ruben.lopez56@empresa.com.bo,591-678-05762,TJA,15/12/2022,399.94
+C11485,LUIS SÁNCHEZ GÓMEZ,luis.sanchez94@yahoo,64614392,la paz ,09.01.2024,737.60
+C11486,Ricardo Choque Gutiérrez,RICARDO.CHOQUE82@OUTLOOK.COM,73599484,sucre,2022-03-11,275.22
+C11487, Monica Arce Paredes ,monica.arce38@outlook,6061-2374,santa cruz,2022-06-26,"4.029,08"
+C11488, Carla Salazar Vargas ,carla.salazar84@gmail.com,64581732,santa cruz,2022-02-03,517.31
+C11489,fernando torres gutiérrez, fernando.torres91@hotmail.com ,591-742-66643,Sucre,06/02/2024,"Bs 737,49"
+C11490,elena mendoza martínez,elena.mendoza90@gmail.com,+59173204697,El Alto,2024-01-04,"541,83"
+C11491,RAUL LOPEZ ROJAS,RAUL.LOPEZ3@OUTLOOK.COM,+591 64978854,Sta. Cruz,08.05.2022,"Bs 1.735,62"
+C11492,ELENA MAMANI QUISPE,elena.mamani35@hotmail.com,+59164292911,el alto,2022-06-17,"1.108,17"
+C11493,Juan Nunez Gutierrez,juan.nunez85@gmail.com,591-661-58978,la paz ,2025-07-20,"Bs 942,67"
+C11494,ELENA  RIVERA LÓPEZ,ELENA.RIVERA89@OUTLOOK.COM,7159-3705,Sta. Cruz,11.10.2025,"462,39"
+C11495,RICARDO TORRES PAREDES,ricardo.torres72@yahoo.com,6668-1786,Santa Cruz de la Sierra,21/10/2023,"1,555.13"
+C11496,VERÓNICA LÓPEZ RAMÍREZ,veronica.lopez87@yahoo.com,+59169022908,La Paz,2022-09-20,1383.49
+C11497,Fernando Sánchez Vargas,fernando.sanchez71@gmail.com,7862-1282,Santa Cruz de la Sierra,2024-04-13,781.90
+C11498,Sebastian Choque Salazar,sebastian.choque38@gmail.com,73099880,la paz ,07/01/2023,"1.301,02"
+C11499,Ricardo  Núñez Mamani,ricardo.nunez2@yahoo.com,(591) 7837 0337,Cbba.,25/10/2022,"1,287.66"
+C11500,Sofía  Rivera Rodríguez,sofia.rivera60@empresa.com.bo,+59160429711,Santa Cruz de la Sierra,05.10.2024,"277,97"
+C11501,VALERIA  PÉREZ PÉREZ,valeria.perez42@yahoo.com,+59162013651,cbba,2025-04-19,"774,87"
+C11502, Valeria  Rojas Arce ,VALERIA.ROJAS36@EMPRESA.COM.BO,+59170956465,COCHABAMBA,2025-07-13,579.97
+C11503,Gabriela Torres Arce,GABRIELA.TORRES53@GMAIL.COM,591-741-13730,Tarija,10/08/2022,442.50
+C11504, Carla Quispe Vargas ,carla.quispe7@yahoo.com,73823406,santa cruz,08/05/2022,3335.57
+C11505,Ana Vargas Vargas,ANA.VARGAS11@GMAIL.COM,+59163187475,Sta. Cruz,2023-05-11,"Bs 2.141,66"
+C11506,Jose Rivera Sanchez,jose.rivera23@outlook.com,591-737-05387,SCZ,2022-03-25,542.74
+C11507,Ruben Quispe Mamani,ruben.quispe88@outlook.com,7833-6510,La Paz,12/11/2022,332.51
+C11508,Rubén Ortiz Molina,ruben.ortiz36@gmail.com,+59169744756,LA PAZ,2022-06-26,3928.06
+C11509,Juan Sanchez Suarez,juan.sanchez24@outlook.com,(591) 7268 4983,LA PAZ,2025-07-11,2683.64
+C11510,SEBASTIAN  ARCE NUNEZ,SEBASTIAN.ARCE41@GMAIL.COM,7195-9218,COCHABAMBA,2024-09-14,682.63
+C11511,Veronica Nunez Gutierrez,veronica.nunez18@outlook.com,64622408,EL ALTO,12/01/2025,"613,71"
+C11512,MÓNICA  MOLINA TORRES,MONICA.MOLINA65@OUTLOOK.COM,+591 62013407,la paz ,25.12.2023,585.03
+C11513,Rubén  Choque Vargas,ruben.choque65@empresa.com.bo,591-728-98377,Sucre,2024-03-25,"3,244.21"
+C11514,Juan Sánchez Molina,juan.sanchez43@outlook.com,74531503,tarija,28/09/2025,"Bs 400,73"
+C11515, Daniela Torres Mendoza , daniela.torres51@outlook.com ,+591 66236330,santa cruz,04/01/2025,876.83
+C11516,luis gómez gómez,luis.gomez73@outlook.com,(591) 7446 1986,COCHABAMBA,2022-08-03,498.98
+C11517, Verónica  Gutiérrez Fernández ,veronica.gutierrez86@empresa.com.bo,+59161850834,santa cruz,2022-01-17,247.78
+C11518,María López Salazar,MARIA.LOPEZ85@GMAIL.COM,591-633-88797,sucre,01/02/2023,"Bs 3.145,43"
+C11519,andres mamani nunez, andres.mamani26@gmail.com ,+59162715926,LA PAZ,2022-01-01,410.98
+C11520, MIGUEL NÚÑEZ SÁNCHEZ ,miguel.nunez44@empresa.com.bo,+591 65795540,Santa Cruz de la Sierra,24/05/2022,342.94
+C11521,paola vargas fernandez,paola.vargas34@hotmail.com,+59176720071,la paz ,15.07.2023,927.96
+C11522,gabriela choque paredes,gabriela.choque90@gmail.com,7267-5245,LA PAZ,2025-02-21,793.24
+C11523,Camila Molina Quispe,CAMILA.MOLINA32@EMPRESA.COM.BO,591-613-95341,Santa Cruz de la Sierra,27/05/2025,"1,029.83"
+C11524,ANDRÉS  RIVERA PAREDES,andres.rivera80@hotmail.com,591-700-55644,La Paz,15/08/2025,"150,74"
+C11525,Paola Sánchez Martínez, paola.sanchez3@yahoo.com ,+591 62748283,cbba,02/01/2023,741.30
+C11526,Jorge  Rojas Vargas,jorge.rojas44@empresa.com.bo,+591 66237091,santa cruz,30/01/2024,3719.78
+C11527,gabriela  martinez rojas,GABRIELA.MARTINEZ24@OUTLOOK.COM,+591 72002838,la paz ,29/07/2023,700.37
+C11528,Lucia Rivera Ramirez,lucia.rivera82@yahoo.com,+59178335874,La Paz,06.06.2022,611.43
+C11529,rubén  rodríguez quispe,ruben.rodriguez54@gmail.com,+591 78230064,Cochabamba,06/09/2022,298.36
+C11530,ruben flores salazar, ruben.flores65@outlook.com ,+59173747660,Sucre,29/04/2022,1283.75
+C11531,Natalia  Rivera Ramírez,natalia.rivera31@hotmail.com,591-650-56554,cbba,12.11.2023,"1,220.55"
+C11532,Verónica Pérez Sánchez, veronica.perez29@gmail.com ,+59167035484,SCZ,2023-05-21,"Bs 1.443,44"
+C11533, Valeria Sánchez Ramírez ,valeria.sanchez70@hotmail.com,6938-4657,la paz ,15.10.2022,"Bs 437,08"
+C11534, Sofía Arce Suárez ,sofia.arce34@outlook.com,(591) 6388 1789,Sucre,27/10/2022,"Bs 797,61"
+C11535,Hector Arce Mamani,hector.arce91@yahoo.com,+59162534522,SUC,24/06/2025,429.00
+C11536,Paola Torres Mamani,PAOLA.TORRES51@YAHOO.COM,+591 67010618,Santa Cruz,2025-05-21,"Bs 574,69"
+C11537,CLAUDIA SÁNCHEZ MENDOZA,claudia.sanchez4@empresa.com.bo,591-780-33497,COCHABAMBA,30/03/2022,"Bs 529,83"
+C11538,DIEGO MENDOZA GÓMEZ,diego.mendoza68@yahoo.com,(591) 6231 3240,Santa Cruz de la Sierra,10.03.2025,"Bs 472,45"
+C11539,ELENA NUNEZ QUISPE,elena.nunez47empresa.com.bo,7549-8277,tarija,2025-05-31,"2.248,97"
+C11540,Carla  Ortiz Pérez,carla.ortiz50yahoo.com,7420-1671,COCHABAMBA,24.10.2024,"2,117.60"
+C11541,Elena  Gómez Vargas, elena.gomez69@gmail.com ,(591) 6675 8910,Cbba.,2025-02-27,"Bs 1.539,36"
+C11542,IVÁN PAREDES CASTRO,ivan.paredes10@empresa.com.bo,70829628,el alto,19/01/2022,"2.305,53"
+C11543,RICARDO GUTIÉRREZ NÚÑEZ,ricardo.gutierrez49@hotmail.com,+591 61951848,cbba,2025-06-13,"168,30"
+C11544,Ricardo Paredes Fernández,RICARDO.PAREDES16@YAHOO.COM,+59179745598,Sta. Cruz,21/01/2023,"1,085.99"
+C11545,Paola Núñez Rojas, paola.nunez38@empresa.com.bo ,+591 74686359,La Paz,2025-08-03,"531,77"
+C11546,VALERIA GÓMEZ PAREDES,VALERIA.GOMEZ8@HOTMAIL.COM,591-718-78927,SCZ,2022-11-13,"982,19"
+C11547,DANIELA  VARGAS ORTIZ,daniela.vargas8@empresa.com.bo,(591) 7926 0935,LPZ,27.12.2023,"2,665.99"
+C11548,Valeria Arce Núñez,valeria.arce63@outlook.com,70606144,LA PAZ,2023-06-11,"Bs 1.868,52"
+C11549,RAÚL  ARCE PÉREZ,,+591 66099881,Cbba.,23/05/2024,"262,92"
+C11550,Miguel  Gómez Flores,miguel.gomez35@hotmail.com,+59164246166,LA PAZ,2025-10-23,1603.78
+C11551,ÓSCAR  MENDOZA MAMANI,oscar.mendoza7@empresa.com.bo,69807761,El Alto,2024-06-21,"Bs 991,40"
+C11552,sebastián pérez ortiz,SEBASTIAN.PEREZ25@EMPRESA.COM.BO,74734792,Santa Cruz,2023-11-24,1203.13
+C11553,Rubén Salazar Rivera,RUBEN.SALAZAR4@YAHOO.COM,+59171319772,cbba,2022-06-19,734.09
+C11554,Carla Castro Arce,CARLA.CASTRO60@OUTLOOK.COM,591-718-37035,Cbba.,2025-04-11,872.67
+C11555,IVAN GOMEZ MOLINA,ivan.gomez38@hotmail.com,6406-7279,Santa Cruz,2022-08-29,"2.469,35"
+C11556,Gabriela Perez Molina,gabriela.perez29@hotmail.com,591-667-57973,cbba,28/02/2023,662.65
+C11557, ricardo torres gutiérrez ,RICARDO.TORRES45@YAHOO.COM,7648-9444,SCZ,21/01/2022,"1,227.14"
+C11558,RAÚL RODRÍGUEZ QUISPE,raul.rodriguez19@outlook.com,(591) 6525 8745,LA PAZ,24.09.2024,"471,74"
+C11559,SOFIA LOPEZ FERNANDEZ,sofia.lopez94@yahoo.com,+591 63361319,Sta. Cruz,2024-05-20,"Bs 209,56"
+C11560,hector rivera sanchez,HECTOR.RIVERA7@HOTMAIL.COM,7070-7783,La Paz,2022-01-12,399.27
+C11561,gabriela suarez fernandez,gabriela.suarez33@yahoo.com,+59172496085,LA PAZ,2024-07-17,"Bs 333,87"
+C11562,Veronica  Rojas Ortiz,veronica.rojas30@gmail.com,591-710-53539,Santa Cruz de la Sierra,20.04.2024,330.19
+C11563,Iván  Mendoza Ortiz,IVAN.MENDOZA50@OUTLOOK.COM,(591) 7361 0086,Sucre,pendiente,653.83
+C11564,Luis Suárez Núñez,luis.suarez55@yahoo.com,591-784-09657,santa cruz,20.11.2023,492.89
+C11565,MARÍA QUISPE MAMANI,maria.quispe32@yahoo.com,+591 73542615,El Alto,24.05.2022,"Bs 704,74"
+C11566, ricardo ortiz mamani ,RICARDO.ORTIZ25@OUTLOOK.COM,6420-6293,Santa Cruz,26/04/2023,"Bs 401,65"
+C11567,HECTOR  VARGAS MOLINA,hector.vargas63@outlook.com,+591 61765709,Cbba.,2024-08-30,"Bs 2.575,43"
+C11568,Ruben Flores Torres,ruben.flores97@outlook.com,70088818,Santa Cruz de la Sierra,22.07.2024,"1.370,25"
+C11569,valeria  quispe lópez,valeria.quispe13@outlook.com,(591) 7922 2666,Santa Cruz de la Sierra,23/10/2025,"422,56"
+C11570,Hector  Quispe Arce, hector.quispe6@hotmail.com ,591-631-39694,Cbba.,11/06/2025,"649,27"
+C11571,Daniela Torres López, daniela.torres96@outlook.com ,591-721-38670,Cbba.,2025-04-30,1815.62
+C11572,Luis  Suarez Castro,LUIS.SUAREZ65@OUTLOOK.COM,,COCHABAMBA,17/07/2023,277.38
+C11573,RUBEN ARCE PAREDES,ruben.arce68@gmail.com,7532-3089,COCHABAMBA,01/06/2025,923.70
+C11574,RICARDO RIVERA SALAZAR,ricardo.rivera43@outlook.com,+59162615344,LA PAZ,2025-02-25,701.89
+C11575,Sebastián  Pérez Fernández,sebastian.perez51@empresa.com.bo,+59173006405,LA PAZ,2023-06-25,231.63
+C11576,Luis Mamani Suárez,luis.mamani9@gmail.com,7964-5118,EL ALTO,12.10.2025,"669,10"
+C11577,CAMILA  NÚÑEZ MARTÍNEZ,camila.nunez70@yahoo.com,72504211,Santa Cruz de la Sierra,08.09.2025,488.33
+C11578,Veronica  Salazar Arce, veronica.salazar22@outlook.com ,(591) 7061 5791,cbba,2024-09-29,492.79
+C11579, Fernando Pérez Flores ,fernando.perez13@outlook.com,7139-8176,Santa Cruz,11.03.2025,1976.26
+C11580,Elena Ramírez Sánchez,elena.ramirez53@hotmail,+591 63752728,santa cruz,pendiente,815.66
+C11581,verónica lópez gutiérrez,VERONICA.LOPEZ78@GMAIL.COM,591-733-41898,la paz ,2024-04-15,1057.90
+C11582,Daniela  Gutiérrez Fernández,DANIELA.GUTIERREZ15@YAHOO.COM,+591 63449857,Sta. Cruz,28/02/2025,871.20
+C11583,Sofia Rojas Torres,,+59169643339,SUC,2025-05-12,1275.04
+C11584,Raúl Paredes Gutiérrez,raul.paredes36@outlook.com,61559287,LPZ,25/10/2025,1332.85
+C11585,monica  sanchez arce,MONICA.SANCHEZ82@EMPRESA.COM.BO,6323-6323,SCZ,2023-10-27,1284.81
+C11586,Gabriela Rivera Pérez,gabriela.rivera65@outlook.com,+59172765188,El Alto,30.01.2022,341.62
+C11587,MONICA  RIVERA TORRES,,65443186,La Paz,06/09/2024,"411,39"
+C11588,Luis Rodríguez Sánchez,luis.rodriguez56@gmail.com,7257-3871,LPZ,13/09/2024,"897,69"
+C11589, CLAUDIA RODRÍGUEZ GUTIÉRREZ ,claudia.rodriguez18@hotmail.com,+591 77273277,Sta. Cruz,2023-05-15,"Bs 1.361,42"
+C11590,ivan martinez flores, ivan.martinez76@hotmail.com ,,la paz ,24.03.2022,"Bs 338,40"
+C11591,lucía núñez rivera,,79355908,Santa Cruz de la Sierra,2023-08-09,"Bs 912,21"
+C11592,PAOLA VARGAS QUISPE,PAOLA.VARGAS26@GMAIL.COM,74610434,santa cruz,21/06/2022,"137,74"
+C11593,carla  mendoza rodríguez,CARLA.MENDOZA8@HOTMAIL.COM,68548775,COCHABAMBA,07/05/2025,"1.979,16"
+C11594,Maria Flores Rojas,maria.flores29@outlook.com,+591 72882754,LA PAZ,2023-12-19,"496,71"
+C11595,Camila Torres Gomez,camila.torres55@yahoo.com,591-752-26525,Sta. Cruz,2024-07-30,528.96
+C11596,juan sánchez fernández,juan.sanchez45@empresa.com.bo,(591) 7876 9745,La Paz,05/08/2022,"793,85"
+C11597,lucia lopez flores,lucia.lopez9@outlook.com,6478-3239,Santa Cruz de la Sierra,2023-08-19,"1,316.43"
+C11598,VALERIA  VARGAS GUTIÉRREZ,,591-696-38056,Sta. Cruz,11/05/2023,1444.38
+C11599,Andrés Choque Vargas,andres.choque45@gmail.com,+59165385718,SCZ,2022-04-25,"Bs 50,42"
+C11600, Verónica Choque Ramírez ,veronica.choque98@outlook.com,591-707-90046,Cochabamba,15/10/2024,1473.92
+C11601,Lucía Rojas Martínez,lucia.rojas26@outlook.com,70263020,Cbba.,18/03/2024,583.06
+C11602,Mónica Suárez Pérez,MONICA.SUAREZ23@HOTMAIL.COM,+591 79392198,Sta. Cruz,30/09/2024,"Bs 726,40"
+C11603,Sofia Gutierrez Ortiz,,591-711-71407,Cbba.,21/07/2023,1479.80
+C11604,Diego Suárez Sánchez,diego.suarez37@hotmail.com,+59161576057,TJA,2022-04-16,1154.60
+C11605,iván castro castro,ivan.castro47@gmail.com,,cbba,11.04.2024,"560,17"
+C11606,María Torres Molina,maria.torres94@yahoo.com,+59173066870,sucre,08/07/2022,799.02
+C11607,Natalia  Sánchez López,natalia.sanchez97@hotmail.com,+59173677777,la paz ,2023-01-06,"184,70"
+C11608,diego choque gutiérrez,diego.choque70@outlook.com,+59168678647,El Alto,2024-06-02,"514,84"
+C11609,luis mamani arce,luis.mamani17@empresa.com.bo,74705013,SUC,2024-02-17,795.87
+C11610, Juan Flores Fernández ,juan.flores84@hotmail.com,591-699-39434,Tarija,2024-12-12,414.75
+C11611,natalia vargas torres,natalia.vargas76@yahoo.com,7140-3410,cbba,02/06/2023,"1.001,71"
+C11612,Mónica Pérez Núñez,monica.perez77@gmail.com,6660-4894,La Paz,16.06.2022,"Bs 640,78"
+C11613,paola martínez rivera,paola.martinez85@yahoo.com,7041-6963,COCHABAMBA,09/08/2023,"2,038.93"
+C11614,Luis López Molina,LUIS.LOPEZ85@YAHOO.COM,(591) 6743 9550,la paz ,25/05/2022,"Bs 765,81"
+C11615,José Salazar López,jose.salazar60@outlook.com,591-635-65099,COCHABAMBA,2024-10-23,427.87
+C11616,sebastian lopez ortiz,sebastian.lopez82@yahoo.com,,Sta. Cruz,07/08/2024,"195,42"
+C11617,RUBEN  TORRES PEREZ,ruben.torres40@outlook.com,+591 63202612,SUC,2022-09-16,"1,170.94"
+C11618,Fernando Vargas Gómez,fernando.vargas41@hotmail.com,(591) 6360 3132,La Paz,2024-12-08,"238,51"
+C11619,Camila  Martínez Martínez,camila.martinez10@outlook.com,591-683-57175,santa cruz,2024-06-28,"1.121,77"
+C11620,maría flores flores,maria.flores71yahoo.com,+591 64809812,cbba,16/12/2024,747.62
+C11621,JORGE GÓMEZ ORTIZ,jorge.gomez79@yahoo.com,,tarija,2025-02-27,206.30
+C11622,Iván Sánchez Quispe,ivan.sanchez23@hotmail.com,591-633-36463,EL ALTO,26/12/2024,536.30
+C11623,josé ortiz arce,jose.ortiz80@hotmail,+591 70048478,Cbba.,2025-09-27,291.41
+C11624,daniela fernandez suarez, daniela.fernandez40@empresa.com.bo ,+591 61226548,LPZ,2023-02-06,"424,20"
+C11625,CARLA  LÓPEZ RIVERA,carla.lopez95@hotmail.com,+59172736393,Santa Cruz,2023-07-24,535.77
+C11626,MARIA FLORES FLORES,maria.flores71@yahoo.com,(591) 6480 9812,Cochabamba,2024-12-16,747.62
+C11627, Sebastián Quispe Choque ,SEBASTIAN.QUISPE48@OUTLOOK.COM,+591 74131199,LPZ,2022-05-12,"510,17"
+C11628,Luis Arce Castro,luis.arce39@empresa.com.bo,71468252,Sucre,2023-12-17,"Bs 243,85"
+C11629,Sebastián Rojas Sánchez,,+59176239625,SCZ,24/03/2024,"Bs 612,05"
+C11630,Héctor  Arce Pérez,hector.arce79@yahoo.com,6174-6705,Sta. Cruz,31/05/2024,629.86
+C11631, ricardo rojas suárez ,ricardo.rojas85@gmail.com,7119-8095,Santa Cruz,14/04/2025,527.45
+C11632,Sebastian Torres Suarez,sebastian.torres59hotmail.com,+59162438998,Sta. Cruz,03/05/2023,"Bs 1.448,76"
+C11633,ANA MOLINA TORRES,ANA.MOLINA44@YAHOO.COM,+591 66096313,SCZ,06/09/2024,767.42
+C11634,Juan  Molina Rodríguez,JUAN.MOLINA1@EMPRESA.COM.BO,+591 60643510,Santa Cruz,2024-03-24,376.99
+C11635, óscar  flores ortiz ,OSCAR.FLORES51@OUTLOOK.COM,73563106,Santa Cruz,2024-11-20,"2,379.62"
+C11636, Carla Martinez Mamani ,carla.martinez39@empresa.com.bo,78418060,Tarija,2023-07-19,624.92
+C11637,Diego Pérez Gutiérrez,diego.perez42@outlook.com,+59166633128,Santa Cruz de la Sierra,22/06/2024,452.05
+C11638,Carla Flores Castro,carla.flores30@hotmail.com,6092-1769,la paz ,2024-03-05,"1.676,94"
+C11639,maria gomez perez,,6315-1916,cbba,02/06/2025,373.85
+C11640,josé núñez mendoza, jose.nunez55@outlook.com ,+591 74055615,El Alto,30.09.2022,"1.662,79"
+C11641, Ana Rivera Vargas ,ana.rivera6@hotmail.com,(591) 6719 2161,Cochabamba,2025-04-27,"2.621,33"
+C11642,Sebastián Núñez Pérez, sebastian.nunez10@empresa.com.bo ,(591) 6562 8565,santa cruz,11/07/2024,893.74
+C11643, ana torres flores ,ANA.TORRES89@YAHOO.COM,7834-9018,Sta. Cruz,2023-05-02,2921.96
+C11644,óscar  mamani flores,oscar.mamani41@yahoo.com,7131-7668,LA PAZ,2022-10-01,971.68
+C11645, camila gutiérrez quispe ,camila.gutierrez82@yahoo.com,+59169023467,Sucre,2023-08-20,"491,24"
+C11646,Ricardo Suárez Mendoza,ricardo.suarez32@hotmail.com,591-619-55491,EL ALTO,21/12/2023,216.26
+C11647,MÓNICA GÓMEZ MENDOZA,monica.gomez57@hotmail.com,+59160147943,el alto,23.07.2024,397.05
+C11648,Natalia Ramírez Molina,natalia.ramirez51@gmail.com,591-751-60411,Santa Cruz,2024-03-11,"2,865.75"
+C11649,Gabriela Perez Mamani,gabriela.perez9@gmail.com,+59176162950,La Paz,12/01/2024,"Bs 1.535,25"
+C11650,Héctor Castro Arce,hector.castro19@outlook.com,,La Paz,09.11.2022,1203.64
+C11651,Paola Martínez Mendoza,paola.martinez2@hotmail.com,7889-8803,cbba,05/11/2022,"2,423.15"
+C11652,CAMILA QUISPE CASTRO,camila.quispe62@empresa.com.bo,7707-8679,Cochabamba,18.03.2025,701.50
+C11653,Natalia Castro Ortiz,natalia.castro47@outlook.com,(591) 6173 8230,tarija,2023-01-09,"Bs 1.040,47"
+C11654,elena fernandez fernandez,elena.fernandez62@yahoo.com,70968076,Sta. Cruz,28/09/2024,565.75
+C11655,LUCIA FERNANDEZ VARGAS,lucia.fernandez7@gmail.com,+59164413321,Cbba.,27/11/2023,647.80
+C11656,FERNANDO CASTRO FERNÁNDEZ,,591-711-70180,SUC,2025-05-19,"Bs 1.142,60"
+C11657,valeria  rivera gómez,VALERIA.RIVERA85@OUTLOOK.COM,+59171382227,tarija,2023-01-01,3211.56
+C11658,Fernando Mendoza Castro,,(591) 6585 2162,EL ALTO,27/08/2025,959.59
+C11659,VERONICA SALAZAR TORRES,veronica.salazar10@yahoo.com,(591) 7810 0521,SCZ,2022-06-18,"1.107,62"
+C11660,Verónica Torres Gutiérrez,veronica.torres9@yahoo.com,72454758,SCZ,23/03/2022,368.20
+C11661,JUAN  GUTIÉRREZ SALAZAR,juan.gutierrez78@gmail.com,77577227,El Alto,16/09/2024,"Bs 673,71"
+C11662,RAÚL FLORES TORRES,raul.flores55@yahoo.com,7979-5402,COCHABAMBA,2024-11-16,"Bs 455,11"
+C11663,DIEGO MAMANI NÚÑEZ,,591-796-28397,Cbba.,18/10/2023,401.89
+C11664,VERÓNICA ORTIZ SUÁREZ,veronica.ortiz95@outlook.com,64555779,Santa Cruz,2025-06-12,"594,88"
+C11665,Monica Mamani Arce,monica.mamani76@yahoo.com,(591) 6566 1125,Sucre,09/03/2024,"Bs 1.133,96"
+C11666,Rubén López Torres,,591-739-46047,LPZ,2023-03-15,1324.33
+C11667,Juan Castro Gomez,juan.castro75@gmail.com,,cbba,2023-08-09,214.00
+C11668,Sebastian Paredes Vargas,sebastian.paredes17@yahoo.com,,el alto,2025-09-25,656.29
+C11669,Lucía Vargas Torres,LUCIA.VARGAS25@EMPRESA.COM.BO,60971925,cbba,27/09/2022,"Bs 1.717,66"
+C11670,Paola Arce Rodríguez,paola.arce12@gmail,+591 63089802,Santa Cruz,27.05.2025,318.74
+C11671, ricardo mendoza lópez ,ricardo.mendoza75@yahoo.com,591-767-40847,SCZ,30.04.2022,"Bs 1.224,06"
+C11672,Verónica  Torres Paredes, veronica.torres51@outlook.com ,77891284,Sta. Cruz,2025-06-26,321.52
+C11673,paola ortiz paredes,PAOLA.ORTIZ32@YAHOO.COM,591-690-22314,Santa Cruz,2023-03-13,"109,04"
+C11674,Veronica Choque Fernandez,veronica.choque53@hotmail.com,(591) 7192 4946,LA PAZ,2023-11-29,"406,22"
+C11675, Rubén Molina Castro ,ruben.molina97@yahoo.com,7152-5152,LPZ,22/01/2024,492.30
+C11676,Elena  Gutiérrez Paredes,elena.gutierrez19@hotmail.com,79866337,LPZ,17.02.2022,450.74
+C11677,MÓNICA GÓMEZ CASTRO,MONICA.GOMEZ70@HOTMAIL.COM,73868745,Santa Cruz de la Sierra,2024-10-07,"364,23"
+C11678,Elena Vargas Ortiz,,(591) 6113 6524,El Alto,26/03/2022,574.03
+C11679, Iván Mamani Ortiz ,ivan.mamani23@gmail.com,,el alto,27.07.2024,"1.850,11"
+C11680,José Mamani Fernández,jose.mamani21@empresa.com.bo,(591) 7242 6302,La Paz,pendiente,"Bs 476,15"
+C11681,verónica ramírez ramírez,veronica.ramirez3@outlook.com,6822-8375,Sta. Cruz,27/08/2022,356.58
+C11682, RUBÉN CASTRO GÓMEZ ,ruben.castro68@outlook.com,(591) 7665 9813,La Paz,11/11/2022,"1.598,25"
+C11683,JOSE RAMIREZ SALAZAR,jose.ramirez4@gmail.com,,Santa Cruz de la Sierra,27.02.2024,761.83
+C11684,Claudia  Quispe Gutiérrez,claudia.quispe74@hotmail.com,+591 62703350,COCHABAMBA,29/08/2023,"2.284,35"
+C11685, josé  ortiz martínez ,jose.ortiz52@hotmail.com,+591 73047001,cbba,04/09/2022,1856.20
+C11686,Diego Núñez Rodríguez,,6750-0121,LA PAZ,2022-10-18,877.09
+C11687,Valeria Choque Mendoza,valeria.choque79@hotmail.com,(591) 7223 2315,sucre,31.10.2022,606.92
+C11688, Héctor Mendoza Paredes ,hector.mendoza14@yahoo,7594-0690,Sta. Cruz,24.03.2025,130.25
+C11689,JORGE QUISPE RIVERA,jorge.quispe32@empresa.com.bo,(591) 7865 6086,EL ALTO,2022-04-04,"1,179.77"
+C11690,carla vargas choque,carla.vargas27@yahoo.com,+591 70458794,Santa Cruz,16.07.2022,543.92
+C11691, RICARDO ORTIZ CASTRO ,ricardo.ortiz36@hotmail.com,+59161267506,Cbba.,17/12/2024,"1,650.74"
+C11692, Camila Suárez Rojas ,CAMILA.SUAREZ55@YAHOO.COM,+591 66558014,cbba,09.09.2025,"2.350,44"
+C11693,Paola Núñez Mamani,PAOLA.NUNEZ3@EMPRESA.COM.BO,(591) 6283 0809,la paz ,pendiente,495.37
+C11694,José Castro Martínez,jose.castro84@gmail.com,591-732-29312,Sta. Cruz,2022-08-24,"Bs 1.409,52"
+C11695, Jose Lopez Arce ,JOSE.LOPEZ48@YAHOO.COM,7583-7815,santa cruz,02/08/2022,"1,537.10"
+C11696,Elena Mamani Lopez,elena.mamani50@empresa.com.bo,+59168012068,santa cruz,2023-02-23,258.34
+C11697,Andres Lopez Martinez,andres.lopez19@outlook.com,591-634-92421,La Paz,12.09.2023,826.30
+C11698,Jorge  Castro Salazar,jorge.castro18@hotmail.com,(591) 7086 1810,la paz ,07.02.2023,"1,779.89"
+C11699,Camila Paredes Gutiérrez,camila.paredes70@hotmail.com,78603336,COCHABAMBA,2023-11-23,405.61
+C11700,Gabriela Rodriguez Rodriguez,gabriela.rodriguez49@hotmail.com,6112-4357,LA PAZ,26.10.2024,1266.06
+C11701,sebastian ramirez rojas, sebastian.ramirez35@empresa.com.bo ,+591 77974079,Santa Cruz de la Sierra,2025-07-20,"Bs 249,31"
+C11702,Juan Paredes Ortiz, juan.paredes74@gmail.com ,6996-8884,Cochabamba,2025-02-19,"Bs 338,48"
+C11703,Luis Mendoza Vargas,luis.mendoza54@yahoo.com,+59176427074,santa cruz,2023-04-25,"133,13"
+C11704,Andres Ramirez Martinez, andres.ramirez44@empresa.com.bo ,591-739-58625,Santa Cruz,02/10/2023,"Bs 1.200,72"
+C11705,Juan  Sánchez Vargas,juan.sanchez24outlook.com,591-712-84566,SCZ,2024-08-15,1261.03
+C11706, Andres Salazar Rivera ,andres.salazar76@empresa.com.bo,,LPZ,pendiente,686.65
+C11707, Andrés Choque Ramírez ,,7983-7797,SCZ,2022-03-13,"Bs 245,21"
+C11708, Elena Vargas Salazar , elena.vargas94@yahoo.com ,75628390,tarija,17/10/2024,1109.36
+C11709,Andrés Sánchez Mendoza,ANDRES.SANCHEZ52@YAHOO.COM,76593946,SCZ,09/01/2025,110.53
+C11710, luis fernández paredes ,luis.fernandez51@empresa.com.bo,77492870,LPZ,20.12.2023,"986,24"
+C11711,veronica rojas lopez,veronica.rojas72@hotmail.com,,Santa Cruz de la Sierra,23.10.2023,"Bs 459,96"
+C11712,JORGE PÉREZ ARCE,jorge.perez98@hotmail.com,591-768-88231,Tarija,07/03/2023,"1,151.79"
+C11713,OSCAR NUNEZ MARTINEZ,oscar.nunez91@yahoo.com,+591 67251981,SUC,18.06.2024,"974,95"
+C11714,RICARDO SUAREZ RIVERA,ricardo.suarez70@yahoo.com,6267-0520,Cbba.,30/03/2022,"1,860.57"
+C11715,Juan Mamani Ortiz,juan.mamani30@outlook.com,+591 63090030,Santa Cruz de la Sierra,27.05.2025,1261.10
+C11716,Elena Rojas Ortiz,elena.rojas39@hotmail.com,591-634-46367,COCHABAMBA,2023-08-21,"882,90"
+C11717,Gabriela Fernández Pérez,gabriela.fernandez3@hotmail.com,591-609-41488,Santa Cruz de la Sierra,2024-10-01,2132.21
+C11718,María Arce Torres,maria.arce42@yahoo.com,+59175156463,Santa Cruz,03/04/2024,542.96
+C11719, MARIA MOLINA RAMIREZ ,maria.molina43@yahoo,6073-9147,cbba,2024-12-30,"804,59"
+C11720,DANIELA ARCE ARCE,daniela.arce8@hotmail.com,+59179036816,Sucre,2022-05-06,1124.57
+C11721, LUIS  NÚÑEZ FLORES ,luis.nunez37@gmail.com,7879-3890,La Paz,22.08.2022,"Bs 582,27"
+C11722,Fernando Martínez Choque,fernando.martinez38@empresa.com.bo,591-721-92763,COCHABAMBA,10/02/2022,"2,458.15"
+C11723,Carla  Mamani Mendoza,carla.mamani71@hotmail.com,+591 75114369,LA PAZ,2025-02-08,448.60
+C11724,LUIS  MAMANI SALAZAR,luis.mamani67@empresa.com.bo,+591 62100424,Cochabamba,02/02/2023,"982,10"
+C11725,MARÍA  SÁNCHEZ SALAZAR,maria.sanchez34@gmail.com,+59176246643,sucre,2024-10-24,"1,355.63"
+C11726,CLAUDIA VARGAS PÉREZ, claudia.vargas44@hotmail.com ,591-781-80068,Cochabamba,2023-07-03,"663,90"
+C11727, RICARDO LÓPEZ MOLINA ,,7245-9348,cbba,2023-11-03,528.66
+C11728,Iván Rojas Sánchez,ivan.rojas68@hotmail.com,(591) 7014 5763,Sta. Cruz,19.10.2025,"2,319.83"
+C11729, Verónica  Flores Quispe ,veronica.flores20@gmail.com,,cbba,09.08.2025,1286.48
+C11730,Daniela Núñez Mendoza,daniela.nunez61@hotmail.com,6429-2981,sucre,16.07.2024,965.42
+C11731,RICARDO ROJAS PAREDES,ricardo.rojas34@yahoo.com,63197319,Santa Cruz,13/08/2022,"1,384.19"
+C11732, Sofía Pérez Molina ,sofia.perez11@empresa.com.bo,70151414,el alto,2022-05-22,1055.17
+C11733,MIGUEL  GOMEZ MOLINA,miguel.gomez71@hotmail.com,591-666-96570,Santa Cruz,2022-03-02,580.24
+C11734,Carla Rojas Paredes,carla.rojas44@hotmail.com,(591) 6275 1996,Santa Cruz de la Sierra,13/07/2022,"1.133,41"
+C11735,Verónica Choque Salazar,veronica.choque44@hotmail.com,6798-5188,Santa Cruz de la Sierra,11.08.2022,992.24
+C11736,Maria Gomez Rodriguez,maria.gomez16@yahoo.com,,Santa Cruz,19/03/2024,"1.634,97"
+C11737,Jose Flores Molina,jose.flores10@outlook.com,(591) 7951 4674,Cochabamba,29/10/2022,"Bs 1.233,39"
+C11738, Sofía Torres Gutiérrez ,sofia.torres71@outlook.com,60758871,Sta. Cruz,2025-03-24,2341.80
+C11739,Luis Paredes Ortiz,luis.paredes50@hotmail.com,591-656-55247,la paz ,2022-03-30,"165,36"
+C11740, CLAUDIA MAMANI LÓPEZ ,claudia.mamani58@yahoo.com,62017956,LPZ,2024-05-04,"283,78"
+C11741,Paola Ramírez Paredes,paola.ramirez66@hotmail.com,67292859,SCZ,27.07.2023,"2.587,83"
+C11742,Fernando  Mamani Choque,fernando.mamani36@yahoo.com,+591 77230978,Sta. Cruz,2022-12-28,577.91
+C11743,Gabriela Choque Castro,gabriela.choque21@yahoo.com,+591 77312583,Sta. Cruz,08/02/2025,"Bs 150,46"
+C11744, CAMILA RODRÍGUEZ RIVERA ,camila.rodriguez3@hotmail.com,591-748-39410,SUC,08.07.2024,"2,171.55"
+C11745,Paola  Ortiz Arce,paola.ortiz47@yahoo.com,7028-2301,la paz ,11/04/2023,"878,52"
+C11746,Miguel Rodríguez Rodríguez,,+591 64384510,Santa Cruz de la Sierra,21/12/2022,3865.63
+C11747,Miguel  Vargas Molina,miguel.vargas36@yahoo.com,(591) 7133 9969,SCZ,16/05/2022,"267,00"
+C11748,FERNANDO NÚÑEZ PÉREZ, fernando.nunez1@empresa.com.bo ,63202322,santa cruz,2025-02-23,"1.084,53"
+C11749,verónica paredes núñez,veronica.paredes52@empresa.com.bo,,La Paz,23/02/2023,"Bs 693,87"
+C11750,Ana Martinez Martinez,ana.martinez63@yahoo.com,+59173556798,EL ALTO,25.02.2024,"459,84"
+C11751,Daniela Choque Suárez,daniela.choque11@empresa.com.bo,591-754-60356,Sta. Cruz,27.02.2023,585.04
+C11752, Óscar Ramírez Fernández ,OSCAR.RAMIREZ57@GMAIL.COM,74968954,COCHABAMBA,29.08.2025,"Bs 517,54"
+C11753,paola flores arce,paola.flores89@gmail.com,7957-2592,santa cruz,2025-04-10,"1.918,50"
+C11754,rubén suárez rojas, ruben.suarez87@yahoo.com ,+59167023950,LA PAZ,2024-04-04,"Bs 690,21"
+C11755,diego  ortiz rodriguez,,63813300,Sucre,2025-03-16,523.74
+C11756,gabriela  gutierrez gutierrez,GABRIELA.GUTIERREZ5@HOTMAIL.COM,7914-8325,LA PAZ,11.04.2023,"2,167.94"
+C11757, María  Mamani Gutiérrez ,maria.mamani42@yahoo.com,+59162784152,Tarija,11/11/2022,"1.854,67"
+C11758, Andrés Rodríguez Mamani ,andres.rodriguez81@hotmail.com,+591 65872867,la paz ,31.01.2025,"225,76"
+C11759, Diego  Quispe Arce ,diego.quispe98@empresa.com.bo,(591) 6676 2843,Santa Cruz,2025-10-27,"525,27"
+C11760,Raúl Castro Ortiz,raul.castro91@outlook.com,+59174657009,sucre,2023-08-05,"Bs 3.734,14"
+C11761,Diego Gomez Sanchez, diego.gomez12@gmail.com ,62179248,SCZ,2023-04-28,"1.447,21"
+C11762,Claudia  Castro Salazar,claudia.castro75@empresa.com.bo,(591) 7070 7387,la paz ,2023-07-14,1436.49
+C11763,Luis Paredes Rodríguez,luis.paredes16@outlook.com,+591 69398158,cbba,19.12.2022,321.86
+C11764,ELENA CHOQUE FERNÁNDEZ,elena.choque65@outlook.com,,LPZ,pendiente,417.70
+C11765, Miguel Molina Mamani ,MIGUEL.MOLINA47@HOTMAIL.COM,+591 63519702,COCHABAMBA,17/01/2022,1239.69
+C11766,VALERIA  RAMÍREZ LÓPEZ,,+591 79100085,santa cruz,17/06/2023,892.11
+C11767,Jose Castro Arce,jose.castro8@yahoo.com,7198-3162,Sta. Cruz,27.01.2022,"Bs 165,94"
+C11768,Verónica Fernández Torres,veronica.fernandez96@gmail.com,591-681-69028,La Paz,29/09/2022,"596,99"
+C11769, Sebastian Flores Rojas , sebastian.flores83@hotmail.com ,+59171136649,Santa Cruz,2024-03-20,816.46
+C11770,Daniela Choque Sanchez,daniela.choque98@hotmail,(591) 7149 3726,Cbba.,2025-02-10,739.14
+C11771,Ivan Rivera Ramirez,ivan.rivera9@outlook.com,(591) 6073 2853,Cochabamba,2024-09-28,"Bs 971,85"
+C11772,Gabriela Rivera Rodriguez,gabriela.rivera19empresa.com.bo,7552-5453,cbba,16/10/2023,"Bs 602,57"
+C11773, ANDRES TORRES CASTRO ,andres.torres85@outlook.com,(591) 7345 5883,Santa Cruz de la Sierra,27/06/2023,"Bs 745,84"
+C11774,MIGUEL  NÚÑEZ PÉREZ,miguel.nunez21@gmail.com,+59176467509,SCZ,2024-01-22,698.82
+C11775,Paola  Molina Flores,PAOLA.MOLINA15@OUTLOOK.COM,,Santa Cruz,2024-07-06,"533,49"
+C11776, Carla Molina Torres ,CARLA.MOLINA38@GMAIL.COM,+591 72196013,COCHABAMBA,2022-02-04,"Bs 822,30"
+C11777,Jose  Mamani Ramirez,jose.mamani98@hotmail.com,75601555,Sta. Cruz,07/09/2025,535.32
+C11778,Monica  Ortiz Nunez,monica.ortiz83empresa.com.bo,75014037,LPZ,27/02/2022,1235.64
+C11779,jose martinez paredes,jose.martinez82@gmail,7533-2237,SCZ,2025-05-22,428.04
+C11780,Paola Rodriguez Rodriguez,,+591 76461316,Cochabamba,2023-12-17,"Bs 1.003,59"
+C11781,CARLA RODRÍGUEZ MARTÍNEZ,carla.rodriguez78outlook.com,+59164950488,COCHABAMBA,06/01/2023,"286,93"
+C11782,CLAUDIA GUTIÉRREZ VARGAS,claudia.gutierrez81@gmail.com,+59171190829,LA PAZ,18/10/2023,978.00
+C11783,ÓSCAR VARGAS RODRÍGUEZ, oscar.vargas71@outlook.com ,591-674-15454,COCHABAMBA,2022-09-27,"Bs 952,99"
+C11784,Fernando Rivera Pérez, fernando.rivera70@hotmail.com ,+591 74419441,SUC,03/04/2025,549.18
+C11785,Diego Pérez Rodríguez,diego.perez88@gmail.com,591-706-58413,COCHABAMBA,30/05/2024,1594.00
+C11786,RUBÉN  ORTIZ CASTRO,RUBEN.ORTIZ98@YAHOO.COM,591-774-51954,SUC,2024-03-18,"1,060.83"
+C11787,Paola Mamani Torres,PAOLA.MAMANI75@YAHOO.COM,6926-4013,la paz ,02/02/2023,565.89
+C11788,Fernando Vargas Lopez,,+59161479490,EL ALTO,08/04/2024,719.05
+C11789, Ana  Flores Fernández ,ana.flores92@empresa.com.bo,6185-7947,Cbba.,13/06/2023,333.31
+C11790,RAUL MARTINEZ VARGAS,raul.martinez87@outlook.com,+591 60006224,sucre,20/10/2024,701.57
+C11791, verónica fernández sánchez ,veronica.fernandez61@gmail.com,+59160370501,Santa Cruz de la Sierra,14/04/2024,"Bs 948,94"
+C11792,Sebastián Rivera Mendoza,sebastian.rivera60@gmail.com,6274-9304,Sta. Cruz,2025-06-30,"1.887,58"
+C11793,carla  mendoza rodriguez, carla.mendoza8@hotmail.com ,68548775,Cbba.,07/05/2025,"1,979.16"
+C11794,Gabriela  Pérez Mendoza,gabriela.perez65@outlook.com,591-750-67123,SCZ,28/06/2022,839.91
+C11795,Elena Choque Núñez, elena.choque83@gmail.com ,6656-1826,Cochabamba,2022-11-28,"1.848,50"
+C11796,sebastián  torres lópez,sebastian.torres71@empresa.com.bo,71869580,Cochabamba,05/12/2023,554.77
+C11797,Maria  Torres Paredes,maria.torres68@yahoo.com,+59172663139,tarija,2024-08-12,"Bs 4.675,80"
+C11798,FERNANDO QUISPE ARCE,fernando.quispe19@gmail.com,+59161813337,LPZ,2025-05-22,254.75
+C11799,VALERIA NÚÑEZ SÁNCHEZ,VALERIA.NUNEZ84@YAHOO.COM,591-717-30861,El Alto,09/12/2022,"1.922,65"
+C11800,maría  mamani gutiérrez, maria.mamani42@yahoo.com ,+59162784152,Tarija,2022-11-11,"1.854,67"
+C11801,Ana Gutiérrez Fernández,ana.gutierrez60@gmail.com,+59177901613,Sucre,2022-01-12,"Bs 828,81"
+C11802,GABRIELA  ORTIZ SUÁREZ,GABRIELA.ORTIZ46@YAHOO.COM,(591) 7461 9767,LPZ,2024-11-28,"1,624.53"
+C11803,Camila Arce Molina,camila.arce43@yahoo.com,591-666-65158,Santa Cruz de la Sierra,05.08.2023,"1,979.64"
+C11804, ELENA MENDOZA ARCE ,elena.mendoza21@yahoo,,tarija,24/10/2022,"Bs 231,97"
+C11805,Sebastián Castro Gómez, sebastian.castro1@outlook.com ,+591 66543337,la paz ,18/10/2023,"1.326,40"
+C11806, Raúl  Ramírez Suárez , raul.ramirez58@hotmail.com ,+59161876032,el alto,2025-10-22,380.97
+C11807, DANIELA MARTÍNEZ GÓMEZ ,daniela.martinez76@yahoo.com,+591 62141682,Sta. Cruz,29/08/2023,"Bs 174,20"
+C11808, Mónica López Suárez , monica.lopez5@hotmail.com ,591-674-79105,La Paz,2023-08-14,"1,835.52"
+C11809, ruben mendoza lopez ,RUBEN.MENDOZA36@EMPRESA.COM.BO,591-747-72784,Sta. Cruz,2022-10-01,"302,62"
+C11810,juan  rodríguez ramírez,juan.rodriguez20@hotmail.com,6052-0717,santa cruz,2024-02-15,"819,66"
+C11811,miguel pérez quispe,miguel.perez9@gmail,,SCZ,09.06.2025,"274,83"
+C11812,MIGUEL GUTIERREZ MAMANI,,+59169480195,Santa Cruz,pendiente,2883.46
+C11813,Ricardo Suárez Molina,ricardo.suarez60@empresa.com.bo,6242-0802,LA PAZ,2022-01-14,413.27
+C11814,Héctor Rojas Torres,hector.rojas97@gmail.com,(591) 7836 4389,SCZ,2023-10-11,"314,76"
+C11815, ruben  suarez paredes ,ruben.suarez28@gmail.com,(591) 7718 6412,santa cruz,2024-03-05,505.64
+C11816, Diego Fernández Torres ,DIEGO.FERNANDEZ51@YAHOO.COM,591-649-25364,EL ALTO,2025-03-13,466.55
+C11817,Claudia Martínez Gutiérrez,claudia.martinez39@outlook.com,(591) 7404 4909,COCHABAMBA,29/12/2024,558.79
+C11818,Luis  Ortiz Gutiérrez,luis.ortiz97@hotmail.com,591-618-38947,EL ALTO,18/09/2022,"3.117,29"
+C11819,Lucía Vargas Pérez,lucia.vargas62@hotmail.com,69597279,SUC,12/08/2024,841.52
+C11820,Sebastián Pérez Ortiz,sebastian.perez25@empresa.com.bo,591-747-34792,Santa Cruz,pendiente,"1.203,13"
+C11821,MÓNICA RODRÍGUEZ SÁNCHEZ,MONICA.RODRIGUEZ72@EMPRESA.COM.BO,+591 64777770,Cbba.,09.02.2022,1157.26
+C11822,natalia  rojas fernández,natalia.rojas18@yahoo.com,78174299,LPZ,09/12/2022,"366,45"
+C11823,Ricardo  Quispe Torres,,7235-0231,Sta. Cruz,pendiente,2437.02
+C11824,Ivan Gutierrez Rodriguez,IVAN.GUTIERREZ31@YAHOO.COM,(591) 7127 0364,EL ALTO,14/02/2023,"Bs 1.490,19"
+C11825,Sebastian Martinez Salazar,sebastian.martinez20@empresa.com,591-617-06544,LA PAZ,2025-08-16,"Bs 2.819,79"
+C11826,natalia castro arce,natalia.castro69@hotmail.com,+591 72401748,Santa Cruz,2023-06-21,1948.46
+C11827,CARLA LÓPEZ VARGAS,carla.lopez69@hotmail.com,6800-5510,Sucre,2022-05-03,"Bs 132,80"
+C11828,juan  choque flores,juan.choque12@hotmail.com,591-783-98779,la paz ,2022-11-21,"1,361.95"
+C11829,sebastián torres núñez,sebastian.torres79@outlook.com,591-792-05612,Santa Cruz,12.03.2022,"2,565.42"
+C11830, JOSÉ  VARGAS MARTÍNEZ , jose.vargas70@yahoo.com ,+59165190478,La Paz,02.04.2022,"2,458.75"
+C11831, Sofía Molina López ,sofia.molina71@outlook.com,591-740-93180,Santa Cruz de la Sierra,18.07.2025,539.11
+C11832,DANIELA SANCHEZ CASTRO,daniela.sanchez97@gmail.com,+591 76306860,santa cruz,30.01.2023,320.06
+C11833,Natalia Gómez Choque,natalia.gomez66@gmail.com,7931-7293,Santa Cruz de la Sierra,26.01.2024,"760,05"
+C11834,Camila Mendoza Vargas,,+591 71336083,santa cruz,2024-10-16,"Bs 1.178,99"
+C11835,Raúl Paredes Ramírez,RAUL.PAREDES68@OUTLOOK.COM,591-600-58991,la paz ,06/04/2022,"107,31"
+C11836,Sebastian Rodriguez Castro,,+591 62810153,Cochabamba,pendiente,"Bs 586,43"
+C11837,Iván Suárez Salazar,ivan.suarez63@yahoo.com,+59178483743,EL ALTO,18/08/2023,"1.803,30"
+C11838,josé gómez mendoza,jose.gomez3@hotmail.com,+591 79837876,EL ALTO,2023-03-19,284.32
+C11839,Andrés López Quispe,andres.lopez76@outlook.com,,cbba,2025-10-30,1127.39
+C11840,diego gutierrez rojas,DIEGO.GUTIERREZ4@OUTLOOK.COM,+591 69376117,EL ALTO,29.09.2024,740.45
+C11841, Ana Choque Flores ,ana.choque98@yahoo.com,77928267,Sucre,26/03/2025,802.81
+C11842,Claudia Salazar Fernandez, claudia.salazar5@outlook.com ,591-680-39322,Cbba.,2022-01-14,"Bs 866,18"
+C11843,MARIA  TORRES MARTINEZ, maria.torres91@yahoo.com ,+59176820045,Cochabamba,2022-09-11,1920.87
+C11844,DIEGO SUAREZ RAMIREZ,DIEGO.SUAREZ64@YAHOO.COM,+59162054224,LA PAZ,2023-07-19,"2.082,55"
+C11845,Héctor López Rodríguez,hector.lopez26@outlook.com,591-659-43319,Cbba.,01.07.2024,519.27
+C11846,GABRIELA GÓMEZ TORRES,gabriela.gomez7@empresa.com.bo,+59166778463,Cbba.,13/12/2024,1199.53
+C11847,Rubén Vargas Ortiz,ruben.vargas20@empresa.com.bo,591-659-41488,EL ALTO,2023-05-26,978.23
+C11848,Carla  Gutiérrez Castro,carla.gutierrez53@gmail.com,72322673,Tarija,10/09/2023,376.38
+C11849,Sebastián Martínez Gutiérrez,sebastian.martinez66@hotmail.com,(591) 7405 6054,El Alto,02.01.2025,"2,023.83"
+C11850,sofía  torres rivera,sofia.torres70@empresa.com.bo,+59172929399,SUC,05.08.2025,2152.88
+C11851,andrés gómez vargas,andres.gomez2@yahoo.com,7477-0191,SCZ,2023-10-05,647.26
+C11852,Andrés Paredes Pérez,andres.paredes87@empresa.com.bo,,la paz ,2022-07-18,585.22
+C11853, ana molina mamani ,ANA.MOLINA62@EMPRESA.COM.BO,591-789-96019,la paz ,15.03.2023,271.28
+C11854,Daniela Sánchez Martínez,daniela.sanchez85@gmail.com,(591) 6095 8714,SCZ,23.10.2022,"2,224.11"
+C11855,Oscar  Salazar Choque,oscar.salazar5@outlook.com,6819-3935,TJA,2023-03-21,"Bs 1.724,04"
+C11856,RAÚL GUTIÉRREZ SÁNCHEZ,RAUL.GUTIERREZ93@HOTMAIL.COM,+59161226653,SCZ,2025-07-30,486.74
+C11857,gabriela fernández mamani,GABRIELA.FERNANDEZ76@HOTMAIL.COM,(591) 7087 1164,LPZ,02.08.2023,403.85
+C11858,héctor fernández molina,hector.fernandez83@yahoo.com,75957877,tarija,23/06/2022,595.99
+C11859,PAOLA RIVERA PAREDES, paola.rivera32@outlook.com ,591-671-27961,Sta. Cruz,26/10/2023,"Bs 599,18"
+C11860,Diego  Flores Gutierrez,diego.flores64@gmail.com,6651-0092,Santa Cruz de la Sierra,21.03.2025,349.03
+C11861,HÉCTOR FERNÁNDEZ MAMANI,HECTOR.FERNANDEZ41@GMAIL.COM,+591 76997954,cbba,15.02.2025,2139.71
+C11862,Luis Arce Mendoza,LUIS.ARCE25@OUTLOOK.COM,6429-2290,SCZ,09/09/2025,1005.53
+C11863,ÓSCAR RAMÍREZ GUTIÉRREZ,OSCAR.RAMIREZ83@YAHOO.COM,+59177602986,Cbba.,13/04/2023,920.03
+C11864,Claudia Sanchez Choque,claudia.sanchez36@hotmail.com,+591 68836387,SUC,2025-01-17,"Bs 199,26"
+C11865,Verónica Rodríguez Ramírez,veronica.rodriguez52@gmail.com,61322230,Sta. Cruz,15.01.2023,"1.731,52"
+C11866,Miguel Mendoza Paredes,miguel.mendoza55@empresa.com.bo,6161-0088,la paz ,14.01.2025,350.39
+C11867, Paola Paredes Quispe ,,(591) 6936 5865,Cochabamba,2023-04-03,"Bs 490,67"
+C11868,Juan Salazar Gutierrez,juan.salazar34@hotmail.com,+59179904594,SUC,2024-06-25,223.42
+C11869,Paola Castro Arce,PAOLA.CASTRO47@EMPRESA.COM.BO,(591) 7821 2500,SCZ,18/03/2022,409.21
+C11870,Natalia  Rojas Suárez,NATALIA.ROJAS84@GMAIL.COM,(591) 7359 8582,LPZ,13/06/2022,629.15
+C11871, Verónica López Quispe ,veronica.lopez8@yahoo.com,+59177316359,LA PAZ,12/01/2023,"1.106,42"
+C11872,Daniela Pérez Torres,,+59171481601,Santa Cruz,2025-01-21,"Bs 561,37"
+C11873,Ivan Flores Choque,IVAN.FLORES42@GMAIL.COM,+591 76971198,SCZ,2025-08-26,"1,030.27"
+C11874,lucía castro choque,lucia.castro67@outlook.com,6329-1991,COCHABAMBA,2025-08-14,610.13
+C11875,Jose Gutierrez Flores,jose.gutierrez37@outlook.com,+59164688939,Sta. Cruz,10/05/2025,"626,22"
+C11876, ana gómez gómez ,ana.gomez88@gmail.com,70919203,Cbba.,10/02/2024,"5,020.67"
+C11877,diego vargas castro,diego.vargas37@yahoo.com,(591) 7856 2310,la paz ,22/01/2022,336.20
+C11878,Andres  Lopez Gomez,andres.lopez83@empresa.com.bo,(591) 7237 4898,Cbba.,2025-10-24,"484,43"
+C11879,Juan Arce Gomez,juan.arce16gmail.com,+59163309102,santa cruz,2022-05-07,"630,41"
+C11880,Rubén Mamani Quispe,ruben.mamani49@empresa.com.bo,75799041,la paz ,12.09.2022,251.42
+C11881,valeria salazar rojas,valeria.salazar31@hotmail.com,+59162647154,Santa Cruz de la Sierra,05.12.2023,"Bs 489,52"
+C11882,Rubén Mamani Torres,RUBEN.MAMANI59@YAHOO.COM,+59176556361,TJA,2024-10-19,"Bs 1.706,92"
+C11883,LUIS MARTÍNEZ TORRES,luis.martinez3@outlook.com,76616398,Cochabamba,28.10.2022,1495.66
+C11884,RUBÉN ROJAS TORRES,RUBEN.ROJAS92@YAHOO.COM,6697-8252,LPZ,17/09/2025,"2,500.45"
+C11885,ivan rojas rodriguez,ivan.rojas62@hotmail.com,+591 75209514,Santa Cruz,17/02/2025,675.18
+C11886,PAOLA ORTIZ SÁNCHEZ,paola.ortiz20@yahoo.com,6266-7655,LPZ,11/04/2022,"645,84"
+C11887,Claudia  Sánchez Rivera,claudia.sanchez13empresa.com.bo,(591) 7064 2872,Cbba.,2022-03-18,345.47
+C11888,andres  castro rojas,ANDRES.CASTRO84@OUTLOOK.COM,75625517,Santa Cruz,12/05/2022,"235,38"
+C11889, Luis Mendoza Ortiz ,LUIS.MENDOZA86@OUTLOOK.COM,591-623-15346,Cbba.,29/06/2024,994.29
+C11890,Claudia Molina Sanchez, claudia.molina47@outlook.com ,6693-1012,la paz ,20/05/2022,367.98
+C11891,ANA RIVERA FERNANDEZ,ana.rivera49@yahoo.com,+591 71827451,COCHABAMBA,24/05/2025,322.57
+C11892,CARLA GUTIÉRREZ TORRES,carla.gutierrez92@empresa.com.bo,6320-2671,LPZ,10/08/2024,232.20
+C11893,CAMILA  PÉREZ MARTÍNEZ,CAMILA.PEREZ65@HOTMAIL.COM,591-740-53199,La Paz,28/10/2024,"Bs 4.905,36"
+C11894,Lucia Arce Nunez, lucia.arce79@yahoo.com ,(591) 7805 8075,EL ALTO,16/11/2023,"Bs 995,06"
+C11895, Natalia  Perez Vargas ,natalia.perez4@yahoo.com,6709-9925,sucre,2023-06-30,"Bs 1.242,95"
+C11896,Daniela Ramirez Molina, daniela.ramirez32@gmail.com ,591-630-13408,Sucre,27/05/2024,197.35
+C11897,Gabriela Castro Gutierrez,GABRIELA.CASTRO90@OUTLOOK.COM,72566320,Cbba.,03.03.2023,1443.98
+C11898, MARÍA  GUTIÉRREZ PÉREZ ,MARIA.GUTIERREZ93@YAHOO.COM,+59171226635,sucre,2022-06-25,"Bs 1.158,02"
+C11899, CARLA  GOMEZ CASTRO ,,7694-8064,santa cruz,2023-09-05,353.53
+C11900,Camila Mamani Salazar,CAMILA.MAMANI70@EMPRESA.COM.BO,+59166242684,Cochabamba,2022-07-22,"2.919,30"
+C11901,Sofía Suárez Quispe,sofia.suarez66@empresa.com.bo,(591) 6084 6831,la paz ,17.01.2022,2274.15
+C11902,JORGE  PAREDES GUTIÉRREZ,JORGE.PAREDES16@OUTLOOK.COM,7678-0488,COCHABAMBA,20/01/2022,848.18
+C11903, Fernando  Perez Nunez ,fernando.perez12@outlook.com,6755-1780,sucre,2022-02-03,1708.41
+C11904,Carla Rodriguez Molina,,591-733-54899,la paz ,12.05.2024,816.32
+C11905,Elena Nunez Rojas,elena.nunez78@empresa.com.bo,6194-6974,La Paz,2024-09-16,"1.579,74"
+C11906,JUAN ROJAS MARTINEZ,juan.rojas43@yahoo.com,591-628-62356,Sta. Cruz,2025-03-19,"1.650,53"
+C11907,paola martínez torres,paola.martinez48yahoo.com,+591 66984260,LPZ,20/06/2022,"1,379.13"
+C11908,Miguel Ortiz Ortiz,miguel.ortiz68@gmail.com,+591 64290554,Cbba.,06.01.2024,"283,86"
+C11909,Hector Vargas Torres,hector.vargas86@empresa.com.bo,(591) 6206 4690,SCZ,27/07/2022,"Bs 558,37"
+C11910,hector molina flores,hector.molina13@outlook.com,591-617-38237,SCZ,2025-02-18,243.24
+C11911,Natalia Fernández Gómez,natalia.fernandez51@empresa.com.bo,7815-5567,Santa Cruz de la Sierra,25/09/2022,637.40
+C11912,ANDRÉS TORRES CHOQUE,andres.torres61@gmail.com,,TJA,11.10.2022,869.17
+C11913, Hector Rojas Rodriguez ,hector.rojas57@hotmail.com,+591 68694201,EL ALTO,18/02/2022,302.11
+C11914, MÓNICA LÓPEZ QUISPE ,MONICA.LOPEZ5@EMPRESA.COM.BO,75291271,santa cruz,18/06/2023,"1.098,29"
+C11915,Carla Perez Paredes,carla.perez36@gmail.com,6394-7904,Tarija,2023-04-30,"Bs 373,76"
+C11916,JUAN RIVERA RAMIREZ,juan.rivera56@yahoo.com,+59163386364,Sta. Cruz,10/01/2023,784.20
+C11917,ANA  MOLINA MARTINEZ,,67574269,LA PAZ,2022-07-02,"Bs 599,67"
+C11918,diego  sánchez gómez,diego.sanchez62@empresa.com.bo,+591 76868767,EL ALTO,30/08/2024,392.77
+C11919,Camila Salazar Paredes, camila.salazar45@hotmail.com ,591-715-24267,SCZ,29/12/2023,"Bs 643,88"
+C11920,hector castro torres,HECTOR.CASTRO4@HOTMAIL.COM,7468-1561,EL ALTO,2025-09-06,294.08
+C11921,natalia rojas castro,NATALIA.ROJAS51@EMPRESA.COM.BO,+591 73455247,Santa Cruz de la Sierra,15.07.2022,462.52
+C11922,Iván Gutiérrez Rodríguez,ivan.gutierrez31@yahoo.com,+59171270364,el alto,14/02/2023,1490.19
+C11923, Juan Mamani Sánchez ,juan.mamani97@gmail.com,+591 76087400,cbba,2024-04-04,"Bs 484,55"
+C11924, Ana Pérez Rodríguez ,ana.perez53@hotmail.com,+591 61485813,tarija,20.10.2025,765.27
+C11925,DIEGO TORRES QUISPE, diego.torres33@gmail.com ,+59166520270,Cochabamba,08/04/2024,852.31
+C11926,DIEGO ROJAS TORRES,diego.rojas92@hotmail.com,,Sta. Cruz,29/07/2025,"Bs 232,23"
+C11927,DANIELA  SALAZAR ARCE,daniela.salazar53@yahoo.com,+591 74373897,Cochabamba,2024-07-10,"271,16"
+C11928,lucía sánchez flores,lucia.sanchez7@outlook.com,,Sucre,14/10/2024,"Bs 613,23"
+C11929,Gabriela Rivera Choque,gabriela.rivera88@yahoo.com,+59164668125,la paz ,29.12.2024,"1,067.27"
+C11930,Andrés Quispe Arce,andres.quispe31@hotmail.com,6788-5863,El Alto,2023-12-02,"Bs 277,72"
+C11931,Óscar  Vargas Torres,OSCAR.VARGAS93@EMPRESA.COM.BO,66416337,el alto,04.09.2022,510.93
+C11932,GABRIELA  RODRÍGUEZ RODRÍGUEZ,gabriela.rodriguez49@hotmail.com,591-611-24357,la paz ,2024-10-26,1266.06
+C11933,Ana Choque López,ana.choque22@outlook.com,591-770-33369,tarija,2023-03-23,"Bs 968,43"
+C11934,Luis  Paredes Rodríguez,luis.paredes16@outlook.com,69398158,Cochabamba,2022-12-19,"321,86"
+C11935, MIGUEL  MENDOZA ARCE ,miguel.mendoza88@hotmail.com,(591) 6412 0819,EL ALTO,2024-09-23,"Bs 438,93"
+C11936,José  Rivera Vargas,JOSE.RIVERA37@EMPRESA.COM.BO,+591 70900503,la paz ,2024-08-11,"Bs 2.249,03"
+C11937, Valeria  Gómez Flores ,valeria.gomez34@gmail.com,72882651,EL ALTO,pendiente,"Bs 685,62"
+C11938, sofía castro núñez ,sofia.castro26@gmail.com,(591) 7623 6330,LA PAZ,09/06/2023,"Bs 353,25"
+C11939,PAOLA TORRES ORTIZ,paola.torres12@empresa.com,61757285,santa cruz,10.03.2025,"Bs 615,41"
+C11940,JORGE ORTIZ ROJAS,,591-700-60218,sucre,17.08.2024,"306,44"
+C11941,Daniela Ramírez Suárez,daniela.ramirez82@empresa.com.bo,(591) 7019 4850,santa cruz,24/09/2024,"1,393.03"
+C11942, Luis Torres Martínez ,luis.torres93@hotmail.com,7961-7092,Santa Cruz de la Sierra,2022-01-19,"Bs 791,04"
+C11943, Daniela  Fernández Quispe ,daniela.fernandez55@hotmail.com,(591) 6794 4097,SCZ,09/03/2025,1204.43
+C11944,Lucia Rivera Rojas,lucia.rivera18@hotmail.com,+591 69694612,santa cruz,2022-05-15,"420,06"
+C11945,MIGUEL PEREZ SALAZAR, miguel.perez21@hotmail.com ,71919365,Santa Cruz,2024-06-16,"1.344,41"
+C11946, Ruben  Flores Perez ,ruben.flores79@empresa.com.bo,6679-3219,Sta. Cruz,08/12/2022,946.33
+C11947, Ana Gomez Salazar ,,7487-4022,cbba,20/04/2024,198.38
+C11948,José  Gutiérrez Quispe,jose.gutierrez44@outlook.com,7626-2499,LPZ,2022-01-09,150.39
+C11949,raúl sánchez rodríguez,raul.sanchez84@empresa.com.bo,76174740,EL ALTO,2025-07-27,"1,246.38"
+C11950,Natalia Martínez Salazar, natalia.martinez65@hotmail.com ,+59174100618,COCHABAMBA,29/11/2024,855.42
+C11951,SEBASTIÁN SUÁREZ GÓMEZ,sebastian.suarez84@gmail.com,,La Paz,pendiente,1215.64
+C11952,Claudia Martínez Gómez,claudia.martinez44@yahoo.com,+591 60901042,cbba,2023-06-25,117.02
+C11953, Verónica Suárez Rodríguez ,veronica.suarez30empresa.com.bo,+591 67376045,LPZ,2022-07-02,"624,00"
+C11954, maría suárez gómez ,maria.suarez97@yahoo.com,,Sucre,19.01.2024,"1,548.04"
+C11955,Paola  Rojas Nunez,PAOLA.ROJAS89@HOTMAIL.COM,+59172056496,Santa Cruz,24/04/2024,241.78
+C11956,Andrés Ramírez Núñez,andres.ramirez16@empresa.com.bo,591-731-45396,Cbba.,01/06/2022,"Bs 1.510,08"
+C11957,Mónica Núñez Núñez,MONICA.NUNEZ47@GMAIL.COM,6921-0521,LA PAZ,13.02.2023,"Bs 995,65"
+C11958,Luis Flores Mendoza,LUIS.FLORES26@HOTMAIL.COM,78787427,El Alto,2025-01-08,872.10
+C11959,Juan  Pérez Ortiz,juan.perez65@empresa.com.bo,(591) 7659 9396,LPZ,2025-10-16,611.79
+C11960,gabriela ramírez ramírez,gabriela.ramirez36@yahoo.com,7366-0475,Santa Cruz de la Sierra,30.01.2022,422.84
+C11961, Sebastián Castro Ortiz ,SEBASTIAN.CASTRO25@EMPRESA.COM.BO,591-761-82355,santa cruz,18/06/2022,4082.41
+C11962,ana  castro choque,ana.castro34@hotmail.com,(591) 6954 4602,Sta. Cruz,21.08.2025,447.28
+C11963, LUIS  CHOQUE RIVERA ,LUIS.CHOQUE54@HOTMAIL.COM,(591) 7965 5358,LA PAZ,2023-02-02,"393,45"
+C11964,MARÍA SUÁREZ NÚÑEZ,maria.suarez35@yahoo.com,6058-5600,EL ALTO,2025-06-04,"1.558,68"
+C11965, RAUL  CHOQUE FERNANDEZ ,RAUL.CHOQUE49@OUTLOOK.COM,(591) 6995 2071,Santa Cruz,2022-05-23,"737,09"
+C11966,paola fernandez vargas,paola.fernandez3@hotmail,591-696-70015,Santa Cruz de la Sierra,18.01.2023,"1.229,65"
+C11967, Luis Sánchez Vargas ,LUIS.SANCHEZ20@GMAIL.COM,+59177329343,Sta. Cruz,13.06.2022,550.62
+C11968,DANIELA PAREDES PAREDES,daniela.paredes18@hotmail.com,+59177593898,la paz ,04/07/2024,"1.590,19"
+C11969,Ana Castro Paredes,ana.castro73@yahoo.com,(591) 7852 3845,Sta. Cruz,2025-04-18,"Bs 1.142,07"
+C11970,Juan Arce Choque,juan.arce41@hotmail.com,591-616-74817,LPZ,24.11.2023,512.34
+C11971, carla gutiérrez ortiz ,carla.gutierrez12@gmail.com,7939-5709,Santa Cruz,2024-07-21,"490,22"
+C11972,LUCÍA GÓMEZ FLORES,lucia.gomez88@empresa.com.bo,6763-7419,Sta. Cruz,2023-07-12,881.46
+C11973,Raúl  Ramírez Vargas,raul.ramirez1@outlook.com,64918362,santa cruz,10.04.2023,579.96
+C11974,VERONICA  FLORES ARCE,veronica.flores59@hotmail.com,6913-6138,Sta. Cruz,01/06/2025,838.64
+C11975,RICARDO SALAZAR PÉREZ,ricardo.salazar18@yahoo.com,+591 74491617,santa cruz,pendiente,931.80
+C11976,RUBÉN  FLORES ARCE,ruben.flores27@yahoo.com,+591 78867467,Sta. Cruz,21/05/2022,"2,559.12"
+C11977,Daniela Fernández Ramírez, daniela.fernandez30@outlook.com ,+591 74721419,EL ALTO,2022-08-03,"Bs 382,17"
+C11978,Elena Suarez Mendoza,elena.suarez24@yahoo.com,65342753,Santa Cruz,2024-04-16,"Bs 536,76"
+C11979,rubén rivera arce,ruben.rivera74@yahoo.com,(591) 6293 8937,Sucre,2025-02-01,619.62
+C11980,MÓNICA MOLINA GÓMEZ,monica.molina83@yahoo.com,591-711-41495,santa cruz,2023-01-16,"Bs 707,20"
+C11981, lucia martinez nunez ,lucia.martinez59@hotmail.com,(591) 6605 2922,TJA,2023-11-02,827.65
+C11982,Lucía Vargas Gutiérrez,LUCIA.VARGAS65@YAHOO.COM,6500-6619,SUC,2024-05-23,2441.90
+C11983,Natalia Ramírez Fernández,natalia.ramirez63@yahoo.com,(591) 7680 9961,la paz ,03/02/2025,654.66
+C11984,Iván Ortiz Rojas,ivan.ortiz48@yahoo.com,+59178444944,Santa Cruz de la Sierra,03.11.2022,"463,46"
+C11985,Fernando Torres Martínez,fernando.torres8@outlook.com,69741128,La Paz,13/10/2025,"Bs 256,20"
+C11986,Luis Gómez Ramírez,LUIS.GOMEZ86@GMAIL.COM,+591 71889598,cbba,2025-03-31,271.12
+C11987,sebastián paredes ramírez,sebastian.paredes49@yahoo,+591 65247647,SCZ,15.08.2022,"1,120.32"
+C11988,PAOLA  ARCE RODRIGUEZ,PAOLA.ARCE12@GMAIL.COM,63089802,SCZ,2025-05-27,"Bs 318,74"
+C11989, Elena Nunez Vargas ,elena.nunez96@outlook.com,6598-7300,COCHABAMBA,2024-10-05,642.82
+C11990, CAMILA ORTIZ TORRES ,camila.ortiz87@empresa.com.bo,(591) 6473 2038,Cochabamba,08/08/2023,479.65
+C11991,Andrés López Castro,andres.lopez23@outlook.com,+59170000330,Cbba.,2024-12-11,973.31
+C11992,Elena Mamani Molina,elena.mamani41@outlook.com,(591) 6449 9833,LA PAZ,2022-03-22,"119,52"
+C11993,verónica martínez pérez,veronica.martinez86@yahoo.com,64478118,Sucre,12/09/2022,161.26
+C11994,Claudia  Paredes Martínez,CLAUDIA.PAREDES4@YAHOO.COM,7806-3246,sucre,2023-01-21,629.16
+C11995,natalia fernandez sanchez, natalia.fernandez94@outlook.com ,(591) 7377 6905,La Paz,27/05/2023,"361,34"
+C11996,RUBÉN VARGAS PAREDES,ruben.vargas93@outlook.com,+591 69405785,cbba,20/06/2023,"Bs 571,68"
+C11997,CAMILA  MARTÍNEZ MOLINA,camila.martinez96@empresa.com.bo,6887-5778,sucre,2024-04-10,"Bs 298,02"
+C11998,IVÁN RODRÍGUEZ NÚÑEZ,ivan.rodriguez8@outlook,+591 61819746,EL ALTO,2023-04-06,"371,77"
+C11999,DANIELA  QUISPE FERNANDEZ,DANIELA.QUISPE19@HOTMAIL.COM,(591) 6547 7796,Santa Cruz,02.09.2025,1714.74
+C12000,Andres  Mendoza Torres,andres.mendoza12@empresa.com.bo,591-679-14749,el alto,2024-04-18,"Bs 692,22"
+C12001, Andrés  Gutiérrez Paredes ,andres.gutierrez48@yahoo.com,77952352,santa cruz,11/03/2022,"1,091.53"
+C12002,Raúl Quispe Arce,RAUL.QUISPE73@YAHOO.COM,+591 68440352,Sta. Cruz,2023-06-30,"Bs 797,05"
+C12003,Maria  Sanchez Arce,MARIA.SANCHEZ64@EMPRESA.COM.BO,591-693-85554,EL ALTO,04/01/2025,669.23
+C12004, ANDRÉS CASTRO GUTIÉRREZ ,andres.castro56@empresa.com.bo,+59168741702,La Paz,04.07.2022,"1,074.31"
+C12005,lucia  ramirez choque,lucia.ramirez92@yahoo.com,(591) 6194 9676,Santa Cruz,2022-10-03,971.85
+C12006,Óscar Quispe Vargas,oscar.quispe6@outlook.com,61085036,Sucre,2023-12-13,"558,03"
+C12007,CARLA GUTIÉRREZ SÁNCHEZ,carla.gutierrez84@outlook.com,+591 79362337,Santa Cruz de la Sierra,25.07.2022,"1.262,73"
+C12008,carla suárez núñez,carla.suarez97@hotmail.com,78790102,Sta. Cruz,2023-09-22,584.31
+C12009,DIEGO SUÁREZ SÁNCHEZ,diego.suarez37@hotmail.com,+59161576057,Tarija,16.04.2022,"1,154.60"
+C12010,Mónica Flores Rivera,MONICA.FLORES43@OUTLOOK.COM,76144262,TJA,2023-11-17,876.03
+C12011, ELENA RODRÍGUEZ RIVERA ,ELENA.RODRIGUEZ42@OUTLOOK.COM,(591) 6458 3440,santa cruz,2023-11-17,4020.53
+C12012,daniela rivera martínez,daniela.rivera39@hotmail,,LA PAZ,13/09/2023,259.58
+C12013,Iván Mamani Salazar,ivan.mamani65@outlook.com,+59162859937,Sta. Cruz,2025-05-02,"1.130,20"
+C12014,camila lópez ramírez,camila.lopez7@hotmail.com,591-667-91311,LPZ,2022-03-09,879.67
+C12015,Luis Rodríguez Quispe,luis.rodriguez32@outlook.com,(591) 7863 8633,la paz ,2025-02-12,"Bs 337,41"

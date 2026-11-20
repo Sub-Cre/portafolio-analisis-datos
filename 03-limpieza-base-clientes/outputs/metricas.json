@@ -1,0 +1,35 @@
+{
+  "registros_entrada": 2016,
+  "clientes_unicos": 1798,
+  "duplicados_fusionados": 218,
+  "grupos_con_duplicados": 217,
+  "registros_a_revisar": 56,
+  "calidad_antes_pct": 37.4,
+  "calidad_despues_pct": 97.1,
+  "calidad_por_campo": {
+    "Nombre": {
+      "antes": 34.2,
+      "despues": 100.0
+    },
+    "Email": {
+      "antes": 60.7,
+      "despues": 90.2
+    },
+    "Teléfono": {
+      "antes": 15.4,
+      "despues": 95.2
+    },
+    "Ciudad": {
+      "antes": 26.4,
+      "despues": 100.0
+    },
+    "Fecha": {
+      "antes": 42.0,
+      "despues": 97.4
+    },
+    "Monto": {
+      "antes": 45.7,
+      "despues": 100.0
+    }
+  }
+}
